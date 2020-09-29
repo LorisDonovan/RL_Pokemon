@@ -362,3 +362,10 @@ MigrationBackup/
 
 # Local History for Visual Studio Code
 .history/
+
+
+#local files
+bin/
+bin-int/
+!vendor/bin/premake/
+!RL_Pokemon/dependencies/
