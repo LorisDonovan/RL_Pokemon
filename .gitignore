@@ -364,8 +364,14 @@ MigrationBackup/
 .history/
 
 
-#local files
+
+# local binaries
 bin/
 bin-int/
-!vendor/bin/premake/
-!RL_Pokemon/dependencies/
+
+# Visual Studio files and folder
+.vs/
+**.sln
+**.vcxproj
+**.vcxproj.filters
+**.vcxproj.user
