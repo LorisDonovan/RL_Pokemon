@@ -34,8 +34,8 @@ project "RL_Pokemon"
 	targetdir("bin/" ..outputdir.. "/%{prj.name}")
 	objdir("bin-int/" ..outputdir.. "/%{prj.name}")
 
-	--TODO: Add pch files 
-	--pchheader .....
+	pchheader "pch.h"
+	pchsource "RL_Pokemon/src/pch.cpp"
 
 	files
 	{

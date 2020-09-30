@@ -1,6 +1,4 @@
-// we will probably include standard headers in a precompiled header
-#include "torch/torch.h"
-#include <iostream>
+#include "pch.h"
 
 int main(int argc, char* argv[])
 {
