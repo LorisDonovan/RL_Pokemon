@@ -2,9 +2,8 @@
 #include "ReplayMemory.h"
 
 
-
 ReplayMemory::ReplayMemory(uint64_t capacity, uint32_t batchSize, uint32_t numStates, torch::Device device)
-	:_Capacity(capacity), _NumStates(numStates), _Device(device), _Generator(0)
+	:_Capacity(capacity), _NumStates(numStates), _Device(device), _Generator((std::random_device())())
 {
 }
 
