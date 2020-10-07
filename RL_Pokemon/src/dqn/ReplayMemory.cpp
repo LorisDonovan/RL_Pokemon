@@ -17,7 +17,7 @@ void ReplayMemory::Push(Experience& exp)
 	else
 		_Memory.insert(_Memory.begin() + (_PushCount % _Capacity), exp);
 	
-	std::cout << "Pushed to: " << _PushCount % _Capacity << std::endl;
+	//std::cout << "Pushed to: " << _PushCount % _Capacity << std::endl;
 	_PushCount++;
 }
 

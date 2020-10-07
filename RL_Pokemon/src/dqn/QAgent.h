@@ -19,7 +19,7 @@ private:
 
 	// Random Number Generator
 	std::mt19937 _Generator;
-	std::uniform_real_distribution<double> _RandomNum; // generate random num [0, 1) from uniform distribution
+	std::uniform_real_distribution<float> _RandomNum; // generate random num [0, 1) from uniform distribution
 	
 	// for epsilon greedy strategy
 	float _Start, _End, _DecayRate;

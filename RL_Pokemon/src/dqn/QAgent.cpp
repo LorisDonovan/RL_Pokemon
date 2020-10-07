@@ -11,20 +11,20 @@ QAgent::QAgent(uint32_t numActions, torch::Device device, float start, float end
 
 torch::Tensor QAgent::SelectAction(torch::Tensor& state, Dqnet policyNet)
 {
-	double epsilon = GetExplorationRate();
+	float epsilon = GetExplorationRate();
 	_CurrentStep++;
-	std::cout << "Exploration Rate = " << epsilon << "\tCurrent Step = " << _CurrentStep << std::endl;
+	//std::cout << "Exploration Rate = " << epsilon << "\tCurrent Step = " << _CurrentStep << std::endl;
 	if (epsilon > _RandomNum(_Generator)) // explore
 	{
 		torch::Tensor action = torch::randint(0, _NumActions, {1}, _Device);
-		std::cout << "Random action = " << action.item<int32_t>() << std::endl;
+		//std::cout << "Random action = " << action.item<int32_t>() << std::endl;
 		return action;
 	}
 	else // exploit
 	{
 		torch::NoGradGuard noGrad;
 		torch::Tensor action = policyNet->forward(state).argmax(1).to(_Device);
-		std::cout << "Policy action = " << action.item<int32_t>() << std::endl;
+		//std::cout << "Policy action = " << action.item<int32_t>() << std::endl;
 		return action;
 	}
 
