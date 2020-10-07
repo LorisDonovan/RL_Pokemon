@@ -26,7 +26,7 @@ class ReplayMemory
 {
 public:
 	ReplayMemory() = default;
-	ReplayMemory(uint64_t capacity, uint32_t batchSize, uint32_t numStates, torch::Device device);
+	ReplayMemory(uint64_t capacity, uint32_t batchSize, uint32_t numStates, torch::Device device = torch::kCPU);
 
 	void Push(Experience& exp); // or use std::move // overload
 	Experience Sample(uint32_t batchSize);
