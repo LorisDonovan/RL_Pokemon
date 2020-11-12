@@ -6,43 +6,94 @@ import pandas as pd
 from bs4 import BeautifulSoup as bs
 
 
-df_raw = pd.read_csv("../dependencies/pokemon.csv", nrows=166)
-features = ['#', 'Name', 'Type 1', 'Type 2', 'HP', 'Attack', 'Defense', 'Sp. Atk', 'Sp. Def', 'Speed']
-df_pruned = df_raw[features]
-for idx, row in df_pruned.iterrows():
-    if 'Mega ' in row.Name:
-        df_pruned = df_pruned.drop(idx, axis=0)
-df_pruned = df_pruned.set_index('#')
-df_pruned.to_csv("../dependencies/gen1.csv")
+def get_pokemon_gen1():
+    df_raw = pd.read_csv("../dependencies/pokemon.csv", nrows=166)
+    features = ['#', 'Name', 'Type 1', 'Type 2', 'HP', 'Attack', 'Defense', 'Sp. Atk', 'Sp. Def', 'Speed']
+    df_pruned = df_raw[features]
+    for idx, row in df_pruned.iterrows():
+        if 'Mega ' in row.Name:
+            df_pruned = df_pruned.drop(idx, axis=0)
+    df_pruned = df_pruned.set_index('#')
+    df_pruned.to_csv("../dependencies/gen1.csv")
 
 
-url = "https://pokemondb.net/move/generation/1"
-physicals = ["Normal", "Fighting", "Flying", "Poison", "Ground", "Rock", "Bug", "Ghost", "Steel"]
-specials = ["Fire", "Water", "Grass", "Electric", "Psychic", "Ice", "Dragon", "Dark"]
+def get_moves():
+    df_pokemon = pd.read_csv('../dependencies/gen1.csv')
+    url_head = 'https://bulbapedia.bulbagarden.net/wiki/'
+    url_tail = '_(Pok%C3%A9mon)/Generation_I_learnset#By_leveling_up'
+    header = ['Move', 'Type', 'Power', 'Accuracy', 'PP', 'Pokemon']
+    rows = []
 
-with requests.get(url) as response:
-    soup = bs(response.text, "html.parser")
+    for name in df_pokemon['Name']:
+        url = url_head + name + url_tail     
 
-rows = []
-row = []
+        with requests.get(url) as response:
+            soup = bs(response.text, "html.parser")
+        tables = soup.find_all('table')
 
-for tr in soup.find_all("tr"):
-    for td in tr.find_all("td"):
-        if td.string:
-            row.append(td.string)
-        else:
-            row.append(" ")
-    rows.append(row)
+        rows += level_moves(tables[3], name)
+        rows += tm_moves(tables[4], name)
+        
+    df_moves = pd.DataFrame(rows, columns=header) 
+    df_moves.to_csv('../dependencies/gen1_moves.csv')
+
+
+def clean_row(row):
     try:
-        row[2] = (row[3] != "—") * (1 * row[1] in physicals) - (1 * row[1] in specials)
+        row[2] = re.sub(r'—+', '0', row[2])
+        row[3] = re.sub(r'[—*}*%*]+', '', row[3])
+        row[3] = '0' + row[3]
+        row[2:5] = [int(row[i]) for i in range(2, 5)]
     except:
-        pass
-    row = []
-row = row[1:]
+        print(row)
+        return None
+        
+    return row
 
-header = [i.string for i in soup.find("tr").contents if i!=" " and i!="\n"]
 
-with io.open("../dependencies/moves.csv", 'w', newline="", encoding='utf-8') as file:
-    writer = csv.writer(file)
-    writer.writerow(header)
-    writer.writerows(rows)
+def level_moves(table, name):
+    rows = []
+    for tr in table.find_all('tr')[1:]:
+        row = []
+        children = list(tr.children)
+
+        if len(children)==12:
+            children = children[3::2]
+        elif len(children)==14:
+            children = children[5::2]
+        else:
+            continue
+
+        for child in children:
+            if child.span:
+                child = child.span
+            row.append(child.text.strip())
+        row.append(name)
+        row = clean_row(row)
+        if row:
+            rows.append(row)
+
+    return rows
+
+
+def tm_moves(table, name):
+    rows = []
+    for tr in table.find_all('tr')[5:]:
+        row = []
+        children = list(tr.children)
+        if len(children)<14:
+            continue
+        children = children[5::2]
+
+        for child in children:
+            if child.span:
+                child = child.span
+            row.append(child.text.strip())
+        row.append(name)
+        row = clean_row(row)
+        rows.append(row)
+
+    return rows
+
+
+get_moves()

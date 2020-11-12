@@ -1,0 +1,4171 @@
+,Move,Type,Power,Accuracy,PP,Pokemon
+0,Tackle,Normal,35,95,35,Bulbasaur
+1,Growl,Normal,0,100,40,Bulbasaur
+2,Leech Seed,Grass,0,90,10,Bulbasaur
+3,Vine Whip,Grass,35,100,10,Bulbasaur
+4,PoisonPowder,Poison,0,75,35,Bulbasaur
+5,Razor Leaf,Grass,55,95,25,Bulbasaur
+6,Growth,Normal,0,0,40,Bulbasaur
+7,Sleep Powder,Grass,0,75,15,Bulbasaur
+8,SolarBeam,Grass,120,100,10,Bulbasaur
+9,Swords Dance,Normal,0,0,30,Bulbasaur
+10,Toxic,Poison,0,85,10,Bulbasaur
+11,Body Slam,Normal,85,100,15,Bulbasaur
+12,Take Down,Normal,90,85,20,Bulbasaur
+13,Double-Edge,Normal,100,100,15,Bulbasaur
+14,Rage,Normal,20,100,20,Bulbasaur
+15,Mega Drain,Grass,40,100,10,Bulbasaur
+16,SolarBeam,Grass,120,100,10,Bulbasaur
+17,Mimic,Normal,0,100,10,Bulbasaur
+18,Double Team,Normal,0,0,15,Bulbasaur
+19,Reflect,Psychic,0,0,20,Bulbasaur
+20,Bide,Normal,0,0,10,Bulbasaur
+21,Rest,Psychic,0,0,10,Bulbasaur
+22,Substitute,Normal,0,0,10,Bulbasaur
+23,Cut,Normal,50,95,30,Bulbasaur
+24,Tackle,Normal,35,95,35,Ivysaur
+25,Growl,Normal,0,100,40,Ivysaur
+26,Leech Seed,Grass,0,90,10,Ivysaur
+27,Leech Seed,Grass,0,90,10,Ivysaur
+28,Vine Whip,Grass,35,100,10,Ivysaur
+29,PoisonPowder,Poison,0,75,35,Ivysaur
+30,Razor Leaf,Grass,55,95,25,Ivysaur
+31,Growth,Normal,0,0,40,Ivysaur
+32,Sleep Powder,Grass,0,75,15,Ivysaur
+33,SolarBeam,Grass,120,100,10,Ivysaur
+34,Swords Dance,Normal,0,0,30,Ivysaur
+35,Toxic,Poison,0,85,10,Ivysaur
+36,Body Slam,Normal,85,100,15,Ivysaur
+37,Take Down,Normal,90,85,20,Ivysaur
+38,Double-Edge,Normal,100,100,15,Ivysaur
+39,Rage,Normal,20,100,20,Ivysaur
+40,Mega Drain,Grass,40,100,10,Ivysaur
+41,SolarBeam,Grass,120,100,10,Ivysaur
+42,Mimic,Normal,0,100,10,Ivysaur
+43,Double Team,Normal,0,0,15,Ivysaur
+44,Reflect,Psychic,0,0,20,Ivysaur
+45,Bide,Normal,0,0,10,Ivysaur
+46,Rest,Psychic,0,0,10,Ivysaur
+47,Substitute,Normal,0,0,10,Ivysaur
+48,Cut,Normal,50,95,30,Ivysaur
+49,Tackle,Normal,35,95,35,Venusaur
+50,Growl,Normal,0,100,40,Venusaur
+51,Leech Seed,Grass,0,90,10,Venusaur
+52,Vine Whip,Grass,35,100,10,Venusaur
+53,Leech Seed,Grass,0,90,10,Venusaur
+54,Vine Whip,Grass,35,100,10,Venusaur
+55,PoisonPowder,Poison,0,75,35,Venusaur
+56,Razor Leaf,Grass,55,95,25,Venusaur
+57,Growth,Normal,0,0,40,Venusaur
+58,Sleep Powder,Grass,0,75,15,Venusaur
+59,SolarBeam,Grass,120,100,10,Venusaur
+60,Swords Dance,Normal,0,0,30,Venusaur
+61,Toxic,Poison,0,85,10,Venusaur
+62,Body Slam,Normal,85,100,15,Venusaur
+63,Take Down,Normal,90,85,20,Venusaur
+64,Double-Edge,Normal,100,100,15,Venusaur
+65,Hyper Beam,Normal,150,90,5,Venusaur
+66,Rage,Normal,20,100,20,Venusaur
+67,Mega Drain,Grass,40,100,10,Venusaur
+68,SolarBeam,Grass,120,100,10,Venusaur
+69,Mimic,Normal,0,100,10,Venusaur
+70,Double Team,Normal,0,0,15,Venusaur
+71,Reflect,Psychic,0,0,20,Venusaur
+72,Bide,Normal,0,0,10,Venusaur
+73,Rest,Psychic,0,0,10,Venusaur
+74,Substitute,Normal,0,0,10,Venusaur
+75,Cut,Normal,50,95,30,Venusaur
+76,Scratch,Normal,40,100,35,Charmander
+77,Growl,Normal,0,100,40,Charmander
+78,Ember,Fire,40,100,25,Charmander
+79,Leer,Normal,0,100,30,Charmander
+80,Rage,Normal,20,100,20,Charmander
+81,Slash,Normal,70,100,20,Charmander
+82,Flamethrower,Fire,95,100,15,Charmander
+83,Fire Spin,Fire,15,70,15,Charmander
+84,Mega Punch,Normal,80,85,20,Charmander
+85,Swords Dance,Normal,0,0,30,Charmander
+86,Mega Kick,Normal,120,75,5,Charmander
+87,Toxic,Poison,0,85,10,Charmander
+88,Body Slam,Normal,85,100,15,Charmander
+89,Take Down,Normal,90,85,20,Charmander
+90,Double-Edge,Normal,100,100,15,Charmander
+91,Submission,Fighting,80,80,25,Charmander
+92,Counter,Fighting,0,100,20,Charmander
+93,Seismic Toss,Fighting,0,100,20,Charmander
+94,Rage,Normal,20,100,20,Charmander
+95,Dragon Rage,Dragon,0,100,10,Charmander
+96,Dig,Ground,100,100,10,Charmander
+97,Mimic,Normal,0,100,10,Charmander
+98,Double Team,Normal,0,0,15,Charmander
+99,Reflect,Psychic,0,0,20,Charmander
+100,Bide,Normal,0,0,10,Charmander
+101,Fire Blast,Fire,120,85,5,Charmander
+102,Swift,Normal,60,0,20,Charmander
+103,Skull Bash,Normal,100,100,15,Charmander
+104,Rest,Psychic,0,0,10,Charmander
+105,Substitute,Normal,0,0,10,Charmander
+106,Cut,Normal,50,95,30,Charmander
+107,Strength,Normal,80,100,15,Charmander
+108,Scratch,Normal,40,100,35,Charmeleon
+109,Growl,Normal,0,100,40,Charmeleon
+110,Ember,Fire,40,100,25,Charmeleon
+111,Ember,Fire,40,100,25,Charmeleon
+112,Leer,Normal,0,100,30,Charmeleon
+113,Rage,Normal,20,100,20,Charmeleon
+114,Slash,Normal,70,100,20,Charmeleon
+115,Flamethrower,Fire,95,100,15,Charmeleon
+116,Fire Spin,Fire,15,70,15,Charmeleon
+117,Mega Punch,Normal,80,85,20,Charmeleon
+118,Swords Dance,Normal,0,0,30,Charmeleon
+119,Mega Kick,Normal,120,75,5,Charmeleon
+120,Toxic,Poison,0,85,10,Charmeleon
+121,Body Slam,Normal,85,100,15,Charmeleon
+122,Take Down,Normal,90,85,20,Charmeleon
+123,Double-Edge,Normal,100,100,15,Charmeleon
+124,Submission,Fighting,80,80,25,Charmeleon
+125,Counter,Fighting,0,100,20,Charmeleon
+126,Seismic Toss,Fighting,0,100,20,Charmeleon
+127,Rage,Normal,20,100,20,Charmeleon
+128,Dragon Rage,Dragon,0,100,10,Charmeleon
+129,Dig,Ground,100,100,10,Charmeleon
+130,Mimic,Normal,0,100,10,Charmeleon
+131,Double Team,Normal,0,0,15,Charmeleon
+132,Reflect,Psychic,0,0,20,Charmeleon
+133,Bide,Normal,0,0,10,Charmeleon
+134,Fire Blast,Fire,120,85,5,Charmeleon
+135,Swift,Normal,60,0,20,Charmeleon
+136,Skull Bash,Normal,100,100,15,Charmeleon
+137,Rest,Psychic,0,0,10,Charmeleon
+138,Substitute,Normal,0,0,10,Charmeleon
+139,Cut,Normal,50,95,30,Charmeleon
+140,Strength,Normal,80,100,15,Charmeleon
+141,Scratch,Normal,40,100,35,Charizard
+142,Growl,Normal,0,100,40,Charizard
+143,Ember,Fire,40,100,25,Charizard
+144,Leer,Normal,0,100,30,Charizard
+145,Ember,Fire,40,100,25,Charizard
+146,Leer,Normal,0,100,30,Charizard
+147,Rage,Normal,20,100,20,Charizard
+148,Slash,Normal,70,100,20,Charizard
+149,Flamethrower,Fire,95,100,15,Charizard
+150,Fire Spin,Fire,15,70,15,Charizard
+151,Mega Punch,Normal,80,85,20,Charizard
+152,Swords Dance,Normal,0,0,30,Charizard
+153,Mega Kick,Normal,120,75,5,Charizard
+154,Toxic,Poison,0,85,10,Charizard
+155,Body Slam,Normal,85,100,15,Charizard
+156,Take Down,Normal,90,85,20,Charizard
+157,Double-Edge,Normal,100,100,15,Charizard
+158,Hyper Beam,Normal,150,90,5,Charizard
+159,Submission,Fighting,80,80,25,Charizard
+160,Counter,Fighting,0,100,20,Charizard
+161,Seismic Toss,Fighting,0,100,20,Charizard
+162,Rage,Normal,20,100,20,Charizard
+163,Dragon Rage,Dragon,0,100,10,Charizard
+164,Earthquake,Ground,100,100,10,Charizard
+165,Fissure,Ground,0,30,5,Charizard
+166,Dig,Ground,100,100,10,Charizard
+167,Mimic,Normal,0,100,10,Charizard
+168,Double Team,Normal,0,0,15,Charizard
+169,Reflect,Psychic,0,0,20,Charizard
+170,Bide,Normal,0,0,10,Charizard
+171,Fire Blast,Fire,120,85,5,Charizard
+172,Swift,Normal,60,0,20,Charizard
+173,Skull Bash,Normal,100,100,15,Charizard
+174,Rest,Psychic,0,0,10,Charizard
+175,Substitute,Normal,0,0,10,Charizard
+176,Cut,Normal,50,95,30,Charizard
+177,Fly,Flying,70,95,15,Charizard
+178,Strength,Normal,80,100,15,Charizard
+179,Tackle,Normal,35,95,35,Squirtle
+180,Tail Whip,Normal,0,100,30,Squirtle
+181,Bubble,Water,20,100,30,Squirtle
+182,Water Gun,Water,40,100,25,Squirtle
+183,Bite,Normal,60,100,25,Squirtle
+184,Withdraw,Water,0,0,40,Squirtle
+185,Skull Bash,Normal,100,100,15,Squirtle
+186,Hydro Pump,Water,120,80,5,Squirtle
+187,Mega Punch,Normal,80,85,20,Squirtle
+188,Mega Kick,Normal,120,75,5,Squirtle
+189,Toxic,Poison,0,85,10,Squirtle
+190,Body Slam,Normal,85,100,15,Squirtle
+191,Take Down,Normal,90,85,20,Squirtle
+192,Double-Edge,Normal,100,100,15,Squirtle
+193,BubbleBeam,Water,65,100,20,Squirtle
+194,Water Gun,Water,40,100,25,Squirtle
+195,Ice Beam,Ice,95,100,10,Squirtle
+196,Blizzard,Ice,120,90,5,Squirtle
+197,Submission,Fighting,80,80,25,Squirtle
+198,Counter,Fighting,0,100,20,Squirtle
+199,Seismic Toss,Fighting,0,100,20,Squirtle
+200,Rage,Normal,20,100,20,Squirtle
+201,Dig,Ground,100,100,10,Squirtle
+202,Mimic,Normal,0,100,10,Squirtle
+203,Double Team,Normal,0,0,15,Squirtle
+204,Reflect,Psychic,0,0,20,Squirtle
+205,Bide,Normal,0,0,10,Squirtle
+206,Skull Bash,Normal,100,100,15,Squirtle
+207,Rest,Psychic,0,0,10,Squirtle
+208,Substitute,Normal,0,0,10,Squirtle
+209,Surf,Water,95,100,15,Squirtle
+210,Strength,Normal,80,100,15,Squirtle
+211,Tackle,Normal,35,95,35,Wartortle
+212,Tail Whip,Normal,0,100,30,Wartortle
+213,Bubble,Water,20,100,30,Wartortle
+214,Bubble,Water,20,100,30,Wartortle
+215,Water Gun,Water,40,100,25,Wartortle
+216,Bite,Normal,60,100,25,Wartortle
+217,Withdraw,Water,0,0,40,Wartortle
+218,Skull Bash,Normal,100,100,15,Wartortle
+219,Hydro Pump,Water,120,80,5,Wartortle
+220,Mega Punch,Normal,80,85,20,Wartortle
+221,Mega Kick,Normal,120,75,5,Wartortle
+222,Toxic,Poison,0,85,10,Wartortle
+223,Body Slam,Normal,85,100,15,Wartortle
+224,Take Down,Normal,90,85,20,Wartortle
+225,Double-Edge,Normal,100,100,15,Wartortle
+226,BubbleBeam,Water,65,100,20,Wartortle
+227,Water Gun,Water,40,100,25,Wartortle
+228,Ice Beam,Ice,95,100,10,Wartortle
+229,Blizzard,Ice,120,90,5,Wartortle
+230,Submission,Fighting,80,80,25,Wartortle
+231,Counter,Fighting,0,100,20,Wartortle
+232,Seismic Toss,Fighting,0,100,20,Wartortle
+233,Rage,Normal,20,100,20,Wartortle
+234,Dig,Ground,100,100,10,Wartortle
+235,Mimic,Normal,0,100,10,Wartortle
+236,Double Team,Normal,0,0,15,Wartortle
+237,Reflect,Psychic,0,0,20,Wartortle
+238,Bide,Normal,0,0,10,Wartortle
+239,Skull Bash,Normal,100,100,15,Wartortle
+240,Rest,Psychic,0,0,10,Wartortle
+241,Substitute,Normal,0,0,10,Wartortle
+242,Surf,Water,95,100,15,Wartortle
+243,Strength,Normal,80,100,15,Wartortle
+244,Tackle,Normal,35,95,35,Blastoise
+245,Tail Whip,Normal,0,100,30,Blastoise
+246,Bubble,Water,20,100,30,Blastoise
+247,Water Gun,Water,40,100,25,Blastoise
+248,Bubble,Water,20,100,30,Blastoise
+249,Water Gun,Water,40,100,25,Blastoise
+250,Bite,Normal,60,100,25,Blastoise
+251,Withdraw,Water,0,0,40,Blastoise
+252,Skull Bash,Normal,100,100,15,Blastoise
+253,Hydro Pump,Water,120,80,5,Blastoise
+254,Mega Punch,Normal,80,85,20,Blastoise
+255,Mega Kick,Normal,120,75,5,Blastoise
+256,Toxic,Poison,0,85,10,Blastoise
+257,Body Slam,Normal,85,100,15,Blastoise
+258,Take Down,Normal,90,85,20,Blastoise
+259,Double-Edge,Normal,100,100,15,Blastoise
+260,BubbleBeam,Water,65,100,20,Blastoise
+261,Water Gun,Water,40,100,25,Blastoise
+262,Ice Beam,Ice,95,100,10,Blastoise
+263,Blizzard,Ice,120,90,5,Blastoise
+264,Hyper Beam,Normal,150,90,5,Blastoise
+265,Submission,Fighting,80,80,25,Blastoise
+266,Counter,Fighting,0,100,20,Blastoise
+267,Seismic Toss,Fighting,0,100,20,Blastoise
+268,Rage,Normal,20,100,20,Blastoise
+269,Earthquake,Ground,100,100,10,Blastoise
+270,Fissure,Ground,0,30,5,Blastoise
+271,Dig,Ground,100,100,10,Blastoise
+272,Mimic,Normal,0,100,10,Blastoise
+273,Double Team,Normal,0,0,15,Blastoise
+274,Reflect,Psychic,0,0,20,Blastoise
+275,Bide,Normal,0,0,10,Blastoise
+276,Skull Bash,Normal,100,100,15,Blastoise
+277,Rest,Psychic,0,0,10,Blastoise
+278,Substitute,Normal,0,0,10,Blastoise
+279,Surf,Water,95,100,15,Blastoise
+280,Strength,Normal,80,100,15,Blastoise
+281,Tackle,Normal,35,95,35,Caterpie
+282,String Shot,Bug,0,95,40,Caterpie
+283,Harden,Normal,0,101,30,Metapod
+284,Harden,Normal,0,101,30,Metapod
+285,Confusion,Psychic,50,100,25,Butterfree
+286,Confusion,Psychic,50,100,25,Butterfree
+287,PoisonPowder,Poison,0,75,35,Butterfree
+288,Stun Spore,Grass,0,75,30,Butterfree
+289,Sleep Powder,Grass,0,75,15,Butterfree
+290,Supersonic,Normal,0,55,20,Butterfree
+291,Whirlwind,Normal,0,85,20,Butterfree
+292,Gust,Normal,40,100,35,Butterfree
+293,Psybeam,Psychic,65,100,20,Butterfree
+294,Razor Wind,Normal,80,75,10,Butterfree
+295,Whirlwind,Normal,0,85,20,Butterfree
+296,Toxic,Poison,0,85,10,Butterfree
+297,Take Down,Normal,90,85,20,Butterfree
+298,Double-Edge,Normal,100,100,15,Butterfree
+299,Hyper Beam,Normal,150,90,5,Butterfree
+300,Rage,Normal,20,100,20,Butterfree
+301,Mega Drain,Grass,40,100,10,Butterfree
+302,SolarBeam,Grass,120,100,10,Butterfree
+303,Psychic,Psychic,90,100,10,Butterfree
+304,Teleport,Psychic,0,0,20,Butterfree
+305,Mimic,Normal,0,100,10,Butterfree
+306,Double Team,Normal,0,0,15,Butterfree
+307,Reflect,Psychic,0,0,20,Butterfree
+308,Bide,Normal,0,0,10,Butterfree
+309,Swift,Normal,60,0,20,Butterfree
+310,Rest,Psychic,0,0,10,Butterfree
+311,Psywave,Psychic,0,80,15,Butterfree
+312,Substitute,Normal,0,0,10,Butterfree
+313,Flash,Normal,0,70,20,Butterfree
+314,Poison Sting,Poison,15,100,35,Weedle
+315,String Shot,Bug,0,95,40,Weedle
+316,Harden,Normal,0,0,30,Kakuna
+317,Fury Attack,Normal,15,85,20,Beedrill
+318,Fury Attack,Normal,15,85,20,Beedrill
+319,Focus Energy,Normal,0,0,30,Beedrill
+320,Twineedle,Bug,25,100,20,Beedrill
+321,Rage,Normal,20,100,20,Beedrill
+322,Pin Missile,Bug,14,85,20,Beedrill
+323,Agility,Psychic,0,0,30,Beedrill
+324,Swords Dance,Normal,0,0,30,Beedrill
+325,Toxic,Poison,0,85,10,Beedrill
+326,Take Down,Normal,90,85,20,Beedrill
+327,Double-Edge,Normal,100,100,15,Beedrill
+328,Hyper Beam,Normal,150,90,5,Beedrill
+329,Rage,Normal,20,100,20,Beedrill
+330,Mega Drain,Grass,40,100,10,Beedrill
+331,Mimic,Normal,0,100,10,Beedrill
+332,Double Team,Normal,0,0,15,Beedrill
+333,Reflect,Psychic,0,0,20,Beedrill
+334,Bide,Normal,0,0,10,Beedrill
+335,Swift,Normal,60,0,20,Beedrill
+336,Skull Bash,Normal,100,100,15,Beedrill
+337,Rest,Psychic,0,0,10,Beedrill
+338,Substitute,Normal,0,0,10,Beedrill
+339,Cut,Normal,50,95,30,Beedrill
+340,Gust,Normal,40,100,35,Pidgey
+341,Sand-Attack,Normal,0,100,15,Pidgey
+342,Quick Attack,Normal,40,100,30,Pidgey
+343,Whirlwind,Normal,0,85,20,Pidgey
+344,Wing Attack,Flying,35,100,35,Pidgey
+345,Agility,Psychic,0,0,30,Pidgey
+346,Mirror Move,Flying,0,0,20,Pidgey
+347,Razor Wind,Normal,80,75,10,Pidgey
+348,Whirlwind,Normal,0,85,20,Pidgey
+349,Toxic,Poison,0,85,10,Pidgey
+350,Take Down,Normal,90,85,20,Pidgey
+351,Double-Edge,Normal,100,100,15,Pidgey
+352,Rage,Normal,20,100,20,Pidgey
+353,Mimic,Normal,0,100,10,Pidgey
+354,Double Team,Normal,0,0,15,Pidgey
+355,Reflect,Psychic,0,0,20,Pidgey
+356,Bide,Normal,0,0,10,Pidgey
+357,Swift,Normal,60,0,20,Pidgey
+358,Sky Attack,Flying,140,90,5,Pidgey
+359,Rest,Psychic,0,0,10,Pidgey
+360,Substitute,Normal,0,0,10,Pidgey
+361,Fly,Flying,70,95,15,Pidgey
+362,Gust,Normal,40,100,35,Pidgeotto
+363,Sand-Attack,Normal,0,100,15,Pidgeotto
+364,Sand-Attack,Normal,0,100,15,Pidgeotto
+365,Quick Attack,Normal,40,100,30,Pidgeotto
+366,Whirlwind,Normal,0,85,20,Pidgeotto
+367,Wing Attack,Flying,35,100,35,Pidgeotto
+368,Agility,Psychic,0,0,30,Pidgeotto
+369,Mirror Move,Flying,0,0,20,Pidgeotto
+370,Razor Wind,Normal,80,75,10,Pidgeotto
+371,Whirlwind,Normal,0,85,20,Pidgeotto
+372,Toxic,Poison,0,85,10,Pidgeotto
+373,Take Down,Normal,90,85,20,Pidgeotto
+374,Double-Edge,Normal,100,100,15,Pidgeotto
+375,Rage,Normal,20,100,20,Pidgeotto
+376,Mimic,Normal,0,100,10,Pidgeotto
+377,Double Team,Normal,0,0,15,Pidgeotto
+378,Reflect,Psychic,0,0,20,Pidgeotto
+379,Bide,Normal,0,0,10,Pidgeotto
+380,Swift,Normal,60,0,20,Pidgeotto
+381,Sky Attack,Flying,140,90,5,Pidgeotto
+382,Rest,Psychic,0,0,10,Pidgeotto
+383,Substitute,Normal,0,0,10,Pidgeotto
+384,Fly,Flying,70,95,15,Pidgeotto
+385,Gust,Normal,40,100,35,Pidgeot
+386,Sand-Attack,Normal,0,100,15,Pidgeot
+387,Quick Attack,Normal,40,100,30,Pidgeot
+388,Sand-Attack,Normal,0,100,15,Pidgeot
+389,Quick Attack,Normal,40,100,30,Pidgeot
+390,Whirlwind,Normal,0,85,20,Pidgeot
+391,Wing Attack,Flying,35,100,35,Pidgeot
+392,Agility,Psychic,0,0,30,Pidgeot
+393,Mirror Move,Flying,0,0,20,Pidgeot
+394,Razor Wind,Normal,80,75,10,Pidgeot
+395,Whirlwind,Normal,0,85,20,Pidgeot
+396,Toxic,Poison,0,85,10,Pidgeot
+397,Take Down,Normal,90,85,20,Pidgeot
+398,Double-Edge,Normal,100,100,15,Pidgeot
+399,Hyper Beam,Normal,150,90,5,Pidgeot
+400,Rage,Normal,20,100,20,Pidgeot
+401,Mimic,Normal,0,100,10,Pidgeot
+402,Double Team,Normal,0,0,15,Pidgeot
+403,Reflect,Psychic,0,0,20,Pidgeot
+404,Bide,Normal,0,0,10,Pidgeot
+405,Swift,Normal,60,0,20,Pidgeot
+406,Sky Attack,Flying,140,90,5,Pidgeot
+407,Rest,Psychic,0,0,10,Pidgeot
+408,Substitute,Normal,0,0,10,Pidgeot
+409,Fly,Flying,70,95,15,Pidgeot
+410,Tackle,Normal,35,95,35,Rattata
+411,Tail Whip,Normal,0,100,30,Rattata
+412,Quick Attack,Normal,40,100,30,Rattata
+413,Hyper Fang,Normal,80,90,15,Rattata
+414,Focus Energy,Normal,0,0,30,Rattata
+415,Super Fang,Normal,0,90,10,Rattata
+416,Toxic,Poison,0,85,10,Rattata
+417,Body Slam,Normal,85,100,15,Rattata
+418,Take Down,Normal,90,85,20,Rattata
+419,Double-Edge,Normal,100,100,15,Rattata
+420,BubbleBeam,Water,65,100,20,Rattata
+421,Water Gun,Water,40,100,25,Rattata
+422,Blizzard,Ice,120,90,5,Rattata
+423,Rage,Normal,20,100,20,Rattata
+424,Thunderbolt,Electric,95,100,15,Rattata
+425,Thunder,Electric,120,70,10,Rattata
+426,Dig,Ground,100,100,10,Rattata
+427,Mimic,Normal,0,100,10,Rattata
+428,Double Team,Normal,0,0,15,Rattata
+429,Bide,Normal,0,0,10,Rattata
+430,Swift,Normal,60,0,20,Rattata
+431,Skull Bash,Normal,100,100,15,Rattata
+432,Rest,Psychic,0,0,10,Rattata
+433,Substitute,Normal,0,0,10,Rattata
+434,Tackle,Normal,35,95,35,Raticate
+435,Tail Whip,Normal,0,100,30,Raticate
+436,Quick Attack,Normal,40,100,30,Raticate
+437,Quick Attack,Normal,40,100,30,Raticate
+438,Hyper Fang,Normal,80,90,15,Raticate
+439,Focus Energy,Normal,0,0,30,Raticate
+440,Super Fang,Normal,0,90,10,Raticate
+441,Toxic,Poison,0,85,10,Raticate
+442,Body Slam,Normal,85,100,15,Raticate
+443,Take Down,Normal,90,85,20,Raticate
+444,Double-Edge,Normal,100,100,15,Raticate
+445,BubbleBeam,Water,65,100,20,Raticate
+446,Water Gun,Water,40,100,25,Raticate
+447,Ice Beam,Ice,95,100,10,Raticate
+448,Blizzard,Ice,120,90,5,Raticate
+449,Hyper Beam,Normal,150,90,5,Raticate
+450,Rage,Normal,20,100,20,Raticate
+451,Thunderbolt,Electric,95,100,15,Raticate
+452,Thunder,Electric,120,70,10,Raticate
+453,Dig,Ground,100,100,10,Raticate
+454,Mimic,Normal,0,100,10,Raticate
+455,Double Team,Normal,0,0,15,Raticate
+456,Bide,Normal,0,0,10,Raticate
+457,Swift,Normal,60,0,20,Raticate
+458,Skull Bash,Normal,100,100,15,Raticate
+459,Rest,Psychic,0,0,10,Raticate
+460,Substitute,Normal,0,0,10,Raticate
+461,Peck,Flying,35,100,35,Spearow
+462,Growl,Normal,0,100,40,Spearow
+463,Leer,Normal,0,100,30,Spearow
+464,Fury Attack,Normal,15,85,20,Spearow
+465,Mirror Move,Flying,0,0,20,Spearow
+466,Drill Peck,Flying,80,100,20,Spearow
+467,Agility,Psychic,0,0,30,Spearow
+468,Razor Wind,Normal,80,75,10,Spearow
+469,Whirlwind,Normal,0,85,20,Spearow
+470,Toxic,Poison,0,85,10,Spearow
+471,Take Down,Normal,90,85,20,Spearow
+472,Double-Edge,Normal,100,100,15,Spearow
+473,Rage,Normal,20,100,20,Spearow
+474,Mimic,Normal,0,100,10,Spearow
+475,Double Team,Normal,0,0,15,Spearow
+476,Bide,Normal,0,0,10,Spearow
+477,Swift,Normal,60,0,20,Spearow
+478,Sky Attack,Flying,140,90,5,Spearow
+479,Rest,Psychic,0,0,10,Spearow
+480,Substitute,Normal,0,0,10,Spearow
+481,Fly,Flying,70,95,15,Spearow
+482,Peck,Flying,35,100,35,Fearow
+483,Growl,Normal,0,100,40,Fearow
+484,Leer,Normal,0,100,30,Fearow
+485,Leer,Normal,0,100,30,Fearow
+486,Fury Attack,Normal,15,85,20,Fearow
+487,Mirror Move,Flying,0,0,20,Fearow
+488,Drill Peck,Flying,80,100,20,Fearow
+489,Agility,Psychic,0,0,30,Fearow
+490,Razor Wind,Normal,80,75,10,Fearow
+491,Whirlwind,Normal,0,85,20,Fearow
+492,Toxic,Poison,0,85,10,Fearow
+493,Take Down,Normal,90,85,20,Fearow
+494,Double-Edge,Normal,100,100,15,Fearow
+495,Hyper Beam,Normal,150,90,5,Fearow
+496,Rage,Normal,20,100,20,Fearow
+497,Mimic,Normal,0,100,10,Fearow
+498,Double Team,Normal,0,0,15,Fearow
+499,Bide,Normal,0,0,10,Fearow
+500,Swift,Normal,60,0,20,Fearow
+501,Sky Attack,Flying,140,90,5,Fearow
+502,Rest,Psychic,0,0,10,Fearow
+503,Substitute,Normal,0,0,10,Fearow
+504,Fly,Flying,70,95,15,Fearow
+505,Wrap,Normal,15,85,20,Ekans
+506,Leer,Normal,0,100,30,Ekans
+507,Poison Sting,Poison,15,100,35,Ekans
+508,Bite,Normal,60,100,25,Ekans
+509,Glare,Normal,0,75,30,Ekans
+510,Screech,Normal,0,85,40,Ekans
+511,Acid,Poison,40,100,30,Ekans
+512,Toxic,Poison,0,85,10,Ekans
+513,Body Slam,Normal,85,100,15,Ekans
+514,Take Down,Normal,90,85,20,Ekans
+515,Double-Edge,Normal,100,100,15,Ekans
+516,Rage,Normal,20,100,20,Ekans
+517,Mega Drain,Grass,40,100,10,Ekans
+518,Earthquake,Ground,100,100,10,Ekans
+519,Fissure,Ground,0,30,5,Ekans
+520,Dig,Ground,100,100,10,Ekans
+521,Mimic,Normal,0,100,10,Ekans
+522,Double Team,Normal,0,0,15,Ekans
+523,Bide,Normal,0,0,10,Ekans
+524,Skull Bash,Normal,100,100,15,Ekans
+525,Rest,Psychic,0,0,10,Ekans
+526,Rock Slide,Rock,75,90,10,Ekans
+527,Substitute,Normal,0,0,10,Ekans
+528,Strength,Normal,80,100,15,Ekans
+529,Wrap,Normal,15,85,20,Arbok
+530,Leer,Normal,0,100,30,Arbok
+531,Poison Sting,Poison,15,100,35,Arbok
+532,Poison Sting,Poison,15,100,35,Arbok
+533,Bite,Normal,60,100,25,Arbok
+534,Glare,Normal,0,75,30,Arbok
+535,Screech,Normal,0,85,40,Arbok
+536,Acid,Poison,40,100,30,Arbok
+537,Toxic,Poison,0,85,10,Arbok
+538,Body Slam,Normal,85,100,15,Arbok
+539,Take Down,Normal,90,85,20,Arbok
+540,Double-Edge,Normal,100,100,15,Arbok
+541,Hyper Beam,Normal,150,90,5,Arbok
+542,Rage,Normal,20,100,20,Arbok
+543,Mega Drain,Grass,40,100,10,Arbok
+544,Earthquake,Ground,100,100,10,Arbok
+545,Fissure,Ground,0,30,5,Arbok
+546,Dig,Ground,100,100,10,Arbok
+547,Mimic,Normal,0,100,10,Arbok
+548,Double Team,Normal,0,0,15,Arbok
+549,Bide,Normal,0,0,10,Arbok
+550,Skull Bash,Normal,100,100,15,Arbok
+551,Rest,Psychic,0,0,10,Arbok
+552,Rock Slide,Rock,75,90,10,Arbok
+553,Substitute,Normal,0,0,10,Arbok
+554,Strength,Normal,80,100,15,Arbok
+555,ThunderShock,Electric,40,100,30,Pikachu
+556,Growl,Normal,0,100,40,Pikachu
+557,Tail Whip,Normal,0,100,30,Pikachu
+558,Thunder Wave,Electric,0,100,20,Pikachu
+559,Quick Attack,Normal,40,100,30,Pikachu
+560,Double Team,Normal,0,101,15,Pikachu
+561,Slam,Normal,80,75,20,Pikachu
+562,Thunderbolt,Electric,95,100,15,Pikachu
+563,Agility,Psychic,0,101,30,Pikachu
+564,Thunder,Electric,120,70,10,Pikachu
+565,Light Screen,Psychic,0,101,30,Pikachu
+566,Swift,Normal,60,101,20,Pikachu
+567,Mega Punch,Normal,80,85,20,Pikachu
+568,Mega Kick,Normal,120,75,5,Pikachu
+569,Toxic,Poison,0,85,10,Pikachu
+570,Body Slam,Normal,85,100,15,Pikachu
+571,Take Down,Normal,90,85,20,Pikachu
+572,Double-Edge,Normal,100,100,15,Pikachu
+573,Pay Day,Normal,40,100,20,Pikachu
+574,Submission,Fighting,80,80,25,Pikachu
+575,Seismic Toss,Fighting,0,100,20,Pikachu
+576,Rage,Normal,20,100,20,Pikachu
+577,Thunderbolt,Electric,95,100,15,Pikachu
+578,Thunder,Electric,120,70,10,Pikachu
+579,Mimic,Normal,0,100,10,Pikachu
+580,Double Team,Normal,0,0,15,Pikachu
+581,Reflect,Psychic,0,0,20,Pikachu
+582,Bide,Normal,0,0,10,Pikachu
+583,Swift,Normal,60,0,20,Pikachu
+584,Skull Bash,Normal,100,100,15,Pikachu
+585,Rest,Psychic,0,0,10,Pikachu
+586,Thunder Wave,Electric,0,100,20,Pikachu
+587,Substitute,Normal,0,0,10,Pikachu
+588,Flash,Normal,0,70,20,Pikachu
+589,ThunderShock,Electric,40,100,30,Raichu
+590,Growl,Normal,0,100,40,Raichu
+591,Thunder Wave,Electric,0,100,20,Raichu
+592,Mega Punch,Normal,80,85,20,Raichu
+593,Mega Kick,Normal,120,75,5,Raichu
+594,Toxic,Poison,0,85,10,Raichu
+595,Body Slam,Normal,85,100,15,Raichu
+596,Take Down,Normal,90,85,20,Raichu
+597,Double-Edge,Normal,100,100,15,Raichu
+598,Hyper Beam,Normal,150,90,5,Raichu
+599,Pay Day,Normal,40,100,20,Raichu
+600,Submission,Fighting,80,80,25,Raichu
+601,Seismic Toss,Fighting,0,100,20,Raichu
+602,Rage,Normal,20,100,20,Raichu
+603,Thunderbolt,Electric,95,100,15,Raichu
+604,Thunder,Electric,120,70,10,Raichu
+605,Mimic,Normal,0,100,10,Raichu
+606,Double Team,Normal,0,0,15,Raichu
+607,Reflect,Psychic,0,0,20,Raichu
+608,Bide,Normal,0,0,10,Raichu
+609,Swift,Normal,60,0,20,Raichu
+610,Skull Bash,Normal,100,100,15,Raichu
+611,Rest,Psychic,0,0,10,Raichu
+612,Thunder Wave,Electric,0,100,20,Raichu
+613,Substitute,Normal,0,0,10,Raichu
+614,Flash,Normal,0,70,20,Raichu
+615,Scratch,Normal,40,100,35,Sandshrew
+616,Sand-Attack,Normal,0,100,15,Sandshrew
+617,Slash,Normal,70,100,20,Sandshrew
+618,Poison Sting,Poison,15,100,35,Sandshrew
+619,Swift,Normal,60,0,20,Sandshrew
+620,Fury Swipes,Normal,18,80,15,Sandshrew
+621,Swords Dance,Normal,0,0,30,Sandshrew
+622,Toxic,Poison,0,85,10,Sandshrew
+623,Body Slam,Normal,85,100,15,Sandshrew
+624,Take Down,Normal,90,85,20,Sandshrew
+625,Double-Edge,Normal,100,100,15,Sandshrew
+626,Submission,Fighting,80,80,25,Sandshrew
+627,Seismic Toss,Fighting,0,100,20,Sandshrew
+628,Rage,Normal,20,100,20,Sandshrew
+629,Earthquake,Ground,100,100,10,Sandshrew
+630,Fissure,Ground,0,30,5,Sandshrew
+631,Dig,Ground,100,100,10,Sandshrew
+632,Mimic,Normal,0,100,10,Sandshrew
+633,Double Team,Normal,0,0,15,Sandshrew
+634,Bide,Normal,0,0,10,Sandshrew
+635,Swift,Normal,60,0,20,Sandshrew
+636,Skull Bash,Normal,100,100,15,Sandshrew
+637,Rest,Psychic,0,0,10,Sandshrew
+638,Rock Slide,Rock,75,90,10,Sandshrew
+639,Substitute,Normal,0,0,10,Sandshrew
+640,Cut,Normal,50,95,30,Sandshrew
+641,Strength,Normal,80,100,15,Sandshrew
+642,Scratch,Normal,40,100,35,Sandslash
+643,Sand-Attack,Normal,0,100,15,Sandslash
+644,Sand-Attack,Normal,0,100,15,Sandslash
+645,Slash,Normal,70,100,20,Sandslash
+646,Poison Sting,Poison,15,100,35,Sandslash
+647,Swift,Normal,60,0,20,Sandslash
+648,Fury Swipes,Normal,18,80,15,Sandslash
+649,Swords Dance,Normal,0,0,30,Sandslash
+650,Toxic,Poison,0,85,10,Sandslash
+651,Body Slam,Normal,85,100,15,Sandslash
+652,Take Down,Normal,90,85,20,Sandslash
+653,Double-Edge,Normal,100,100,15,Sandslash
+654,Hyper Beam,Normal,150,90,5,Sandslash
+655,Submission,Fighting,80,80,25,Sandslash
+656,Seismic Toss,Fighting,0,100,20,Sandslash
+657,Rage,Normal,20,100,20,Sandslash
+658,Earthquake,Ground,100,100,10,Sandslash
+659,Fissure,Ground,0,30,5,Sandslash
+660,Dig,Ground,100,100,10,Sandslash
+661,Mimic,Normal,0,100,10,Sandslash
+662,Double Team,Normal,0,0,15,Sandslash
+663,Bide,Normal,0,0,10,Sandslash
+664,Swift,Normal,60,0,20,Sandslash
+665,Skull Bash,Normal,100,100,15,Sandslash
+666,Rest,Psychic,0,0,10,Sandslash
+667,Rock Slide,Rock,75,90,10,Sandslash
+668,Substitute,Normal,0,0,10,Sandslash
+669,Cut,Normal,50,95,30,Sandslash
+670,Strength,Normal,80,100,15,Sandslash
+671,Growl,Normal,0,100,40,Nidoran♀
+672,Tackle,Normal,35,95,35,Nidoran♀
+673,Scratch,Normal,40,100,35,Nidoran♀
+674,Double Kick,Fighting,30,100,30,Nidoran♀
+675,Poison Sting,Poison,15,100,35,Nidoran♀
+676,Tail Whip,Normal,0,100,30,Nidoran♀
+677,Bite,Normal,60,100,25,Nidoran♀
+678,Fury Swipes,Normal,18,80,15,Nidoran♀
+679,Toxic,Poison,0,85,10,Nidoran♀
+680,Body Slam,Normal,85,100,15,Nidoran♀
+681,Take Down,Normal,90,85,20,Nidoran♀
+682,Double-Edge,Normal,100,100,15,Nidoran♀
+683,Blizzard,Ice,120,90,5,Nidoran♀
+684,Rage,Normal,20,100,20,Nidoran♀
+685,Thunderbolt,Electric,95,100,15,Nidoran♀
+686,Thunder,Electric,120,70,10,Nidoran♀
+687,Mimic,Normal,0,100,10,Nidoran♀
+688,Double Team,Normal,0,0,15,Nidoran♀
+689,Reflect,Psychic,0,0,20,Nidoran♀
+690,Bide,Normal,0,0,10,Nidoran♀
+691,Skull Bash,Normal,100,100,15,Nidoran♀
+692,Rest,Psychic,0,0,10,Nidoran♀
+693,Substitute,Normal,0,0,10,Nidoran♀
+694,Growl,Normal,0,100,40,Nidorina
+695,Tackle,Normal,35,95,35,Nidorina
+696,Scratch,Normal,40,100,35,Nidorina
+697,Scratch,Normal,40,100,35,Nidorina
+698,Double Kick,Fighting,30,100,30,Nidorina
+699,Poison Sting,Poison,15,100,35,Nidorina
+700,Tail Whip,Normal,0,100,30,Nidorina
+701,Bite,Normal,60,100,25,Nidorina
+702,Fury Swipes,Normal,18,80,15,Nidorina
+703,Toxic,Poison,0,85,10,Nidorina
+704,Horn Drill,Normal,0,30,5,Nidorina
+705,Body Slam,Normal,85,100,15,Nidorina
+706,Take Down,Normal,90,85,20,Nidorina
+707,Double-Edge,Normal,100,100,15,Nidorina
+708,BubbleBeam,Water,65,100,20,Nidorina
+709,Water Gun,Water,40,100,25,Nidorina
+710,Ice Beam,Ice,95,100,10,Nidorina
+711,Blizzard,Ice,120,90,5,Nidorina
+712,Rage,Normal,20,100,20,Nidorina
+713,Thunderbolt,Electric,95,100,15,Nidorina
+714,Thunder,Electric,120,70,10,Nidorina
+715,Mimic,Normal,0,100,10,Nidorina
+716,Double Team,Normal,0,0,15,Nidorina
+717,Reflect,Psychic,0,0,20,Nidorina
+718,Bide,Normal,0,0,10,Nidorina
+719,Skull Bash,Normal,100,100,15,Nidorina
+720,Rest,Psychic,0,0,10,Nidorina
+721,Substitute,Normal,0,0,10,Nidorina
+722,Tackle,Normal,35,95,35,Nidoqueen
+723,Scratch,Normal,40,100,35,Nidoqueen
+724,Tail Whip,Normal,0,100,30,Nidoqueen
+725,Body Slam,Normal,85,100,15,Nidoqueen
+726,Scratch,Normal,40,100,35,Nidoqueen
+727,Double Kick,Fighting,30,100,30,Nidoqueen
+728,Body Slam,Normal,85,100,15,Nidoqueen
+729,Poison Sting,Poison,15,100,35,Nidoqueen
+730,Mega Punch,Normal,80,85,20,Nidoqueen
+731,Mega Kick,Normal,120,75,5,Nidoqueen
+732,Toxic,Poison,0,85,10,Nidoqueen
+733,Horn Drill,Normal,0,30,5,Nidoqueen
+734,Body Slam,Normal,85,100,15,Nidoqueen
+735,Take Down,Normal,90,85,20,Nidoqueen
+736,Double-Edge,Normal,100,100,15,Nidoqueen
+737,BubbleBeam,Water,65,100,20,Nidoqueen
+738,Water Gun,Water,40,100,25,Nidoqueen
+739,Ice Beam,Ice,95,100,10,Nidoqueen
+740,Blizzard,Ice,120,90,5,Nidoqueen
+741,Hyper Beam,Normal,150,90,5,Nidoqueen
+742,Pay Day,Normal,40,100,20,Nidoqueen
+743,Submission,Fighting,80,80,25,Nidoqueen
+744,Counter,Fighting,0,100,20,Nidoqueen
+745,Seismic Toss,Fighting,0,100,20,Nidoqueen
+746,Rage,Normal,20,100,20,Nidoqueen
+747,Thunderbolt,Electric,95,100,15,Nidoqueen
+748,Thunder,Electric,120,70,10,Nidoqueen
+749,Earthquake,Ground,100,100,10,Nidoqueen
+750,Fissure,Ground,0,30,5,Nidoqueen
+751,Mimic,Normal,0,100,10,Nidoqueen
+752,Double Team,Normal,0,0,15,Nidoqueen
+753,Reflect,Psychic,0,0,20,Nidoqueen
+754,Bide,Normal,0,0,10,Nidoqueen
+755,Fire Blast,Fire,120,85,5,Nidoqueen
+756,Skull Bash,Normal,100,100,15,Nidoqueen
+757,Rest,Psychic,0,0,10,Nidoqueen
+758,Rock Slide,Rock,75,90,10,Nidoqueen
+759,Substitute,Normal,0,0,10,Nidoqueen
+760,Surf,Water,95,100,15,Nidoqueen
+761,Strength,Normal,80,100,15,Nidoqueen
+762,Leer,Normal,0,100,30,Nidoran♂
+763,Tackle,Normal,35,95,35,Nidoran♂
+764,Horn Attack,Normal,65,100,25,Nidoran♂
+765,Double Kick,Fighting,30,100,30,Nidoran♂
+766,Poison Sting,Poison,15,100,35,Nidoran♂
+767,Focus Energy,Normal,0,101,30,Nidoran♂
+768,Fury Attack,Normal,15,85,20,Nidoran♂
+769,Horn Drill,Normal,0,30,5,Nidoran♂
+770,Toxic,Poison,0,85,10,Nidoran♂
+771,Horn Drill,Normal,0,30,5,Nidoran♂
+772,Body Slam,Normal,85,100,15,Nidoran♂
+773,Take Down,Normal,90,85,20,Nidoran♂
+774,Double-Edge,Normal,100,100,15,Nidoran♂
+775,Blizzard,Ice,120,90,5,Nidoran♂
+776,Rage,Normal,20,100,20,Nidoran♂
+777,Thunderbolt,Electric,95,100,15,Nidoran♂
+778,Thunder,Electric,120,70,10,Nidoran♂
+779,Mimic,Normal,0,100,10,Nidoran♂
+780,Double Team,Normal,0,0,15,Nidoran♂
+781,Reflect,Psychic,0,0,20,Nidoran♂
+782,Bide,Normal,0,0,10,Nidoran♂
+783,Skull Bash,Normal,100,100,15,Nidoran♂
+784,Rest,Psychic,0,0,10,Nidoran♂
+785,Substitute,Normal,0,0,10,Nidoran♂
+786,Leer,Normal,0,100,30,Nidorino
+787,Tackle,Normal,35,95,35,Nidorino
+788,Horn Attack,Normal,65,100,25,Nidorino
+789,Horn Attack,Normal,65,100,25,Nidorino
+790,Double Kick,Fighting,30,100,30,Nidorino
+791,Poison Sting,Poison,15,100,35,Nidorino
+792,Focus Energy,Normal,0,101,30,Nidorino
+793,Fury Attack,Normal,15,85,20,Nidorino
+794,Horn Drill,Normal,0,30,5,Nidorino
+795,Toxic,Poison,0,85,10,Nidorino
+796,Horn Drill,Normal,0,30,5,Nidorino
+797,Body Slam,Normal,85,100,15,Nidorino
+798,Take Down,Normal,90,85,20,Nidorino
+799,Double-Edge,Normal,100,100,15,Nidorino
+800,BubbleBeam,Water,65,100,20,Nidorino
+801,Water Gun,Water,40,100,25,Nidorino
+802,Ice Beam,Ice,95,100,10,Nidorino
+803,Blizzard,Ice,120,90,5,Nidorino
+804,Rage,Normal,20,100,20,Nidorino
+805,Thunderbolt,Electric,95,100,15,Nidorino
+806,Thunder,Electric,120,70,10,Nidorino
+807,Mimic,Normal,0,100,10,Nidorino
+808,Double Team,Normal,0,0,15,Nidorino
+809,Reflect,Psychic,0,0,20,Nidorino
+810,Bide,Normal,0,0,10,Nidorino
+811,Skull Bash,Normal,100,100,15,Nidorino
+812,Rest,Psychic,0,0,10,Nidorino
+813,Substitute,Normal,0,0,10,Nidorino
+814,Tackle,Normal,35,95,35,Nidoking
+815,Horn Attack,Normal,65,100,25,Nidoking
+816,Poison Sting,Poison,15,100,35,Nidoking
+817,Thrash,Normal,90,100,20,Nidoking
+818,Horn Attack,Normal,65,100,25,Nidoking
+819,Double Kick,Fighting,30,100,30,Nidoking
+820,Poison Sting,Poison,15,100,35,Nidoking
+821,Thrash,Normal,90,100,20,Nidoking
+822,Mega Punch,Normal,80,85,20,Nidoking
+823,Mega Kick,Normal,120,75,5,Nidoking
+824,Toxic,Poison,0,85,10,Nidoking
+825,Horn Drill,Normal,0,30,5,Nidoking
+826,Body Slam,Normal,85,100,15,Nidoking
+827,Take Down,Normal,90,85,20,Nidoking
+828,Double-Edge,Normal,100,100,15,Nidoking
+829,BubbleBeam,Water,65,100,20,Nidoking
+830,Water Gun,Water,40,100,25,Nidoking
+831,Ice Beam,Ice,95,100,10,Nidoking
+832,Blizzard,Ice,120,90,5,Nidoking
+833,Hyper Beam,Normal,150,90,5,Nidoking
+834,Pay Day,Normal,40,100,20,Nidoking
+835,Submission,Fighting,80,80,25,Nidoking
+836,Counter,Fighting,0,100,20,Nidoking
+837,Seismic Toss,Fighting,0,100,20,Nidoking
+838,Rage,Normal,20,100,20,Nidoking
+839,Thunderbolt,Electric,95,100,15,Nidoking
+840,Thunder,Electric,120,70,10,Nidoking
+841,Earthquake,Ground,100,100,10,Nidoking
+842,Fissure,Ground,0,30,5,Nidoking
+843,Mimic,Normal,0,100,10,Nidoking
+844,Double Team,Normal,0,0,15,Nidoking
+845,Reflect,Psychic,0,0,20,Nidoking
+846,Bide,Normal,0,0,10,Nidoking
+847,Fire Blast,Fire,120,85,5,Nidoking
+848,Skull Bash,Normal,100,100,15,Nidoking
+849,Rest,Psychic,0,0,10,Nidoking
+850,Rock Slide,Rock,75,90,10,Nidoking
+851,Substitute,Normal,0,0,10,Nidoking
+852,Surf,Water,95,100,15,Nidoking
+853,Strength,Normal,80,100,15,Nidoking
+854,Pound,Normal,40,100,35,Clefairy
+855,Growl,Normal,0,100,40,Clefairy
+856,Sing,Normal,0,55,15,Clefairy
+857,DoubleSlap,Normal,15,85,10,Clefairy
+858,Minimize,Normal,0,0,20,Clefairy
+859,Metronome,Normal,0,0,10,Clefairy
+860,Defense Curl,Normal,0,0,40,Clefairy
+861,Light Screen,Psychic,0,0,30,Clefairy
+862,Mega Punch,Normal,80,85,20,Clefairy
+863,Mega Kick,Normal,120,75,5,Clefairy
+864,Toxic,Poison,0,85,10,Clefairy
+865,Body Slam,Normal,85,100,15,Clefairy
+866,Take Down,Normal,90,85,20,Clefairy
+867,Double-Edge,Normal,100,100,15,Clefairy
+868,BubbleBeam,Water,65,100,20,Clefairy
+869,Water Gun,Water,40,100,25,Clefairy
+870,Ice Beam,Ice,95,100,10,Clefairy
+871,Blizzard,Ice,120,90,5,Clefairy
+872,Submission,Fighting,80,80,25,Clefairy
+873,Counter,Fighting,0,100,20,Clefairy
+874,Seismic Toss,Fighting,0,100,20,Clefairy
+875,Rage,Normal,20,100,20,Clefairy
+876,SolarBeam,Grass,120,100,10,Clefairy
+877,Thunderbolt,Electric,95,100,15,Clefairy
+878,Thunder,Electric,120,70,10,Clefairy
+879,Psychic,Psychic,90,100,10,Clefairy
+880,Teleport,Psychic,0,0,20,Clefairy
+881,Mimic,Normal,0,100,10,Clefairy
+882,Double Team,Normal,0,0,15,Clefairy
+883,Reflect,Psychic,0,0,20,Clefairy
+884,Bide,Normal,0,0,10,Clefairy
+885,Metronome,Normal,0,0,10,Clefairy
+886,Fire Blast,Fire,120,85,5,Clefairy
+887,Skull Bash,Normal,100,100,15,Clefairy
+888,Rest,Psychic,0,0,10,Clefairy
+889,Thunder Wave,Electric,0,100,20,Clefairy
+890,Psywave,Psychic,0,80,15,Clefairy
+891,Tri Attack,Normal,80,100,10,Clefairy
+892,Substitute,Normal,0,0,10,Clefairy
+893,Strength,Normal,80,100,15,Clefairy
+894,Flash,Normal,0,70,20,Clefairy
+895,Sing,Normal,0,55,15,Clefable
+896,DoubleSlap,Normal,15,85,10,Clefable
+897,Minimize,Normal,0,0,20,Clefable
+898,Metronome,Normal,0,0,10,Clefable
+899,Mega Punch,Normal,80,85,20,Clefable
+900,Mega Kick,Normal,120,75,5,Clefable
+901,Toxic,Poison,0,85,10,Clefable
+902,Body Slam,Normal,85,100,15,Clefable
+903,Take Down,Normal,90,85,20,Clefable
+904,Double-Edge,Normal,100,100,15,Clefable
+905,BubbleBeam,Water,65,100,20,Clefable
+906,Water Gun,Water,40,100,25,Clefable
+907,Ice Beam,Ice,95,100,10,Clefable
+908,Blizzard,Ice,120,90,5,Clefable
+909,Hyper Beam,Normal,150,90,5,Clefable
+910,Submission,Fighting,80,80,25,Clefable
+911,Counter,Fighting,0,100,20,Clefable
+912,Seismic Toss,Fighting,0,100,20,Clefable
+913,Rage,Normal,20,100,20,Clefable
+914,SolarBeam,Grass,120,100,10,Clefable
+915,Thunderbolt,Electric,95,100,15,Clefable
+916,Thunder,Electric,120,70,10,Clefable
+917,Psychic,Psychic,90,100,10,Clefable
+918,Teleport,Psychic,0,0,20,Clefable
+919,Mimic,Normal,0,100,10,Clefable
+920,Double Team,Normal,0,0,15,Clefable
+921,Reflect,Psychic,0,0,20,Clefable
+922,Bide,Normal,0,0,10,Clefable
+923,Metronome,Normal,0,0,10,Clefable
+924,Fire Blast,Fire,120,85,5,Clefable
+925,Skull Bash,Normal,100,100,15,Clefable
+926,Rest,Psychic,0,0,10,Clefable
+927,Thunder Wave,Electric,0,100,20,Clefable
+928,Psywave,Psychic,0,80,15,Clefable
+929,Tri Attack,Normal,80,100,10,Clefable
+930,Substitute,Normal,0,0,10,Clefable
+931,Strength,Normal,80,100,15,Clefable
+932,Flash,Normal,0,70,20,Clefable
+933,Ember,Fire,40,100,25,Vulpix
+934,Tail Whip,Normal,0,100,30,Vulpix
+935,Quick Attack,Normal,40,100,30,Vulpix
+936,Roar,Normal,0,100,20,Vulpix
+937,Confuse Ray,Ghost,0,100,10,Vulpix
+938,Flamethrower,Fire,95,100,15,Vulpix
+939,Fire Spin,Fire,15,70,15,Vulpix
+940,Toxic,Poison,0,85,10,Vulpix
+941,Body Slam,Normal,85,100,15,Vulpix
+942,Take Down,Normal,90,85,20,Vulpix
+943,Double-Edge,Normal,100,100,15,Vulpix
+944,Rage,Normal,20,100,20,Vulpix
+945,Dig,Ground,100,100,10,Vulpix
+946,Mimic,Normal,0,100,10,Vulpix
+947,Double Team,Normal,0,0,15,Vulpix
+948,Reflect,Psychic,0,0,20,Vulpix
+949,Bide,Normal,0,0,10,Vulpix
+950,Fire Blast,Fire,120,85,5,Vulpix
+951,Swift,Normal,60,0,20,Vulpix
+952,Skull Bash,Normal,100,100,15,Vulpix
+953,Rest,Psychic,0,0,10,Vulpix
+954,Substitute,Normal,0,0,10,Vulpix
+955,Ember,Fire,40,100,25,Ninetales
+956,Tail Whip,Normal,0,100,30,Ninetales
+957,Quick Attack,Normal,40,100,30,Ninetales
+958,Roar,Normal,0,100,20,Ninetales
+959,Toxic,Poison,0,85,10,Ninetales
+960,Body Slam,Normal,85,100,15,Ninetales
+961,Take Down,Normal,90,85,20,Ninetales
+962,Double-Edge,Normal,100,100,15,Ninetales
+963,Hyper Beam,Normal,150,90,5,Ninetales
+964,Rage,Normal,20,100,20,Ninetales
+965,Dig,Ground,100,100,10,Ninetales
+966,Mimic,Normal,0,100,10,Ninetales
+967,Double Team,Normal,0,0,15,Ninetales
+968,Reflect,Psychic,0,0,20,Ninetales
+969,Bide,Normal,0,0,10,Ninetales
+970,Fire Blast,Fire,120,85,5,Ninetales
+971,Swift,Normal,60,0,20,Ninetales
+972,Skull Bash,Normal,100,100,15,Ninetales
+973,Rest,Psychic,0,0,10,Ninetales
+974,Substitute,Normal,0,0,10,Ninetales
+975,Sing,Normal,0,55,15,Jigglypuff
+976,Pound,Normal,40,100,35,Jigglypuff
+977,Disable,Normal,0,55,20,Jigglypuff
+978,Defense Curl,Normal,0,0,40,Jigglypuff
+979,DoubleSlap,Normal,15,85,10,Jigglypuff
+980,Rest,Psychic,0,0,10,Jigglypuff
+981,Body Slam,Normal,85,100,15,Jigglypuff
+982,Double-Edge,Normal,100,100,15,Jigglypuff
+983,Mega Punch,Normal,80,85,20,Jigglypuff
+984,Mega Kick,Normal,120,75,5,Jigglypuff
+985,Toxic,Poison,0,85,10,Jigglypuff
+986,Body Slam,Normal,85,100,15,Jigglypuff
+987,Take Down,Normal,90,85,20,Jigglypuff
+988,Double-Edge,Normal,100,100,15,Jigglypuff
+989,BubbleBeam,Water,65,100,20,Jigglypuff
+990,Water Gun,Water,40,100,25,Jigglypuff
+991,Ice Beam,Ice,95,100,10,Jigglypuff
+992,Blizzard,Ice,120,90,5,Jigglypuff
+993,Submission,Fighting,80,80,25,Jigglypuff
+994,Counter,Fighting,0,100,20,Jigglypuff
+995,Seismic Toss,Fighting,0,100,20,Jigglypuff
+996,Rage,Normal,20,100,20,Jigglypuff
+997,SolarBeam,Grass,120,100,10,Jigglypuff
+998,Thunderbolt,Electric,95,100,15,Jigglypuff
+999,Thunder,Electric,120,70,10,Jigglypuff
+1000,Psychic,Psychic,90,100,10,Jigglypuff
+1001,Teleport,Psychic,0,0,20,Jigglypuff
+1002,Mimic,Normal,0,100,10,Jigglypuff
+1003,Double Team,Normal,0,0,15,Jigglypuff
+1004,Reflect,Psychic,0,0,20,Jigglypuff
+1005,Bide,Normal,0,0,10,Jigglypuff
+1006,Fire Blast,Fire,120,85,5,Jigglypuff
+1007,Skull Bash,Normal,100,100,15,Jigglypuff
+1008,Rest,Psychic,0,0,10,Jigglypuff
+1009,Thunder Wave,Electric,0,100,20,Jigglypuff
+1010,Psywave,Psychic,0,80,15,Jigglypuff
+1011,Tri Attack,Normal,80,100,10,Jigglypuff
+1012,Substitute,Normal,0,0,10,Jigglypuff
+1013,Strength,Normal,80,100,15,Jigglypuff
+1014,Flash,Normal,0,70,20,Jigglypuff
+1015,Sing,Normal,0,55,15,Wigglytuff
+1016,Disable,Normal,0,55,20,Wigglytuff
+1017,Defense Curl,Normal,0,0,40,Wigglytuff
+1018,DoubleSlap,Normal,15,85,10,Wigglytuff
+1019,Mega Punch,Normal,80,85,20,Wigglytuff
+1020,Mega Kick,Normal,120,75,5,Wigglytuff
+1021,Toxic,Poison,0,85,10,Wigglytuff
+1022,Body Slam,Normal,85,100,15,Wigglytuff
+1023,Take Down,Normal,90,85,20,Wigglytuff
+1024,Double-Edge,Normal,100,100,15,Wigglytuff
+1025,BubbleBeam,Water,65,100,20,Wigglytuff
+1026,Water Gun,Water,40,100,25,Wigglytuff
+1027,Ice Beam,Ice,95,100,10,Wigglytuff
+1028,Blizzard,Ice,120,90,5,Wigglytuff
+1029,Hyper Beam,Normal,150,90,5,Wigglytuff
+1030,Submission,Fighting,80,80,25,Wigglytuff
+1031,Counter,Fighting,0,100,20,Wigglytuff
+1032,Seismic Toss,Fighting,0,100,20,Wigglytuff
+1033,Rage,Normal,20,100,20,Wigglytuff
+1034,SolarBeam,Grass,120,100,10,Wigglytuff
+1035,Thunderbolt,Electric,95,100,15,Wigglytuff
+1036,Thunder,Electric,120,70,10,Wigglytuff
+1037,Psychic,Psychic,90,100,10,Wigglytuff
+1038,Teleport,Psychic,0,0,20,Wigglytuff
+1039,Mimic,Normal,0,100,10,Wigglytuff
+1040,Double Team,Normal,0,0,15,Wigglytuff
+1041,Reflect,Psychic,0,0,20,Wigglytuff
+1042,Bide,Normal,0,0,10,Wigglytuff
+1043,Fire Blast,Fire,120,85,5,Wigglytuff
+1044,Skull Bash,Normal,100,100,15,Wigglytuff
+1045,Rest,Psychic,0,0,10,Wigglytuff
+1046,Thunder Wave,Electric,0,100,20,Wigglytuff
+1047,Psywave,Psychic,0,80,15,Wigglytuff
+1048,Tri Attack,Normal,80,100,10,Wigglytuff
+1049,Substitute,Normal,0,0,10,Wigglytuff
+1050,Strength,Normal,80,100,15,Wigglytuff
+1051,Flash,Normal,0,70,20,Wigglytuff
+1052,Leech Life,Bug,20,100,15,Zubat
+1053,Supersonic,Normal,0,55,20,Zubat
+1054,Bite,Normal,60,100,25,Zubat
+1055,Confuse Ray,Ghost,0,100,10,Zubat
+1056,Wing Attack,Flying,35,100,35,Zubat
+1057,Haze,Ice,0,0,30,Zubat
+1058,Razor Wind,Normal,80,75,10,Zubat
+1059,Whirlwind,Normal,0,85,20,Zubat
+1060,Toxic,Poison,0,85,10,Zubat
+1061,Take Down,Normal,90,85,20,Zubat
+1062,Double-Edge,Normal,100,100,15,Zubat
+1063,Rage,Normal,20,100,20,Zubat
+1064,Mega Drain,Grass,40,100,10,Zubat
+1065,Mimic,Normal,0,100,10,Zubat
+1066,Double Team,Normal,0,0,15,Zubat
+1067,Bide,Normal,0,0,10,Zubat
+1068,Swift,Normal,60,0,20,Zubat
+1069,Rest,Psychic,0,0,10,Zubat
+1070,Substitute,Normal,0,0,10,Zubat
+1071,Leech Life,Bug,20,100,15,Golbat
+1072,Screech,Normal,0,85,40,Golbat
+1073,Bite,Normal,60,100,25,Golbat
+1074,Supersonic,Normal,0,55,20,Golbat
+1075,Bite,Normal,60,100,25,Golbat
+1076,Confuse Ray,Ghost,0,100,10,Golbat
+1077,Wing Attack,Flying,35,100,35,Golbat
+1078,Haze,Ice,0,0,30,Golbat
+1079,Razor Wind,Normal,80,75,10,Golbat
+1080,Whirlwind,Normal,0,85,20,Golbat
+1081,Toxic,Poison,0,85,10,Golbat
+1082,Take Down,Normal,90,85,20,Golbat
+1083,Double-Edge,Normal,100,100,15,Golbat
+1084,Hyper Beam,Normal,150,90,5,Golbat
+1085,Rage,Normal,20,100,20,Golbat
+1086,Mega Drain,Grass,40,100,10,Golbat
+1087,Mimic,Normal,0,100,10,Golbat
+1088,Double Team,Normal,0,0,15,Golbat
+1089,Bide,Normal,0,0,10,Golbat
+1090,Swift,Normal,60,0,20,Golbat
+1091,Rest,Psychic,0,0,10,Golbat
+1092,Substitute,Normal,0,0,10,Golbat
+1093,Absorb,Grass,20,100,20,Oddish
+1094,PoisonPowder,Poison,0,75,35,Oddish
+1095,Stun Spore,Grass,0,75,30,Oddish
+1096,Sleep Powder,Grass,0,75,15,Oddish
+1097,Acid,Poison,40,100,30,Oddish
+1098,Petal Dance,Grass,70,100,20,Oddish
+1099,SolarBeam,Grass,120,100,10,Oddish
+1100,Swords Dance,Normal,0,0,30,Oddish
+1101,Toxic,Poison,0,85,10,Oddish
+1102,Take Down,Normal,90,85,20,Oddish
+1103,Double-Edge,Normal,100,100,15,Oddish
+1104,Rage,Normal,20,100,20,Oddish
+1105,Mega Drain,Grass,40,100,10,Oddish
+1106,SolarBeam,Grass,120,100,10,Oddish
+1107,Mimic,Normal,0,100,10,Oddish
+1108,Double Team,Normal,0,0,15,Oddish
+1109,Reflect,Psychic,0,0,20,Oddish
+1110,Bide,Normal,0,0,10,Oddish
+1111,Rest,Psychic,0,0,10,Oddish
+1112,Substitute,Normal,0,0,10,Oddish
+1113,Cut,Normal,50,95,30,Oddish
+1114,Absorb,Grass,20,100,20,Gloom
+1115,PoisonPowder,Poison,0,75,35,Gloom
+1116,Stun Spore,Grass,0,75,30,Gloom
+1117,PoisonPowder,Poison,0,75,35,Gloom
+1118,Stun Spore,Grass,0,75,30,Gloom
+1119,Sleep Powder,Grass,0,75,15,Gloom
+1120,Acid,Poison,40,100,30,Gloom
+1121,Petal Dance,Grass,70,100,20,Gloom
+1122,SolarBeam,Grass,120,100,10,Gloom
+1123,Swords Dance,Normal,0,0,30,Gloom
+1124,Toxic,Poison,0,85,10,Gloom
+1125,Take Down,Normal,90,85,20,Gloom
+1126,Double-Edge,Normal,100,100,15,Gloom
+1127,Rage,Normal,20,100,20,Gloom
+1128,Mega Drain,Grass,40,100,10,Gloom
+1129,SolarBeam,Grass,120,100,10,Gloom
+1130,Mimic,Normal,0,100,10,Gloom
+1131,Double Team,Normal,0,0,15,Gloom
+1132,Reflect,Psychic,0,0,20,Gloom
+1133,Bide,Normal,0,0,10,Gloom
+1134,Rest,Psychic,0,0,10,Gloom
+1135,Substitute,Normal,0,0,10,Gloom
+1136,Cut,Normal,50,95,30,Gloom
+1137,Stun Spore,Grass,0,75,30,Vileplume
+1138,Sleep Powder,Grass,0,75,15,Vileplume
+1139,Acid,Poison,40,100,30,Vileplume
+1140,Petal Dance,Grass,70,100,20,Vileplume
+1141,PoisonPowder,Poison,0,75,35,Vileplume
+1142,Stun Spore,Grass,0,75,30,Vileplume
+1143,Sleep Powder,Grass,0,75,15,Vileplume
+1144,Swords Dance,Normal,0,0,30,Vileplume
+1145,Toxic,Poison,0,85,10,Vileplume
+1146,Body Slam,Normal,85,100,15,Vileplume
+1147,Take Down,Normal,90,85,20,Vileplume
+1148,Double-Edge,Normal,100,100,15,Vileplume
+1149,Hyper Beam,Normal,150,90,5,Vileplume
+1150,Rage,Normal,20,100,20,Vileplume
+1151,Mega Drain,Grass,40,100,10,Vileplume
+1152,SolarBeam,Grass,120,100,10,Vileplume
+1153,Mimic,Normal,0,100,10,Vileplume
+1154,Double Team,Normal,0,0,15,Vileplume
+1155,Reflect,Psychic,0,0,20,Vileplume
+1156,Bide,Normal,0,0,10,Vileplume
+1157,Rest,Psychic,0,0,10,Vileplume
+1158,Substitute,Normal,0,0,10,Vileplume
+1159,Cut,Normal,50,95,30,Vileplume
+1160,Scratch,Normal,40,100,35,Paras
+1161,Stun Spore,Grass,0,75,30,Paras
+1162,Leech Life,Bug,20,100,15,Paras
+1163,Spore,Grass,0,100,15,Paras
+1164,Slash,Normal,70,100,20,Paras
+1165,Growth,Normal,0,0,40,Paras
+1166,Swords Dance,Normal,0,0,30,Paras
+1167,Toxic,Poison,0,85,10,Paras
+1168,Body Slam,Normal,85,100,15,Paras
+1169,Take Down,Normal,90,85,20,Paras
+1170,Double-Edge,Normal,100,100,15,Paras
+1171,Rage,Normal,20,100,20,Paras
+1172,Mega Drain,Grass,40,100,10,Paras
+1173,SolarBeam,Grass,120,100,10,Paras
+1174,Dig,Ground,100,100,10,Paras
+1175,Mimic,Normal,0,100,10,Paras
+1176,Double Team,Normal,0,0,15,Paras
+1177,Reflect,Psychic,0,0,20,Paras
+1178,Bide,Normal,0,0,10,Paras
+1179,Skull Bash,Normal,100,100,15,Paras
+1180,Rest,Psychic,0,0,10,Paras
+1181,Substitute,Normal,0,0,10,Paras
+1182,Cut,Normal,50,95,30,Paras
+1183,Scratch,Normal,40,100,35,Parasect
+1184,Stun Spore,Grass,0,75,30,Parasect
+1185,Leech Life,Bug,20,100,15,Parasect
+1186,Stun Spore,Grass,0,75,30,Parasect
+1187,Leech Life,Bug,20,100,15,Parasect
+1188,Spore,Grass,0,100,15,Parasect
+1189,Slash,Normal,70,100,20,Parasect
+1190,Growth,Normal,0,0,40,Parasect
+1191,Swords Dance,Normal,0,0,30,Parasect
+1192,Toxic,Poison,0,85,10,Parasect
+1193,Body Slam,Normal,85,100,15,Parasect
+1194,Take Down,Normal,90,85,20,Parasect
+1195,Double-Edge,Normal,100,100,15,Parasect
+1196,Hyper Beam,Normal,150,90,5,Parasect
+1197,Rage,Normal,20,100,20,Parasect
+1198,Mega Drain,Grass,40,100,10,Parasect
+1199,SolarBeam,Grass,120,100,10,Parasect
+1200,Dig,Ground,100,100,10,Parasect
+1201,Mimic,Normal,0,100,10,Parasect
+1202,Double Team,Normal,0,0,15,Parasect
+1203,Reflect,Psychic,0,0,20,Parasect
+1204,Bide,Normal,0,0,10,Parasect
+1205,Skull Bash,Normal,100,100,15,Parasect
+1206,Rest,Psychic,0,0,10,Parasect
+1207,Substitute,Normal,0,0,10,Parasect
+1208,Cut,Normal,50,95,30,Parasect
+1209,Tackle,Normal,35,95,35,Venonat
+1210,Disable,Normal,0,55,20,Venonat
+1211,Supersonic,Normal,0,55,20,Venonat
+1212,Confusion,Psychic,50,100,25,Venonat
+1213,PoisonPowder,Poison,0,75,35,Venonat
+1214,Leech Life,Bug,20,100,15,Venonat
+1215,Stun Spore,Grass,0,75,30,Venonat
+1216,Psybeam,Psychic,65,100,20,Venonat
+1217,Sleep Powder,Grass,0,75,15,Venonat
+1218,Psychic,Psychic,90,100,10,Venonat
+1219,Toxic,Poison,0,85,10,Venonat
+1220,Take Down,Normal,90,85,20,Venonat
+1221,Double-Edge,Normal,100,100,15,Venonat
+1222,Rage,Normal,20,100,20,Venonat
+1223,Mega Drain,Grass,40,100,10,Venonat
+1224,SolarBeam,Grass,120,100,10,Venonat
+1225,Psychic,Psychic,90,100,10,Venonat
+1226,Mimic,Normal,0,100,10,Venonat
+1227,Double Team,Normal,0,0,15,Venonat
+1228,Reflect,Psychic,0,0,20,Venonat
+1229,Bide,Normal,0,0,10,Venonat
+1230,Rest,Psychic,0,0,10,Venonat
+1231,Psywave,Psychic,0,80,15,Venonat
+1232,Substitute,Normal,0,0,10,Venonat
+1233,Flash,Normal,0,70,20,Venonat
+1234,Tackle,Normal,35,95,35,Venomoth
+1235,Disable,Normal,0,55,20,Venomoth
+1236,Supersonic,Normal,0,55,20,Venomoth
+1237,Confusion,Psychic,50,100,25,Venomoth
+1238,PoisonPowder,Poison,0,75,35,Venomoth
+1239,Leech Life,Bug,20,100,15,Venomoth
+1240,Stun Spore,Grass,0,75,30,Venomoth
+1241,Psybeam,Psychic,65,100,20,Venomoth
+1242,Sleep Powder,Grass,0,75,15,Venomoth
+1243,Psychic,Psychic,90,100,10,Venomoth
+1244,PoisonPowder,Poison,0,75,35,Venomoth
+1245,Leech Life,Bug,20,100,15,Venomoth
+1246,Razor Wind,Normal,80,75,10,Venomoth
+1247,Whirlwind,Normal,0,85,20,Venomoth
+1248,Toxic,Poison,0,85,10,Venomoth
+1249,Take Down,Normal,90,85,20,Venomoth
+1250,Double-Edge,Normal,100,100,15,Venomoth
+1251,Hyper Beam,Normal,150,90,5,Venomoth
+1252,Rage,Normal,20,100,20,Venomoth
+1253,Mega Drain,Grass,40,100,10,Venomoth
+1254,SolarBeam,Grass,120,100,10,Venomoth
+1255,Psychic,Psychic,90,100,10,Venomoth
+1256,Teleport,Psychic,0,0,20,Venomoth
+1257,Mimic,Normal,0,100,10,Venomoth
+1258,Double Team,Normal,0,0,15,Venomoth
+1259,Reflect,Psychic,0,0,20,Venomoth
+1260,Bide,Normal,0,0,10,Venomoth
+1261,Swift,Normal,60,0,20,Venomoth
+1262,Rest,Psychic,0,0,10,Venomoth
+1263,Psywave,Psychic,0,80,15,Venomoth
+1264,Substitute,Normal,0,0,10,Venomoth
+1265,Flash,Normal,0,70,20,Venomoth
+1266,Scratch,Normal,40,100,35,Diglett
+1267,Growl,Normal,0,100,40,Diglett
+1268,Dig,Ground,100,100,10,Diglett
+1269,Sand-Attack,Normal,0,100,15,Diglett
+1270,Slash,Normal,70,100,20,Diglett
+1271,Earthquake,Ground,100,100,10,Diglett
+1272,Toxic,Poison,0,85,10,Diglett
+1273,Body Slam,Normal,85,100,15,Diglett
+1274,Take Down,Normal,90,85,20,Diglett
+1275,Double-Edge,Normal,100,100,15,Diglett
+1276,Rage,Normal,20,100,20,Diglett
+1277,Earthquake,Ground,100,100,10,Diglett
+1278,Fissure,Ground,0,30,5,Diglett
+1279,Dig,Ground,100,100,10,Diglett
+1280,Mimic,Normal,0,100,10,Diglett
+1281,Double Team,Normal,0,0,15,Diglett
+1282,Bide,Normal,0,0,10,Diglett
+1283,Rest,Psychic,0,0,10,Diglett
+1284,Rock Slide,Rock,75,90,10,Diglett
+1285,Substitute,Normal,0,0,10,Diglett
+1286,Cut,Normal,50,95,30,Diglett
+1287,Scratch,Normal,40,100,35,Dugtrio
+1288,Growl,Normal,0,100,40,Dugtrio
+1289,Dig,Ground,100,100,10,Dugtrio
+1290,Growl,Normal,0,100,40,Dugtrio
+1291,Dig,Ground,100,100,10,Dugtrio
+1292,Sand-Attack,Normal,0,100,15,Dugtrio
+1293,Slash,Normal,70,100,20,Dugtrio
+1294,Earthquake,Ground,100,100,10,Dugtrio
+1295,Toxic,Poison,0,85,10,Dugtrio
+1296,Body Slam,Normal,85,100,15,Dugtrio
+1297,Take Down,Normal,90,85,20,Dugtrio
+1298,Double-Edge,Normal,100,100,15,Dugtrio
+1299,Hyper Beam,Normal,150,90,5,Dugtrio
+1300,Rage,Normal,20,100,20,Dugtrio
+1301,Earthquake,Ground,100,100,10,Dugtrio
+1302,Fissure,Ground,0,30,5,Dugtrio
+1303,Dig,Ground,100,100,10,Dugtrio
+1304,Mimic,Normal,0,100,10,Dugtrio
+1305,Double Team,Normal,0,0,15,Dugtrio
+1306,Bide,Normal,0,0,10,Dugtrio
+1307,Rest,Psychic,0,0,10,Dugtrio
+1308,Rock Slide,Rock,75,90,10,Dugtrio
+1309,Substitute,Normal,0,0,10,Dugtrio
+1310,Cut,Normal,50,95,30,Dugtrio
+1311,Scratch,Normal,40,100,35,Meowth
+1312,Growl,Normal,0,100,40,Meowth
+1313,Bite,Normal,60,100,25,Meowth
+1314,Pay Day,Normal,40,100,20,Meowth
+1315,Screech,Normal,0,85,40,Meowth
+1316,Fury Swipes,Normal,18,80,15,Meowth
+1317,Slash,Normal,70,100,20,Meowth
+1318,Toxic,Poison,0,85,10,Meowth
+1319,Body Slam,Normal,85,100,15,Meowth
+1320,Take Down,Normal,90,85,20,Meowth
+1321,Double-Edge,Normal,100,100,15,Meowth
+1322,BubbleBeam,Water,65,100,20,Meowth
+1323,Water Gun,Water,40,100,25,Meowth
+1324,Pay Day,Normal,40,100,20,Meowth
+1325,Rage,Normal,20,100,20,Meowth
+1326,Thunderbolt,Electric,95,100,15,Meowth
+1327,Thunder,Electric,120,70,10,Meowth
+1328,Mimic,Normal,0,100,10,Meowth
+1329,Double Team,Normal,0,0,15,Meowth
+1330,Bide,Normal,0,0,10,Meowth
+1331,Swift,Normal,60,0,20,Meowth
+1332,Skull Bash,Normal,100,100,15,Meowth
+1333,Rest,Psychic,0,0,10,Meowth
+1334,Substitute,Normal,0,0,10,Meowth
+1335,Scratch,Normal,40,100,35,Persian
+1336,Growl,Normal,0,100,40,Persian
+1337,Bite,Normal,60,100,25,Persian
+1338,Screech,Normal,0,85,40,Persian
+1339,Bite,Normal,60,100,25,Persian
+1340,Pay Day,Normal,40,100,20,Persian
+1341,Screech,Normal,0,85,40,Persian
+1342,Fury Swipes,Normal,18,80,15,Persian
+1343,Slash,Normal,70,100,20,Persian
+1344,Toxic,Poison,0,85,10,Persian
+1345,Body Slam,Normal,85,100,15,Persian
+1346,Take Down,Normal,90,85,20,Persian
+1347,Double-Edge,Normal,100,100,15,Persian
+1348,BubbleBeam,Water,65,100,20,Persian
+1349,Water Gun,Water,40,100,25,Persian
+1350,Hyper Beam,Normal,150,90,5,Persian
+1351,Pay Day,Normal,40,100,20,Persian
+1352,Rage,Normal,20,100,20,Persian
+1353,Thunderbolt,Electric,95,100,15,Persian
+1354,Thunder,Electric,120,70,10,Persian
+1355,Mimic,Normal,0,100,10,Persian
+1356,Double Team,Normal,0,0,15,Persian
+1357,Bide,Normal,0,0,10,Persian
+1358,Swift,Normal,60,0,20,Persian
+1359,Skull Bash,Normal,100,100,15,Persian
+1360,Rest,Psychic,0,0,10,Persian
+1361,Substitute,Normal,0,0,10,Persian
+1362,Scratch,Normal,40,100,35,Psyduck
+1363,Tail Whip,Normal,0,100,30,Psyduck
+1364,Disable,Normal,0,55,20,Psyduck
+1365,Confusion,Psychic,50,100,25,Psyduck
+1366,Fury Swipes,Normal,18,80,15,Psyduck
+1367,Hydro Pump,Water,120,80,5,Psyduck
+1368,Mega Punch,Normal,80,85,20,Psyduck
+1369,Mega Kick,Normal,120,75,5,Psyduck
+1370,Toxic,Poison,0,85,10,Psyduck
+1371,Body Slam,Normal,85,100,15,Psyduck
+1372,Take Down,Normal,90,85,20,Psyduck
+1373,Double-Edge,Normal,100,100,15,Psyduck
+1374,BubbleBeam,Water,65,100,20,Psyduck
+1375,Water Gun,Water,40,100,25,Psyduck
+1376,Ice Beam,Ice,95,100,10,Psyduck
+1377,Blizzard,Ice,120,90,5,Psyduck
+1378,Pay Day,Normal,40,100,20,Psyduck
+1379,Submission,Fighting,80,80,25,Psyduck
+1380,Counter,Fighting,0,100,20,Psyduck
+1381,Seismic Toss,Fighting,0,100,20,Psyduck
+1382,Rage,Normal,20,100,20,Psyduck
+1383,Dig,Ground,100,100,10,Psyduck
+1384,Mimic,Normal,0,100,10,Psyduck
+1385,Double Team,Normal,0,0,15,Psyduck
+1386,Bide,Normal,0,0,10,Psyduck
+1387,Swift,Normal,60,0,20,Psyduck
+1388,Skull Bash,Normal,100,100,15,Psyduck
+1389,Rest,Psychic,0,0,10,Psyduck
+1390,Substitute,Normal,0,0,10,Psyduck
+1391,Surf,Water,95,100,15,Psyduck
+1392,Strength,Normal,80,100,15,Psyduck
+1393,Scratch,Normal,40,100,35,Golduck
+1394,Tail Whip,Normal,0,100,30,Golduck
+1395,Disable,Normal,0,55,20,Golduck
+1396,Tail Whip,Normal,0,100,30,Golduck
+1397,Disable,Normal,0,55,20,Golduck
+1398,Confusion,Psychic,50,100,25,Golduck
+1399,Fury Swipes,Normal,18,80,15,Golduck
+1400,Hydro Pump,Water,120,80,5,Golduck
+1401,Mega Punch,Normal,80,85,20,Golduck
+1402,Mega Kick,Normal,120,75,5,Golduck
+1403,Toxic,Poison,0,85,10,Golduck
+1404,Body Slam,Normal,85,100,15,Golduck
+1405,Take Down,Normal,90,85,20,Golduck
+1406,Double-Edge,Normal,100,100,15,Golduck
+1407,BubbleBeam,Water,65,100,20,Golduck
+1408,Water Gun,Water,40,100,25,Golduck
+1409,Ice Beam,Ice,95,100,10,Golduck
+1410,Blizzard,Ice,120,90,5,Golduck
+1411,Hyper Beam,Normal,150,90,5,Golduck
+1412,Pay Day,Normal,40,100,20,Golduck
+1413,Submission,Fighting,80,80,25,Golduck
+1414,Counter,Fighting,0,100,20,Golduck
+1415,Seismic Toss,Fighting,0,100,20,Golduck
+1416,Rage,Normal,20,100,20,Golduck
+1417,Dig,Ground,100,100,10,Golduck
+1418,Mimic,Normal,0,100,10,Golduck
+1419,Double Team,Normal,0,0,15,Golduck
+1420,Bide,Normal,0,0,10,Golduck
+1421,Swift,Normal,60,0,20,Golduck
+1422,Skull Bash,Normal,100,100,15,Golduck
+1423,Rest,Psychic,0,0,10,Golduck
+1424,Substitute,Normal,0,0,10,Golduck
+1425,Surf,Water,95,100,15,Golduck
+1426,Strength,Normal,80,100,15,Golduck
+1427,Scratch,Normal,40,100,35,Mankey
+1428,Leer,Normal,0,100,30,Mankey
+1429,Low Kick,Fighting,50,90,20,Mankey
+1430,Karate Chop,Normal,50,100,25,Mankey
+1431,Fury Swipes,Normal,18,80,15,Mankey
+1432,Focus Energy,Normal,0,101,30,Mankey
+1433,Seismic Toss,Fighting,0,100,20,Mankey
+1434,Thrash,Normal,90,100,20,Mankey
+1435,Screech,Normal,0,85,40,Mankey
+1436,Mega Punch,Normal,80,85,20,Mankey
+1437,Mega Kick,Normal,120,75,5,Mankey
+1438,Toxic,Poison,0,85,10,Mankey
+1439,Body Slam,Normal,85,100,15,Mankey
+1440,Take Down,Normal,90,85,20,Mankey
+1441,Double-Edge,Normal,100,100,15,Mankey
+1442,Pay Day,Normal,40,100,20,Mankey
+1443,Submission,Fighting,80,80,25,Mankey
+1444,Counter,Fighting,0,100,20,Mankey
+1445,Seismic Toss,Fighting,0,100,20,Mankey
+1446,Rage,Normal,20,100,20,Mankey
+1447,Thunderbolt,Electric,95,100,15,Mankey
+1448,Thunder,Electric,120,70,10,Mankey
+1449,Dig,Ground,100,100,10,Mankey
+1450,Mimic,Normal,0,100,10,Mankey
+1451,Double Team,Normal,0,0,15,Mankey
+1452,Bide,Normal,0,0,10,Mankey
+1453,Metronome,Normal,0,0,10,Mankey
+1454,Swift,Normal,60,0,20,Mankey
+1455,Skull Bash,Normal,100,100,15,Mankey
+1456,Rest,Psychic,0,0,10,Mankey
+1457,Rock Slide,Rock,75,90,10,Mankey
+1458,Substitute,Normal,0,0,10,Mankey
+1459,Strength,Normal,80,100,15,Mankey
+1460,Scratch,Normal,40,100,35,Primeape
+1461,Leer,Normal,0,100,30,Primeape
+1462,Low Kick,Fighting,50,90,20,Primeape
+1463,Karate Chop,Normal,50,100,25,Primeape
+1464,Low Kick,Fighting,50,90,20,Primeape
+1465,Karate Chop,Normal,50,100,25,Primeape
+1466,Fury Swipes,Normal,18,80,15,Primeape
+1467,Focus Energy,Normal,0,101,30,Primeape
+1468,Rage,Normal,20,100,20,Primeape
+1469,Seismic Toss,Fighting,0,100,20,Primeape
+1470,Screech,Normal,0,85,40,Primeape
+1471,Thrash,Normal,90,100,20,Primeape
+1472,Fury Swipes,Normal,18,80,15,Primeape
+1473,Mega Punch,Normal,80,85,20,Primeape
+1474,Mega Kick,Normal,120,75,5,Primeape
+1475,Toxic,Poison,0,85,10,Primeape
+1476,Body Slam,Normal,85,100,15,Primeape
+1477,Take Down,Normal,90,85,20,Primeape
+1478,Double-Edge,Normal,100,100,15,Primeape
+1479,Hyper Beam,Normal,150,90,5,Primeape
+1480,Pay Day,Normal,40,100,20,Primeape
+1481,Submission,Fighting,80,80,25,Primeape
+1482,Counter,Fighting,0,100,20,Primeape
+1483,Seismic Toss,Fighting,0,100,20,Primeape
+1484,Rage,Normal,20,100,20,Primeape
+1485,Thunderbolt,Electric,95,100,15,Primeape
+1486,Thunder,Electric,120,70,10,Primeape
+1487,Dig,Ground,100,100,10,Primeape
+1488,Mimic,Normal,0,100,10,Primeape
+1489,Double Team,Normal,0,0,15,Primeape
+1490,Bide,Normal,0,0,10,Primeape
+1491,Metronome,Normal,0,0,10,Primeape
+1492,Swift,Normal,60,0,20,Primeape
+1493,Skull Bash,Normal,100,100,15,Primeape
+1494,Rest,Psychic,0,0,10,Primeape
+1495,Rock Slide,Rock,75,90,10,Primeape
+1496,Substitute,Normal,0,0,10,Primeape
+1497,Strength,Normal,80,100,15,Primeape
+1498,Bite,Normal,60,100,25,Growlithe
+1499,Roar,Normal,0,100,20,Growlithe
+1500,Ember,Fire,40,100,25,Growlithe
+1501,Leer,Normal,0,100,30,Growlithe
+1502,Take Down,Normal,90,85,20,Growlithe
+1503,Agility,Psychic,0,0,30,Growlithe
+1504,Flamethrower,Fire,95,100,15,Growlithe
+1505,Toxic,Poison,0,85,10,Growlithe
+1506,Body Slam,Normal,85,100,15,Growlithe
+1507,Take Down,Normal,90,85,20,Growlithe
+1508,Double-Edge,Normal,100,100,15,Growlithe
+1509,Rage,Normal,20,100,20,Growlithe
+1510,Dragon Rage,Dragon,0,100,10,Growlithe
+1511,Dig,Ground,100,100,10,Growlithe
+1512,Mimic,Normal,0,100,10,Growlithe
+1513,Double Team,Normal,0,0,15,Growlithe
+1514,Reflect,Psychic,0,0,20,Growlithe
+1515,Bide,Normal,0,0,10,Growlithe
+1516,Fire Blast,Fire,120,85,5,Growlithe
+1517,Swift,Normal,60,0,20,Growlithe
+1518,Skull Bash,Normal,100,100,15,Growlithe
+1519,Rest,Psychic,0,0,10,Growlithe
+1520,Substitute,Normal,0,0,10,Growlithe
+1521,Roar,Normal,0,100,20,Arcanine
+1522,Ember,Fire,40,100,25,Arcanine
+1523,Leer,Normal,0,100,30,Arcanine
+1524,Take Down,Normal,90,85,20,Arcanine
+1525,Toxic,Poison,0,85,10,Arcanine
+1526,Body Slam,Normal,85,100,15,Arcanine
+1527,Take Down,Normal,90,85,20,Arcanine
+1528,Double-Edge,Normal,100,100,15,Arcanine
+1529,Hyper Beam,Normal,150,90,5,Arcanine
+1530,Rage,Normal,20,100,20,Arcanine
+1531,Dragon Rage,Dragon,0,100,10,Arcanine
+1532,Dig,Ground,100,100,10,Arcanine
+1533,Teleport,Psychic,0,0,20,Arcanine
+1534,Mimic,Normal,0,100,10,Arcanine
+1535,Double Team,Normal,0,0,15,Arcanine
+1536,Reflect,Psychic,0,0,20,Arcanine
+1537,Bide,Normal,0,0,10,Arcanine
+1538,Fire Blast,Fire,120,85,5,Arcanine
+1539,Swift,Normal,60,0,20,Arcanine
+1540,Skull Bash,Normal,100,100,15,Arcanine
+1541,Rest,Psychic,0,0,10,Arcanine
+1542,Substitute,Normal,0,0,10,Arcanine
+1543,Bubble,Water,20,100,30,Poliwag
+1544,Hypnosis,Psychic,0,60,20,Poliwag
+1545,Water Gun,Water,40,100,25,Poliwag
+1546,DoubleSlap,Normal,15,85,10,Poliwag
+1547,Body Slam,Normal,85,100,15,Poliwag
+1548,Amnesia,Psychic,0,0,20,Poliwag
+1549,Hydro Pump,Water,120,80,5,Poliwag
+1550,Toxic,Poison,0,85,10,Poliwag
+1551,Body Slam,Normal,85,100,15,Poliwag
+1552,Take Down,Normal,90,85,20,Poliwag
+1553,Double-Edge,Normal,100,100,15,Poliwag
+1554,BubbleBeam,Water,65,100,20,Poliwag
+1555,Water Gun,Water,40,100,25,Poliwag
+1556,Ice Beam,Ice,95,100,10,Poliwag
+1557,Blizzard,Ice,120,90,5,Poliwag
+1558,Rage,Normal,20,100,20,Poliwag
+1559,Psychic,Psychic,90,100,10,Poliwag
+1560,Mimic,Normal,0,100,10,Poliwag
+1561,Double Team,Normal,0,0,15,Poliwag
+1562,Bide,Normal,0,0,10,Poliwag
+1563,Skull Bash,Normal,100,100,15,Poliwag
+1564,Rest,Psychic,0,0,10,Poliwag
+1565,Psywave,Psychic,0,80,15,Poliwag
+1566,Substitute,Normal,0,0,10,Poliwag
+1567,Surf,Water,95,100,15,Poliwag
+1568,Bubble,Water,20,100,30,Poliwhirl
+1569,Hypnosis,Psychic,0,60,20,Poliwhirl
+1570,Water Gun,Water,40,100,25,Poliwhirl
+1571,Hypnosis,Psychic,0,60,20,Poliwhirl
+1572,Water Gun,Water,40,100,25,Poliwhirl
+1573,DoubleSlap,Normal,15,85,10,Poliwhirl
+1574,Body Slam,Normal,85,100,15,Poliwhirl
+1575,Amnesia,Psychic,0,0,20,Poliwhirl
+1576,Hydro Pump,Water,120,80,5,Poliwhirl
+1577,Mega Punch,Normal,80,85,20,Poliwhirl
+1578,Mega Kick,Normal,120,75,5,Poliwhirl
+1579,Toxic,Poison,0,85,10,Poliwhirl
+1580,Body Slam,Normal,85,100,15,Poliwhirl
+1581,Take Down,Normal,90,85,20,Poliwhirl
+1582,Double-Edge,Normal,100,100,15,Poliwhirl
+1583,BubbleBeam,Water,65,100,20,Poliwhirl
+1584,Water Gun,Water,40,100,25,Poliwhirl
+1585,Ice Beam,Ice,95,100,10,Poliwhirl
+1586,Blizzard,Ice,120,90,5,Poliwhirl
+1587,Submission,Fighting,80,80,25,Poliwhirl
+1588,Counter,Fighting,0,100,20,Poliwhirl
+1589,Seismic Toss,Fighting,0,100,20,Poliwhirl
+1590,Rage,Normal,20,100,20,Poliwhirl
+1591,Earthquake,Ground,100,100,10,Poliwhirl
+1592,Fissure,Ground,0,30,5,Poliwhirl
+1593,Psychic,Psychic,90,100,10,Poliwhirl
+1594,Mimic,Normal,0,100,10,Poliwhirl
+1595,Double Team,Normal,0,0,15,Poliwhirl
+1596,Bide,Normal,0,0,10,Poliwhirl
+1597,Metronome,Normal,0,0,10,Poliwhirl
+1598,Skull Bash,Normal,100,100,15,Poliwhirl
+1599,Rest,Psychic,0,0,10,Poliwhirl
+1600,Psywave,Psychic,0,80,15,Poliwhirl
+1601,Substitute,Normal,0,0,10,Poliwhirl
+1602,Surf,Water,95,100,15,Poliwhirl
+1603,Strength,Normal,80,100,15,Poliwhirl
+1604,Hypnosis,Psychic,0,60,20,Poliwrath
+1605,Water Gun,Water,40,100,25,Poliwrath
+1606,DoubleSlap,Normal,15,85,10,Poliwrath
+1607,Body Slam,Normal,85,100,15,Poliwrath
+1608,Hypnosis,Psychic,0,60,20,Poliwrath
+1609,Water Gun,Water,40,100,25,Poliwrath
+1610,Mega Punch,Normal,80,85,20,Poliwrath
+1611,Mega Kick,Normal,120,75,5,Poliwrath
+1612,Toxic,Poison,0,85,10,Poliwrath
+1613,Body Slam,Normal,85,100,15,Poliwrath
+1614,Take Down,Normal,90,85,20,Poliwrath
+1615,Double-Edge,Normal,100,100,15,Poliwrath
+1616,BubbleBeam,Water,65,100,20,Poliwrath
+1617,Water Gun,Water,40,100,25,Poliwrath
+1618,Ice Beam,Ice,95,100,10,Poliwrath
+1619,Blizzard,Ice,120,90,5,Poliwrath
+1620,Hyper Beam,Normal,150,90,5,Poliwrath
+1621,Submission,Fighting,80,80,25,Poliwrath
+1622,Counter,Fighting,0,100,20,Poliwrath
+1623,Seismic Toss,Fighting,0,100,20,Poliwrath
+1624,Rage,Normal,20,100,20,Poliwrath
+1625,Earthquake,Ground,100,100,10,Poliwrath
+1626,Fissure,Ground,0,30,5,Poliwrath
+1627,Psychic,Psychic,90,100,10,Poliwrath
+1628,Mimic,Normal,0,100,10,Poliwrath
+1629,Double Team,Normal,0,0,15,Poliwrath
+1630,Bide,Normal,0,0,10,Poliwrath
+1631,Metronome,Normal,0,0,10,Poliwrath
+1632,Skull Bash,Normal,100,100,15,Poliwrath
+1633,Rest,Psychic,0,0,10,Poliwrath
+1634,Psywave,Psychic,0,80,15,Poliwrath
+1635,Substitute,Normal,0,0,10,Poliwrath
+1636,Surf,Water,95,100,15,Poliwrath
+1637,Strength,Normal,80,100,15,Poliwrath
+1638,Teleport,Psychic,0,0,20,Abra
+1639,Mega Punch,Normal,80,85,20,Abra
+1640,Mega Kick,Normal,120,75,5,Abra
+1641,Toxic,Poison,0,85,10,Abra
+1642,Body Slam,Normal,85,100,15,Abra
+1643,Take Down,Normal,90,85,20,Abra
+1644,Double-Edge,Normal,100,100,15,Abra
+1645,Submission,Fighting,80,80,25,Abra
+1646,Counter,Fighting,0,100,20,Abra
+1647,Seismic Toss,Fighting,0,100,20,Abra
+1648,Rage,Normal,20,100,20,Abra
+1649,Psychic,Psychic,90,100,10,Abra
+1650,Teleport,Psychic,0,0,20,Abra
+1651,Mimic,Normal,0,100,10,Abra
+1652,Double Team,Normal,0,0,15,Abra
+1653,Reflect,Psychic,0,0,20,Abra
+1654,Bide,Normal,0,0,10,Abra
+1655,Metronome,Normal,0,0,10,Abra
+1656,Skull Bash,Normal,100,100,15,Abra
+1657,Rest,Psychic,0,0,10,Abra
+1658,Thunder Wave,Electric,0,100,20,Abra
+1659,Psywave,Psychic,0,80,15,Abra
+1660,Tri Attack,Normal,80,100,10,Abra
+1661,Substitute,Normal,0,0,10,Abra
+1662,Flash,Normal,0,70,20,Abra
+1663,Teleport,Psychic,0,101,20,Kadabra
+1664,Kinesis,Psychic,0,80,15,Kadabra
+1665,Confusion,Psychic,50,100,25,Kadabra
+1666,Disable,Normal,0,55,20,Kadabra
+1667,Psybeam,Psychic,65,100,20,Kadabra
+1668,Recover,Normal,0,101,20,Kadabra
+1669,Psychic,Psychic,90,100,10,Kadabra
+1670,Reflect,Psychic,0,101,20,Kadabra
+1671,Confusion,Psychic,50,100,25,Kadabra
+1672,Disable,Normal,0,55,20,Kadabra
+1673,Mega Punch,Normal,80,85,20,Kadabra
+1674,Mega Kick,Normal,120,75,5,Kadabra
+1675,Toxic,Poison,0,85,10,Kadabra
+1676,Body Slam,Normal,85,100,15,Kadabra
+1677,Take Down,Normal,90,85,20,Kadabra
+1678,Double-Edge,Normal,100,100,15,Kadabra
+1679,Submission,Fighting,80,80,25,Kadabra
+1680,Counter,Fighting,0,100,20,Kadabra
+1681,Seismic Toss,Fighting,0,100,20,Kadabra
+1682,Rage,Normal,20,100,20,Kadabra
+1683,Dig,Ground,100,100,10,Kadabra
+1684,Psychic,Psychic,90,100,10,Kadabra
+1685,Teleport,Psychic,0,0,20,Kadabra
+1686,Mimic,Normal,0,100,10,Kadabra
+1687,Double Team,Normal,0,0,15,Kadabra
+1688,Reflect,Psychic,0,0,20,Kadabra
+1689,Bide,Normal,0,0,10,Kadabra
+1690,Metronome,Normal,0,0,10,Kadabra
+1691,Skull Bash,Normal,100,100,15,Kadabra
+1692,Rest,Psychic,0,0,10,Kadabra
+1693,Thunder Wave,Electric,0,100,20,Kadabra
+1694,Psywave,Psychic,0,80,15,Kadabra
+1695,Tri Attack,Normal,80,100,10,Kadabra
+1696,Substitute,Normal,0,0,10,Kadabra
+1697,Flash,Normal,0,70,20,Kadabra
+1698,Teleport,Psychic,0,101,20,Alakazam
+1699,Kinesis,Psychic,0,80,15,Alakazam
+1700,Confusion,Psychic,50,100,25,Alakazam
+1701,Disable,Normal,0,55,20,Alakazam
+1702,Psybeam,Psychic,65,100,20,Alakazam
+1703,Recover,Normal,0,101,20,Alakazam
+1704,Psychic,Psychic,90,100,10,Alakazam
+1705,Reflect,Psychic,0,101,20,Alakazam
+1706,Confusion,Psychic,50,100,25,Alakazam
+1707,Disable,Normal,0,55,20,Alakazam
+1708,Mega Punch,Normal,80,85,20,Alakazam
+1709,Mega Kick,Normal,120,75,5,Alakazam
+1710,Toxic,Poison,0,85,10,Alakazam
+1711,Body Slam,Normal,85,100,15,Alakazam
+1712,Take Down,Normal,90,85,20,Alakazam
+1713,Double-Edge,Normal,100,100,15,Alakazam
+1714,Hyper Beam,Normal,150,90,5,Alakazam
+1715,Submission,Fighting,80,80,25,Alakazam
+1716,Counter,Fighting,0,100,20,Alakazam
+1717,Seismic Toss,Fighting,0,100,20,Alakazam
+1718,Rage,Normal,20,100,20,Alakazam
+1719,Dig,Ground,100,100,10,Alakazam
+1720,Psychic,Psychic,90,100,10,Alakazam
+1721,Teleport,Psychic,0,0,20,Alakazam
+1722,Mimic,Normal,0,100,10,Alakazam
+1723,Double Team,Normal,0,0,15,Alakazam
+1724,Reflect,Psychic,0,0,20,Alakazam
+1725,Bide,Normal,0,0,10,Alakazam
+1726,Metronome,Normal,0,0,10,Alakazam
+1727,Skull Bash,Normal,100,100,15,Alakazam
+1728,Rest,Psychic,0,0,10,Alakazam
+1729,Thunder Wave,Electric,0,100,20,Alakazam
+1730,Psywave,Psychic,0,80,15,Alakazam
+1731,Tri Attack,Normal,80,100,10,Alakazam
+1732,Substitute,Normal,0,0,10,Alakazam
+1733,Flash,Normal,0,70,20,Alakazam
+1734,Karate Chop,Normal,50,100,25,Machop
+1735,Low Kick,Fighting,50,90,20,Machop
+1736,Leer,Normal,0,100,30,Machop
+1737,Focus Energy,Normal,0,0,30,Machop
+1738,Seismic Toss,Fighting,0,100,20,Machop
+1739,Submission,Fighting,80,80,25,Machop
+1740,Mega Punch,Normal,80,85,20,Machop
+1741,Mega Kick,Normal,120,75,5,Machop
+1742,Toxic,Poison,0,85,10,Machop
+1743,Body Slam,Normal,85,100,15,Machop
+1744,Take Down,Normal,90,85,20,Machop
+1745,Double-Edge,Normal,100,100,15,Machop
+1746,Submission,Fighting,80,80,25,Machop
+1747,Counter,Fighting,0,100,20,Machop
+1748,Seismic Toss,Fighting,0,100,20,Machop
+1749,Rage,Normal,20,100,20,Machop
+1750,Earthquake,Ground,100,100,10,Machop
+1751,Fissure,Ground,0,30,5,Machop
+1752,Dig,Ground,100,100,10,Machop
+1753,Mimic,Normal,0,100,10,Machop
+1754,Double Team,Normal,0,0,15,Machop
+1755,Bide,Normal,0,0,10,Machop
+1756,Metronome,Normal,0,0,10,Machop
+1757,Fire Blast,Fire,120,85,5,Machop
+1758,Skull Bash,Normal,100,100,15,Machop
+1759,Rest,Psychic,0,0,10,Machop
+1760,Rock Slide,Rock,75,90,10,Machop
+1761,Substitute,Normal,0,0,10,Machop
+1762,Strength,Normal,80,100,15,Machop
+1763,Karate Chop,Normal,50,100,25,Machoke
+1764,Low Kick,Fighting,50,90,20,Machoke
+1765,Leer,Normal,0,100,30,Machoke
+1766,Low Kick,Fighting,50,90,20,Machoke
+1767,Leer,Normal,0,100,30,Machoke
+1768,Focus Energy,Normal,0,0,30,Machoke
+1769,Seismic Toss,Fighting,0,100,20,Machoke
+1770,Submission,Fighting,80,80,25,Machoke
+1771,Mega Punch,Normal,80,85,20,Machoke
+1772,Mega Kick,Normal,120,75,5,Machoke
+1773,Toxic,Poison,0,85,10,Machoke
+1774,Body Slam,Normal,85,100,15,Machoke
+1775,Take Down,Normal,90,85,20,Machoke
+1776,Double-Edge,Normal,100,100,15,Machoke
+1777,Submission,Fighting,80,80,25,Machoke
+1778,Counter,Fighting,0,100,20,Machoke
+1779,Seismic Toss,Fighting,0,100,20,Machoke
+1780,Rage,Normal,20,100,20,Machoke
+1781,Earthquake,Ground,100,100,10,Machoke
+1782,Fissure,Ground,0,30,5,Machoke
+1783,Dig,Ground,100,100,10,Machoke
+1784,Mimic,Normal,0,100,10,Machoke
+1785,Double Team,Normal,0,0,15,Machoke
+1786,Bide,Normal,0,0,10,Machoke
+1787,Metronome,Normal,0,0,10,Machoke
+1788,Fire Blast,Fire,120,85,5,Machoke
+1789,Skull Bash,Normal,100,100,15,Machoke
+1790,Rest,Psychic,0,0,10,Machoke
+1791,Rock Slide,Rock,75,90,10,Machoke
+1792,Substitute,Normal,0,0,10,Machoke
+1793,Strength,Normal,80,100,15,Machoke
+1794,Karate Chop,Normal,50,100,25,Machamp
+1795,Low Kick,Fighting,50,90,20,Machamp
+1796,Leer,Normal,0,100,30,Machamp
+1797,Low Kick,Fighting,50,90,20,Machamp
+1798,Leer,Normal,0,100,30,Machamp
+1799,Focus Energy,Normal,0,0,30,Machamp
+1800,Seismic Toss,Fighting,0,100,20,Machamp
+1801,Submission,Fighting,80,80,25,Machamp
+1802,Mega Punch,Normal,80,85,20,Machamp
+1803,Mega Kick,Normal,120,75,5,Machamp
+1804,Toxic,Poison,0,85,10,Machamp
+1805,Body Slam,Normal,85,100,15,Machamp
+1806,Take Down,Normal,90,85,20,Machamp
+1807,Double-Edge,Normal,100,100,15,Machamp
+1808,Hyper Beam,Normal,150,90,5,Machamp
+1809,Submission,Fighting,80,80,25,Machamp
+1810,Counter,Fighting,0,100,20,Machamp
+1811,Seismic Toss,Fighting,0,100,20,Machamp
+1812,Rage,Normal,20,100,20,Machamp
+1813,Earthquake,Ground,100,100,10,Machamp
+1814,Fissure,Ground,0,30,5,Machamp
+1815,Dig,Ground,100,100,10,Machamp
+1816,Mimic,Normal,0,100,10,Machamp
+1817,Double Team,Normal,0,0,15,Machamp
+1818,Bide,Normal,0,0,10,Machamp
+1819,Metronome,Normal,0,0,10,Machamp
+1820,Fire Blast,Fire,120,85,5,Machamp
+1821,Skull Bash,Normal,100,100,15,Machamp
+1822,Rest,Psychic,0,0,10,Machamp
+1823,Rock Slide,Rock,75,90,10,Machamp
+1824,Substitute,Normal,0,0,10,Machamp
+1825,Strength,Normal,80,100,15,Machamp
+1826,Vine Whip,Grass,35,100,10,Bellsprout
+1827,Growth,Normal,0,0,40,Bellsprout
+1828,Wrap,Normal,15,85,20,Bellsprout
+1829,PoisonPowder,Poison,0,75,35,Bellsprout
+1830,Sleep Powder,Grass,0,75,15,Bellsprout
+1831,Stun Spore,Grass,0,75,30,Bellsprout
+1832,Acid,Poison,40,100,30,Bellsprout
+1833,Razor Leaf,Grass,55,95,25,Bellsprout
+1834,Slam,Normal,80,75,20,Bellsprout
+1835,Swords Dance,Normal,0,0,30,Bellsprout
+1836,Toxic,Poison,0,85,10,Bellsprout
+1837,Take Down,Normal,90,85,20,Bellsprout
+1838,Double-Edge,Normal,100,100,15,Bellsprout
+1839,Rage,Normal,20,100,20,Bellsprout
+1840,Mega Drain,Grass,40,100,10,Bellsprout
+1841,SolarBeam,Grass,120,100,10,Bellsprout
+1842,Mimic,Normal,0,100,10,Bellsprout
+1843,Double Team,Normal,0,0,15,Bellsprout
+1844,Reflect,Psychic,0,0,20,Bellsprout
+1845,Bide,Normal,0,0,10,Bellsprout
+1846,Rest,Psychic,0,0,10,Bellsprout
+1847,Substitute,Normal,0,0,10,Bellsprout
+1848,Cut,Normal,50,95,30,Bellsprout
+1849,Vine Whip,Grass,35,100,10,Weepinbell
+1850,Growth,Normal,0,0,40,Weepinbell
+1851,Wrap,Normal,15,85,20,Weepinbell
+1852,Wrap,Normal,15,85,20,Weepinbell
+1853,PoisonPowder,Poison,0,75,35,Weepinbell
+1854,Sleep Powder,Grass,0,75,15,Weepinbell
+1855,Stun Spore,Grass,0,75,30,Weepinbell
+1856,Acid,Poison,40,100,30,Weepinbell
+1857,Razor Leaf,Grass,55,95,25,Weepinbell
+1858,Slam,Normal,80,75,20,Weepinbell
+1859,Swords Dance,Normal,0,0,30,Weepinbell
+1860,Toxic,Poison,0,85,10,Weepinbell
+1861,Take Down,Normal,90,85,20,Weepinbell
+1862,Double-Edge,Normal,100,100,15,Weepinbell
+1863,Rage,Normal,20,100,20,Weepinbell
+1864,Mega Drain,Grass,40,100,10,Weepinbell
+1865,SolarBeam,Grass,120,100,10,Weepinbell
+1866,Mimic,Normal,0,100,10,Weepinbell
+1867,Double Team,Normal,0,0,15,Weepinbell
+1868,Reflect,Psychic,0,0,20,Weepinbell
+1869,Bide,Normal,0,0,10,Weepinbell
+1870,Rest,Psychic,0,0,10,Weepinbell
+1871,Substitute,Normal,0,0,10,Weepinbell
+1872,Cut,Normal,50,95,30,Weepinbell
+1873,Sleep Powder,Grass,0,75,15,Victreebel
+1874,Stun Spore,Grass,0,75,30,Victreebel
+1875,Acid,Poison,40,100,30,Victreebel
+1876,Razor Leaf,Grass,55,95,25,Victreebel
+1877,Wrap,Normal,15,85,20,Victreebel
+1878,PoisonPowder,Poison,0,75,35,Victreebel
+1879,Sleep Powder,Grass,0,75,15,Victreebel
+1880,Swords Dance,Normal,0,0,30,Victreebel
+1881,Toxic,Poison,0,85,10,Victreebel
+1882,Body Slam,Normal,85,100,15,Victreebel
+1883,Take Down,Normal,90,85,20,Victreebel
+1884,Double-Edge,Normal,100,100,15,Victreebel
+1885,Hyper Beam,Normal,150,90,5,Victreebel
+1886,Rage,Normal,20,100,20,Victreebel
+1887,Mega Drain,Grass,40,100,10,Victreebel
+1888,SolarBeam,Grass,120,100,10,Victreebel
+1889,Mimic,Normal,0,100,10,Victreebel
+1890,Double Team,Normal,0,0,15,Victreebel
+1891,Reflect,Psychic,0,0,20,Victreebel
+1892,Bide,Normal,0,0,10,Victreebel
+1893,Rest,Psychic,0,0,10,Victreebel
+1894,Substitute,Normal,0,0,10,Victreebel
+1895,Cut,Normal,50,95,30,Victreebel
+1896,Acid,Poison,40,100,30,Tentacool
+1897,Supersonic,Normal,0,55,20,Tentacool
+1898,Wrap,Normal,15,85,20,Tentacool
+1899,Poison Sting,Poison,15,100,35,Tentacool
+1900,Water Gun,Water,40,100,25,Tentacool
+1901,Constrict,Normal,10,100,35,Tentacool
+1902,Barrier,Psychic,0,0,30,Tentacool
+1903,Screech,Normal,0,85,40,Tentacool
+1904,Hydro Pump,Water,120,80,5,Tentacool
+1905,Swords Dance,Normal,0,0,30,Tentacool
+1906,Toxic,Poison,0,85,10,Tentacool
+1907,Take Down,Normal,90,85,20,Tentacool
+1908,Double-Edge,Normal,100,100,15,Tentacool
+1909,BubbleBeam,Water,65,100,20,Tentacool
+1910,Water Gun,Water,40,100,25,Tentacool
+1911,Ice Beam,Ice,95,100,10,Tentacool
+1912,Blizzard,Ice,120,90,5,Tentacool
+1913,Rage,Normal,20,100,20,Tentacool
+1914,Mega Drain,Grass,40,100,10,Tentacool
+1915,Mimic,Normal,0,100,10,Tentacool
+1916,Double Team,Normal,0,0,15,Tentacool
+1917,Reflect,Psychic,0,0,20,Tentacool
+1918,Bide,Normal,0,0,10,Tentacool
+1919,Skull Bash,Normal,100,100,15,Tentacool
+1920,Rest,Psychic,0,0,10,Tentacool
+1921,Substitute,Normal,0,0,10,Tentacool
+1922,Cut,Normal,50,95,30,Tentacool
+1923,Surf,Water,95,100,15,Tentacool
+1924,Acid,Poison,40,100,30,Tentacruel
+1925,Supersonic,Normal,0,55,20,Tentacruel
+1926,Wrap,Normal,15,85,20,Tentacruel
+1927,Supersonic,Normal,0,55,20,Tentacruel
+1928,Wrap,Normal,15,85,20,Tentacruel
+1929,Poison Sting,Poison,15,100,35,Tentacruel
+1930,Water Gun,Water,40,100,25,Tentacruel
+1931,Constrict,Normal,10,100,35,Tentacruel
+1932,Barrier,Psychic,0,0,30,Tentacruel
+1933,Screech,Normal,0,85,40,Tentacruel
+1934,Hydro Pump,Water,120,80,5,Tentacruel
+1935,Swords Dance,Normal,0,0,30,Tentacruel
+1936,Toxic,Poison,0,85,10,Tentacruel
+1937,Take Down,Normal,90,85,20,Tentacruel
+1938,Double-Edge,Normal,100,100,15,Tentacruel
+1939,BubbleBeam,Water,65,100,20,Tentacruel
+1940,Water Gun,Water,40,100,25,Tentacruel
+1941,Ice Beam,Ice,95,100,10,Tentacruel
+1942,Blizzard,Ice,120,90,5,Tentacruel
+1943,Hyper Beam,Normal,150,90,5,Tentacruel
+1944,Rage,Normal,20,100,20,Tentacruel
+1945,Mega Drain,Grass,40,100,10,Tentacruel
+1946,Mimic,Normal,0,100,10,Tentacruel
+1947,Double Team,Normal,0,0,15,Tentacruel
+1948,Reflect,Psychic,0,0,20,Tentacruel
+1949,Bide,Normal,0,0,10,Tentacruel
+1950,Skull Bash,Normal,100,100,15,Tentacruel
+1951,Rest,Psychic,0,0,10,Tentacruel
+1952,Substitute,Normal,0,0,10,Tentacruel
+1953,Cut,Normal,50,95,30,Tentacruel
+1954,Surf,Water,95,100,15,Tentacruel
+1955,Tackle,Normal,35,95,35,Geodude
+1956,Defense Curl,Normal,0,0,40,Geodude
+1957,Rock Throw,Rock,50,65,15,Geodude
+1958,Selfdestruct,Normal,130,100,5,Geodude
+1959,Harden,Normal,0,0,30,Geodude
+1960,Earthquake,Ground,100,100,10,Geodude
+1961,Explosion,Normal,170,100,5,Geodude
+1962,Mega Punch,Normal,80,85,20,Geodude
+1963,Toxic,Poison,0,85,10,Geodude
+1964,Body Slam,Normal,85,100,15,Geodude
+1965,Take Down,Normal,90,85,20,Geodude
+1966,Double-Edge,Normal,100,100,15,Geodude
+1967,Submission,Fighting,80,80,25,Geodude
+1968,Counter,Fighting,0,100,20,Geodude
+1969,Seismic Toss,Fighting,0,100,20,Geodude
+1970,Rage,Normal,20,100,20,Geodude
+1971,Earthquake,Ground,100,100,10,Geodude
+1972,Fissure,Ground,0,30,5,Geodude
+1973,Dig,Ground,100,100,10,Geodude
+1974,Mimic,Normal,0,100,10,Geodude
+1975,Double Team,Normal,0,0,15,Geodude
+1976,Bide,Normal,0,0,10,Geodude
+1977,Metronome,Normal,0,0,10,Geodude
+1978,Selfdestruct,Normal,130,100,5,Geodude
+1979,Fire Blast,Fire,120,85,5,Geodude
+1980,Rest,Psychic,0,0,10,Geodude
+1981,Explosion,Normal,170,100,5,Geodude
+1982,Rock Slide,Rock,75,90,10,Geodude
+1983,Substitute,Normal,0,0,10,Geodude
+1984,Strength,Normal,80,100,15,Geodude
+1985,Tackle,Normal,35,95,35,Graveler
+1986,Defense Curl,Normal,0,0,40,Graveler
+1987,Defense Curl,Normal,0,0,40,Graveler
+1988,Rock Throw,Rock,50,65,15,Graveler
+1989,Selfdestruct,Normal,130,100,5,Graveler
+1990,Harden,Normal,0,0,30,Graveler
+1991,Earthquake,Ground,100,100,10,Graveler
+1992,Explosion,Normal,170,100,5,Graveler
+1993,Mega Punch,Normal,80,85,20,Graveler
+1994,Toxic,Poison,0,85,10,Graveler
+1995,Body Slam,Normal,85,100,15,Graveler
+1996,Take Down,Normal,90,85,20,Graveler
+1997,Double-Edge,Normal,100,100,15,Graveler
+1998,Submission,Fighting,80,80,25,Graveler
+1999,Counter,Fighting,0,100,20,Graveler
+2000,Seismic Toss,Fighting,0,100,20,Graveler
+2001,Rage,Normal,20,100,20,Graveler
+2002,Earthquake,Ground,100,100,10,Graveler
+2003,Fissure,Ground,0,30,5,Graveler
+2004,Dig,Ground,100,100,10,Graveler
+2005,Mimic,Normal,0,100,10,Graveler
+2006,Double Team,Normal,0,0,15,Graveler
+2007,Bide,Normal,0,0,10,Graveler
+2008,Metronome,Normal,0,0,10,Graveler
+2009,Selfdestruct,Normal,130,100,5,Graveler
+2010,Fire Blast,Fire,120,85,5,Graveler
+2011,Rest,Psychic,0,0,10,Graveler
+2012,Explosion,Normal,170,100,5,Graveler
+2013,Rock Slide,Rock,75,90,10,Graveler
+2014,Substitute,Normal,0,0,10,Graveler
+2015,Strength,Normal,80,100,15,Graveler
+2016,Tackle,Normal,35,95,35,Golem
+2017,Defense Curl,Normal,0,0,40,Golem
+2018,Defense Curl,Normal,0,0,40,Golem
+2019,Rock Throw,Rock,50,65,15,Golem
+2020,Selfdestruct,Normal,130,100,5,Golem
+2021,Harden,Normal,0,0,30,Golem
+2022,Earthquake,Ground,100,100,10,Golem
+2023,Explosion,Normal,170,100,5,Golem
+2024,Mega Punch,Normal,80,85,20,Golem
+2025,Mega Kick,Normal,120,75,5,Golem
+2026,Toxic,Poison,0,85,10,Golem
+2027,Body Slam,Normal,85,100,15,Golem
+2028,Take Down,Normal,90,85,20,Golem
+2029,Double-Edge,Normal,100,100,15,Golem
+2030,Hyper Beam,Normal,150,90,5,Golem
+2031,Submission,Fighting,80,80,25,Golem
+2032,Counter,Fighting,0,100,20,Golem
+2033,Seismic Toss,Fighting,0,100,20,Golem
+2034,Rage,Normal,20,100,20,Golem
+2035,Earthquake,Ground,100,100,10,Golem
+2036,Fissure,Ground,0,30,5,Golem
+2037,Dig,Ground,100,100,10,Golem
+2038,Mimic,Normal,0,100,10,Golem
+2039,Double Team,Normal,0,0,15,Golem
+2040,Bide,Normal,0,0,10,Golem
+2041,Metronome,Normal,0,0,10,Golem
+2042,Selfdestruct,Normal,130,100,5,Golem
+2043,Fire Blast,Fire,120,85,5,Golem
+2044,Rest,Psychic,0,0,10,Golem
+2045,Explosion,Normal,170,100,5,Golem
+2046,Rock Slide,Rock,75,90,10,Golem
+2047,Substitute,Normal,0,0,10,Golem
+2048,Strength,Normal,80,100,15,Golem
+2049,Ember,Fire,40,100,25,Ponyta
+2050,Tail Whip,Normal,0,100,30,Ponyta
+2051,Stomp,Normal,65,100,20,Ponyta
+2052,Growl,Normal,0,100,40,Ponyta
+2053,Fire Spin,Fire,15,70,15,Ponyta
+2054,Take Down,Normal,90,85,20,Ponyta
+2055,Agility,Psychic,0,0,30,Ponyta
+2056,Toxic,Poison,0,85,10,Ponyta
+2057,Horn Drill,Normal,0,30,5,Ponyta
+2058,Body Slam,Normal,85,100,15,Ponyta
+2059,Take Down,Normal,90,85,20,Ponyta
+2060,Double-Edge,Normal,100,100,15,Ponyta
+2061,Rage,Normal,20,100,20,Ponyta
+2062,Mimic,Normal,0,100,10,Ponyta
+2063,Double Team,Normal,0,0,15,Ponyta
+2064,Reflect,Psychic,0,0,20,Ponyta
+2065,Bide,Normal,0,0,10,Ponyta
+2066,Fire Blast,Fire,120,85,5,Ponyta
+2067,Swift,Normal,60,0,20,Ponyta
+2068,Skull Bash,Normal,100,100,15,Ponyta
+2069,Rest,Psychic,0,0,10,Ponyta
+2070,Substitute,Normal,0,0,10,Ponyta
+2071,Ember,Fire,40,100,25,Rapidash
+2072,Tail Whip,Normal,0,100,30,Rapidash
+2073,Stomp,Normal,65,100,20,Rapidash
+2074,Growl,Normal,0,100,40,Rapidash
+2075,Tail Whip,Normal,0,100,30,Rapidash
+2076,Stomp,Normal,65,100,20,Rapidash
+2077,Growl,Normal,0,100,40,Rapidash
+2078,Fire Spin,Fire,15,70,15,Rapidash
+2079,Take Down,Normal,90,85,20,Rapidash
+2080,Agility,Psychic,0,0,30,Rapidash
+2081,Toxic,Poison,0,85,10,Rapidash
+2082,Horn Drill,Normal,0,30,5,Rapidash
+2083,Body Slam,Normal,85,100,15,Rapidash
+2084,Take Down,Normal,90,85,20,Rapidash
+2085,Double-Edge,Normal,100,100,15,Rapidash
+2086,Hyper Beam,Normal,150,90,5,Rapidash
+2087,Rage,Normal,20,100,20,Rapidash
+2088,Mimic,Normal,0,100,10,Rapidash
+2089,Double Team,Normal,0,0,15,Rapidash
+2090,Reflect,Psychic,0,0,20,Rapidash
+2091,Bide,Normal,0,0,10,Rapidash
+2092,Fire Blast,Fire,120,85,5,Rapidash
+2093,Swift,Normal,60,0,20,Rapidash
+2094,Skull Bash,Normal,100,100,15,Rapidash
+2095,Rest,Psychic,0,0,10,Rapidash
+2096,Substitute,Normal,0,0,10,Rapidash
+2097,Confusion,Psychic,50,100,25,Slowpoke
+2098,Disable,Normal,0,55,20,Slowpoke
+2099,Headbutt,Normal,70,100,15,Slowpoke
+2100,Growl,Normal,0,100,40,Slowpoke
+2101,Water Gun,Water,40,100,25,Slowpoke
+2102,Amnesia,Psychic,0,0,20,Slowpoke
+2103,Psychic,Psychic,90,100,10,Slowpoke
+2104,Toxic,Poison,0,85,10,Slowpoke
+2105,Body Slam,Normal,85,100,15,Slowpoke
+2106,Take Down,Normal,90,85,20,Slowpoke
+2107,Double-Edge,Normal,100,100,15,Slowpoke
+2108,BubbleBeam,Water,65,100,20,Slowpoke
+2109,Water Gun,Water,40,100,25,Slowpoke
+2110,Ice Beam,Ice,95,100,10,Slowpoke
+2111,Blizzard,Ice,120,90,5,Slowpoke
+2112,Pay Day,Normal,40,100,20,Slowpoke
+2113,Rage,Normal,20,100,20,Slowpoke
+2114,Earthquake,Ground,100,100,10,Slowpoke
+2115,Fissure,Ground,0,30,5,Slowpoke
+2116,Dig,Ground,100,100,10,Slowpoke
+2117,Psychic,Psychic,90,100,10,Slowpoke
+2118,Teleport,Psychic,0,0,20,Slowpoke
+2119,Mimic,Normal,0,100,10,Slowpoke
+2120,Double Team,Normal,0,0,15,Slowpoke
+2121,Reflect,Psychic,0,0,20,Slowpoke
+2122,Bide,Normal,0,0,10,Slowpoke
+2123,Fire Blast,Fire,120,85,5,Slowpoke
+2124,Swift,Normal,60,0,20,Slowpoke
+2125,Skull Bash,Normal,100,100,15,Slowpoke
+2126,Rest,Psychic,0,0,10,Slowpoke
+2127,Thunder Wave,Electric,0,100,20,Slowpoke
+2128,Psywave,Psychic,0,80,15,Slowpoke
+2129,Tri Attack,Normal,80,100,10,Slowpoke
+2130,Substitute,Normal,0,0,10,Slowpoke
+2131,Surf,Water,95,100,15,Slowpoke
+2132,Strength,Normal,80,100,15,Slowpoke
+2133,Flash,Normal,0,70,20,Slowpoke
+2134,Confusion,Psychic,50,100,25,Slowbro
+2135,Disable,Normal,0,55,20,Slowbro
+2136,Headbutt,Normal,70,100,15,Slowbro
+2137,Disable,Normal,0,55,20,Slowbro
+2138,Headbutt,Normal,70,100,15,Slowbro
+2139,Growl,Normal,0,100,40,Slowbro
+2140,Water Gun,Water,40,100,25,Slowbro
+2141,Withdraw,Water,0,0,40,Slowbro
+2142,Amnesia,Psychic,0,0,20,Slowbro
+2143,Psychic,Psychic,90,100,10,Slowbro
+2144,Mega Punch,Normal,80,85,20,Slowbro
+2145,Mega Kick,Normal,120,75,5,Slowbro
+2146,Toxic,Poison,0,85,10,Slowbro
+2147,Body Slam,Normal,85,100,15,Slowbro
+2148,Take Down,Normal,90,85,20,Slowbro
+2149,Double-Edge,Normal,100,100,15,Slowbro
+2150,BubbleBeam,Water,65,100,20,Slowbro
+2151,Water Gun,Water,40,100,25,Slowbro
+2152,Ice Beam,Ice,95,100,10,Slowbro
+2153,Blizzard,Ice,120,90,5,Slowbro
+2154,Hyper Beam,Normal,150,90,5,Slowbro
+2155,Pay Day,Normal,40,100,20,Slowbro
+2156,Submission,Fighting,80,80,25,Slowbro
+2157,Counter,Fighting,0,100,20,Slowbro
+2158,Seismic Toss,Fighting,0,100,20,Slowbro
+2159,Rage,Normal,20,100,20,Slowbro
+2160,Earthquake,Ground,100,100,10,Slowbro
+2161,Fissure,Ground,0,30,5,Slowbro
+2162,Dig,Ground,100,100,10,Slowbro
+2163,Psychic,Psychic,90,100,10,Slowbro
+2164,Teleport,Psychic,0,0,20,Slowbro
+2165,Mimic,Normal,0,100,10,Slowbro
+2166,Double Team,Normal,0,0,15,Slowbro
+2167,Reflect,Psychic,0,0,20,Slowbro
+2168,Bide,Normal,0,0,10,Slowbro
+2169,Fire Blast,Fire,120,85,5,Slowbro
+2170,Swift,Normal,60,0,20,Slowbro
+2171,Skull Bash,Normal,100,100,15,Slowbro
+2172,Rest,Psychic,0,0,10,Slowbro
+2173,Thunder Wave,Electric,0,100,20,Slowbro
+2174,Psywave,Psychic,0,80,15,Slowbro
+2175,Tri Attack,Normal,80,100,10,Slowbro
+2176,Substitute,Normal,0,0,10,Slowbro
+2177,Surf,Water,95,100,15,Slowbro
+2178,Strength,Normal,80,100,15,Slowbro
+2179,Flash,Normal,0,70,20,Slowbro
+2180,Tackle,Normal,35,95,35,Magnemite
+2181,SonicBoom,Normal,0,90,20,Magnemite
+2182,ThunderShock,Electric,40,100,30,Magnemite
+2183,Supersonic,Normal,0,55,20,Magnemite
+2184,Thunder Wave,Electric,0,100,20,Magnemite
+2185,Swift,Normal,60,0,20,Magnemite
+2186,Screech,Normal,0,85,40,Magnemite
+2187,Toxic,Poison,0,85,10,Magnemite
+2188,Take Down,Normal,90,85,20,Magnemite
+2189,Double-Edge,Normal,100,100,15,Magnemite
+2190,Rage,Normal,20,100,20,Magnemite
+2191,Thunderbolt,Electric,95,100,15,Magnemite
+2192,Thunder,Electric,120,70,10,Magnemite
+2193,Teleport,Psychic,0,0,20,Magnemite
+2194,Mimic,Normal,0,100,10,Magnemite
+2195,Double Team,Normal,0,0,15,Magnemite
+2196,Reflect,Psychic,0,0,20,Magnemite
+2197,Bide,Normal,0,0,10,Magnemite
+2198,Swift,Normal,60,0,20,Magnemite
+2199,Rest,Psychic,0,0,10,Magnemite
+2200,Thunder Wave,Electric,0,100,20,Magnemite
+2201,Substitute,Normal,0,0,10,Magnemite
+2202,Flash,Normal,0,70,20,Magnemite
+2203,Tackle,Normal,35,95,35,Magneton
+2204,SonicBoom,Normal,0,90,20,Magneton
+2205,ThunderShock,Electric,40,100,30,Magneton
+2206,SonicBoom,Normal,0,90,20,Magneton
+2207,ThunderShock,Electric,40,100,30,Magneton
+2208,Supersonic,Normal,0,55,20,Magneton
+2209,Thunder Wave,Electric,0,100,20,Magneton
+2210,Swift,Normal,60,0,20,Magneton
+2211,Screech,Normal,0,85,40,Magneton
+2212,Toxic,Poison,0,85,10,Magneton
+2213,Take Down,Normal,90,85,20,Magneton
+2214,Double-Edge,Normal,100,100,15,Magneton
+2215,Hyper Beam,Normal,150,90,5,Magneton
+2216,Rage,Normal,20,100,20,Magneton
+2217,Thunderbolt,Electric,95,100,15,Magneton
+2218,Thunder,Electric,120,70,10,Magneton
+2219,Teleport,Psychic,0,0,20,Magneton
+2220,Mimic,Normal,0,100,10,Magneton
+2221,Double Team,Normal,0,0,15,Magneton
+2222,Reflect,Psychic,0,0,20,Magneton
+2223,Bide,Normal,0,0,10,Magneton
+2224,Swift,Normal,60,0,20,Magneton
+2225,Rest,Psychic,0,0,10,Magneton
+2226,Thunder Wave,Electric,0,100,20,Magneton
+2227,Substitute,Normal,0,0,10,Magneton
+2228,Flash,Normal,0,70,20,Magneton
+2229,Peck,Flying,35,100,35,Farfetch'd
+2230,Sand-Attack,Normal,0,100,15,Farfetch'd
+2231,Leer,Normal,0,100,30,Farfetch'd
+2232,Fury Attack,Normal,15,85,20,Farfetch'd
+2233,Swords Dance,Normal,0,0,30,Farfetch'd
+2234,Agility,Psychic,0,0,30,Farfetch'd
+2235,Slash,Normal,70,100,20,Farfetch'd
+2236,Razor Wind,Normal,80,75,10,Farfetch'd
+2237,Swords Dance,Normal,0,0,30,Farfetch'd
+2238,Whirlwind,Normal,0,85,20,Farfetch'd
+2239,Toxic,Poison,0,85,10,Farfetch'd
+2240,Body Slam,Normal,85,100,15,Farfetch'd
+2241,Take Down,Normal,90,85,20,Farfetch'd
+2242,Double-Edge,Normal,100,100,15,Farfetch'd
+2243,Rage,Normal,20,100,20,Farfetch'd
+2244,Mimic,Normal,0,100,10,Farfetch'd
+2245,Double Team,Normal,0,0,15,Farfetch'd
+2246,Reflect,Psychic,0,0,20,Farfetch'd
+2247,Bide,Normal,0,0,10,Farfetch'd
+2248,Swift,Normal,60,0,20,Farfetch'd
+2249,Skull Bash,Normal,100,100,15,Farfetch'd
+2250,Rest,Psychic,0,0,10,Farfetch'd
+2251,Substitute,Normal,0,0,10,Farfetch'd
+2252,Cut,Normal,50,95,30,Farfetch'd
+2253,Fly,Flying,70,95,15,Farfetch'd
+2254,Peck,Flying,35,100,35,Doduo
+2255,Growl,Normal,0,100,40,Doduo
+2256,Fury Attack,Normal,15,85,20,Doduo
+2257,Drill Peck,Flying,80,100,20,Doduo
+2258,Rage,Normal,20,100,20,Doduo
+2259,Tri Attack,Normal,80,100,10,Doduo
+2260,Agility,Psychic,0,0,30,Doduo
+2261,Whirlwind,Normal,0,85,20,Doduo
+2262,Toxic,Poison,0,85,10,Doduo
+2263,Body Slam,Normal,85,100,15,Doduo
+2264,Take Down,Normal,90,85,20,Doduo
+2265,Double-Edge,Normal,100,100,15,Doduo
+2266,Rage,Normal,20,100,20,Doduo
+2267,Mimic,Normal,0,100,10,Doduo
+2268,Double Team,Normal,0,0,15,Doduo
+2269,Reflect,Psychic,0,0,20,Doduo
+2270,Bide,Normal,0,0,10,Doduo
+2271,Skull Bash,Normal,100,100,15,Doduo
+2272,Sky Attack,Flying,140,90,5,Doduo
+2273,Rest,Psychic,0,0,10,Doduo
+2274,Tri Attack,Normal,80,100,10,Doduo
+2275,Substitute,Normal,0,0,10,Doduo
+2276,Fly,Flying,70,95,15,Doduo
+2277,Peck,Flying,35,100,35,Dodrio
+2278,Growl,Normal,0,100,40,Dodrio
+2279,Fury Attack,Normal,15,85,20,Dodrio
+2280,Growl,Normal,0,100,40,Dodrio
+2281,Fury Attack,Normal,15,85,20,Dodrio
+2282,Drill Peck,Flying,80,100,20,Dodrio
+2283,Rage,Normal,20,100,20,Dodrio
+2284,Tri Attack,Normal,80,100,10,Dodrio
+2285,Agility,Psychic,0,0,30,Dodrio
+2286,Whirlwind,Normal,0,85,20,Dodrio
+2287,Toxic,Poison,0,85,10,Dodrio
+2288,Body Slam,Normal,85,100,15,Dodrio
+2289,Take Down,Normal,90,85,20,Dodrio
+2290,Double-Edge,Normal,100,100,15,Dodrio
+2291,Hyper Beam,Normal,150,90,5,Dodrio
+2292,Rage,Normal,20,100,20,Dodrio
+2293,Mimic,Normal,0,100,10,Dodrio
+2294,Double Team,Normal,0,0,15,Dodrio
+2295,Reflect,Psychic,0,0,20,Dodrio
+2296,Bide,Normal,0,0,10,Dodrio
+2297,Skull Bash,Normal,100,100,15,Dodrio
+2298,Sky Attack,Flying,140,90,5,Dodrio
+2299,Rest,Psychic,0,0,10,Dodrio
+2300,Tri Attack,Normal,80,100,10,Dodrio
+2301,Substitute,Normal,0,0,10,Dodrio
+2302,Fly,Flying,70,95,15,Dodrio
+2303,Headbutt,Normal,70,100,15,Seel
+2304,Growl,Normal,0,100,40,Seel
+2305,Aurora Beam,Ice,65,100,20,Seel
+2306,Rest,Psychic,0,0,10,Seel
+2307,Take Down,Normal,90,85,20,Seel
+2308,Ice Beam,Ice,95,100,10,Seel
+2309,Toxic,Poison,0,85,10,Seel
+2310,Horn Drill,Normal,0,30,5,Seel
+2311,Body Slam,Normal,85,100,15,Seel
+2312,Take Down,Normal,90,85,20,Seel
+2313,Double-Edge,Normal,100,100,15,Seel
+2314,BubbleBeam,Water,65,100,20,Seel
+2315,Water Gun,Water,40,100,25,Seel
+2316,Ice Beam,Ice,95,100,10,Seel
+2317,Blizzard,Ice,120,90,5,Seel
+2318,Pay Day,Normal,40,100,20,Seel
+2319,Rage,Normal,20,100,20,Seel
+2320,Mimic,Normal,0,100,10,Seel
+2321,Double Team,Normal,0,0,15,Seel
+2322,Bide,Normal,0,0,10,Seel
+2323,Skull Bash,Normal,100,100,15,Seel
+2324,Rest,Psychic,0,0,10,Seel
+2325,Substitute,Normal,0,0,10,Seel
+2326,Surf,Water,95,100,15,Seel
+2327,Strength,Normal,80,100,15,Seel
+2328,Headbutt,Normal,70,100,15,Dewgong
+2329,Growl,Normal,0,100,40,Dewgong
+2330,Aurora Beam,Ice,65,100,20,Dewgong
+2331,Growl,Normal,0,100,40,Dewgong
+2332,Aurora Beam,Ice,65,100,20,Dewgong
+2333,Rest,Psychic,0,0,10,Dewgong
+2334,Take Down,Normal,90,85,20,Dewgong
+2335,Ice Beam,Ice,95,100,10,Dewgong
+2336,Toxic,Poison,0,85,10,Dewgong
+2337,Horn Drill,Normal,0,30,5,Dewgong
+2338,Body Slam,Normal,85,100,15,Dewgong
+2339,Take Down,Normal,90,85,20,Dewgong
+2340,Double-Edge,Normal,100,100,15,Dewgong
+2341,BubbleBeam,Water,65,100,20,Dewgong
+2342,Water Gun,Water,40,100,25,Dewgong
+2343,Ice Beam,Ice,95,100,10,Dewgong
+2344,Blizzard,Ice,120,90,5,Dewgong
+2345,Hyper Beam,Normal,150,90,5,Dewgong
+2346,Pay Day,Normal,40,100,20,Dewgong
+2347,Rage,Normal,20,100,20,Dewgong
+2348,Mimic,Normal,0,100,10,Dewgong
+2349,Double Team,Normal,0,0,15,Dewgong
+2350,Bide,Normal,0,0,10,Dewgong
+2351,Skull Bash,Normal,100,100,15,Dewgong
+2352,Rest,Psychic,0,0,10,Dewgong
+2353,Substitute,Normal,0,0,10,Dewgong
+2354,Surf,Water,95,100,15,Dewgong
+2355,Strength,Normal,80,100,15,Dewgong
+2356,Pound,Normal,40,100,35,Grimer
+2357,Disable,Normal,0,55,20,Grimer
+2358,Poison Gas,Poison,0,55,40,Grimer
+2359,Minimize,Normal,0,0,20,Grimer
+2360,Sludge,Poison,65,100,20,Grimer
+2361,Harden,Normal,0,0,30,Grimer
+2362,Screech,Normal,0,85,40,Grimer
+2363,Acid Armor,Poison,0,0,40,Grimer
+2364,Toxic,Poison,0,85,10,Grimer
+2365,Body Slam,Normal,85,100,15,Grimer
+2366,Rage,Normal,20,100,20,Grimer
+2367,Mega Drain,Grass,40,100,10,Grimer
+2368,Thunderbolt,Electric,95,100,15,Grimer
+2369,Thunder,Electric,120,70,10,Grimer
+2370,Mimic,Normal,0,100,10,Grimer
+2371,Double Team,Normal,0,0,15,Grimer
+2372,Bide,Normal,0,0,10,Grimer
+2373,Selfdestruct,Normal,130,100,5,Grimer
+2374,Fire Blast,Fire,120,85,5,Grimer
+2375,Rest,Psychic,0,0,10,Grimer
+2376,Explosion,Normal,170,100,5,Grimer
+2377,Substitute,Normal,0,0,10,Grimer
+2378,Pound,Normal,40,100,35,Muk
+2379,Disable,Normal,0,55,20,Muk
+2380,Poison Gas,Poison,0,55,40,Muk
+2381,Poison Gas,Poison,0,55,40,Muk
+2382,Minimize,Normal,0,0,20,Muk
+2383,Sludge,Poison,65,100,20,Muk
+2384,Harden,Normal,0,0,30,Muk
+2385,Screech,Normal,0,85,40,Muk
+2386,Acid Armor,Poison,0,0,40,Muk
+2387,Toxic,Poison,0,85,10,Muk
+2388,Body Slam,Normal,85,100,15,Muk
+2389,Hyper Beam,Normal,150,90,5,Muk
+2390,Rage,Normal,20,100,20,Muk
+2391,Mega Drain,Grass,40,100,10,Muk
+2392,Thunderbolt,Electric,95,100,15,Muk
+2393,Thunder,Electric,120,70,10,Muk
+2394,Mimic,Normal,0,100,10,Muk
+2395,Double Team,Normal,0,0,15,Muk
+2396,Bide,Normal,0,0,10,Muk
+2397,Selfdestruct,Normal,130,100,5,Muk
+2398,Fire Blast,Fire,120,85,5,Muk
+2399,Rest,Psychic,0,0,10,Muk
+2400,Explosion,Normal,170,100,5,Muk
+2401,Substitute,Normal,0,0,10,Muk
+2402,Tackle,Normal,35,95,35,Shellder
+2403,Withdraw,Water,0,0,40,Shellder
+2404,Supersonic,Normal,0,55,20,Shellder
+2405,Clamp,Water,35,75,10,Shellder
+2406,Aurora Beam,Ice,65,100,20,Shellder
+2407,Leer,Normal,0,100,30,Shellder
+2408,Ice Beam,Ice,95,100,10,Shellder
+2409,Toxic,Poison,0,85,10,Shellder
+2410,Take Down,Normal,90,85,20,Shellder
+2411,Double-Edge,Normal,100,100,15,Shellder
+2412,BubbleBeam,Water,65,100,20,Shellder
+2413,Water Gun,Water,40,100,25,Shellder
+2414,Ice Beam,Ice,95,100,10,Shellder
+2415,Blizzard,Ice,120,90,5,Shellder
+2416,Rage,Normal,20,100,20,Shellder
+2417,Teleport,Psychic,0,0,20,Shellder
+2418,Mimic,Normal,0,100,10,Shellder
+2419,Double Team,Normal,0,0,15,Shellder
+2420,Reflect,Psychic,0,0,20,Shellder
+2421,Bide,Normal,0,0,10,Shellder
+2422,Selfdestruct,Normal,130,100,5,Shellder
+2423,Swift,Normal,60,0,20,Shellder
+2424,Rest,Psychic,0,0,10,Shellder
+2425,Explosion,Normal,170,100,5,Shellder
+2426,Tri Attack,Normal,80,100,10,Shellder
+2427,Substitute,Normal,0,0,10,Shellder
+2428,Surf,Water,95,100,15,Shellder
+2429,Withdraw,Water,0,0,40,Cloyster
+2430,Supersonic,Normal,0,55,20,Cloyster
+2431,Clamp,Water,35,75,10,Cloyster
+2432,Aurora Beam,Ice,65,100,20,Cloyster
+2433,Spike Cannon,Normal,20,100,15,Cloyster
+2434,Toxic,Poison,0,85,10,Cloyster
+2435,Take Down,Normal,90,85,20,Cloyster
+2436,Double-Edge,Normal,100,100,15,Cloyster
+2437,BubbleBeam,Water,65,100,20,Cloyster
+2438,Water Gun,Water,40,100,25,Cloyster
+2439,Ice Beam,Ice,95,100,10,Cloyster
+2440,Blizzard,Ice,120,90,5,Cloyster
+2441,Hyper Beam,Normal,150,90,5,Cloyster
+2442,Rage,Normal,20,100,20,Cloyster
+2443,Teleport,Psychic,0,0,20,Cloyster
+2444,Mimic,Normal,0,100,10,Cloyster
+2445,Double Team,Normal,0,0,15,Cloyster
+2446,Reflect,Psychic,0,0,20,Cloyster
+2447,Bide,Normal,0,0,10,Cloyster
+2448,Selfdestruct,Normal,130,100,5,Cloyster
+2449,Swift,Normal,60,0,20,Cloyster
+2450,Rest,Psychic,0,0,10,Cloyster
+2451,Explosion,Normal,170,100,5,Cloyster
+2452,Tri Attack,Normal,80,100,10,Cloyster
+2453,Substitute,Normal,0,0,10,Cloyster
+2454,Surf,Water,95,100,15,Cloyster
+2455,Lick,Ghost,20,100,30,Gastly
+2456,Confuse Ray,Ghost,0,100,10,Gastly
+2457,Night Shade,Ghost,0,100,15,Gastly
+2458,Hypnosis,Psychic,0,60,20,Gastly
+2459,Dream Eater,Psychic,100,100,15,Gastly
+2460,Toxic,Poison,0,85,10,Gastly
+2461,Rage,Normal,20,100,20,Gastly
+2462,Mega Drain,Grass,40,100,10,Gastly
+2463,Thunderbolt,Electric,95,100,15,Gastly
+2464,Thunder,Electric,120,70,10,Gastly
+2465,Psychic,Psychic,90,100,10,Gastly
+2466,Mimic,Normal,0,100,10,Gastly
+2467,Double Team,Normal,0,0,15,Gastly
+2468,Bide,Normal,0,0,10,Gastly
+2469,Selfdestruct,Normal,130,100,5,Gastly
+2470,Dream Eater,Psychic,100,100,15,Gastly
+2471,Rest,Psychic,0,0,10,Gastly
+2472,Psywave,Psychic,0,80,15,Gastly
+2473,Explosion,Normal,170,100,5,Gastly
+2474,Substitute,Normal,0,0,10,Gastly
+2475,Lick,Ghost,20,100,30,Haunter
+2476,Confuse Ray,Ghost,0,100,10,Haunter
+2477,Night Shade,Ghost,0,100,15,Haunter
+2478,Hypnosis,Psychic,0,60,20,Haunter
+2479,Dream Eater,Psychic,100,100,15,Haunter
+2480,Toxic,Poison,0,85,10,Haunter
+2481,Rage,Normal,20,100,20,Haunter
+2482,Mega Drain,Grass,40,100,10,Haunter
+2483,Thunderbolt,Electric,95,100,15,Haunter
+2484,Thunder,Electric,120,70,10,Haunter
+2485,Psychic,Psychic,90,100,10,Haunter
+2486,Mimic,Normal,0,100,10,Haunter
+2487,Double Team,Normal,0,0,15,Haunter
+2488,Bide,Normal,0,0,10,Haunter
+2489,Selfdestruct,Normal,130,100,5,Haunter
+2490,Dream Eater,Psychic,100,100,15,Haunter
+2491,Rest,Psychic,0,0,10,Haunter
+2492,Psywave,Psychic,0,80,15,Haunter
+2493,Explosion,Normal,170,100,5,Haunter
+2494,Substitute,Normal,0,0,10,Haunter
+2495,Lick,Ghost,20,100,30,Gengar
+2496,Confuse Ray,Ghost,0,100,10,Gengar
+2497,Night Shade,Ghost,0,100,15,Gengar
+2498,Hypnosis,Psychic,0,60,20,Gengar
+2499,Dream Eater,Psychic,100,100,15,Gengar
+2500,Mega Punch,Normal,80,85,20,Gengar
+2501,Mega Kick,Normal,120,75,5,Gengar
+2502,Toxic,Poison,0,85,10,Gengar
+2503,Body Slam,Normal,85,100,15,Gengar
+2504,Take Down,Normal,90,85,20,Gengar
+2505,Double-Edge,Normal,100,100,15,Gengar
+2506,Hyper Beam,Normal,150,90,5,Gengar
+2507,Submission,Fighting,80,80,25,Gengar
+2508,Counter,Fighting,0,100,20,Gengar
+2509,Seismic Toss,Fighting,0,100,20,Gengar
+2510,Rage,Normal,20,100,20,Gengar
+2511,Mega Drain,Grass,40,100,10,Gengar
+2512,Thunderbolt,Electric,95,100,15,Gengar
+2513,Thunder,Electric,120,70,10,Gengar
+2514,Psychic,Psychic,90,100,10,Gengar
+2515,Mimic,Normal,0,100,10,Gengar
+2516,Double Team,Normal,0,0,15,Gengar
+2517,Bide,Normal,0,0,10,Gengar
+2518,Metronome,Normal,0,0,10,Gengar
+2519,Selfdestruct,Normal,130,100,5,Gengar
+2520,Skull Bash,Normal,100,100,15,Gengar
+2521,Dream Eater,Psychic,100,100,15,Gengar
+2522,Rest,Psychic,0,0,10,Gengar
+2523,Psywave,Psychic,0,80,15,Gengar
+2524,Explosion,Normal,170,100,5,Gengar
+2525,Substitute,Normal,0,0,10,Gengar
+2526,Strength,Normal,80,100,15,Gengar
+2527,Tackle,Normal,35,95,35,Onix
+2528,Screech,Normal,0,85,40,Onix
+2529,Bind,Normal,15,75,20,Onix
+2530,Rock Throw,Rock,50,65,15,Onix
+2531,Rage,Normal,20,100,20,Onix
+2532,Slam,Normal,80,75,20,Onix
+2533,Harden,Normal,0,0,30,Onix
+2534,Toxic,Poison,0,85,10,Onix
+2535,Body Slam,Normal,85,100,15,Onix
+2536,Take Down,Normal,90,85,20,Onix
+2537,Double-Edge,Normal,100,100,15,Onix
+2538,Rage,Normal,20,100,20,Onix
+2539,Earthquake,Ground,100,100,10,Onix
+2540,Fissure,Ground,0,30,5,Onix
+2541,Dig,Ground,100,100,10,Onix
+2542,Mimic,Normal,0,100,10,Onix
+2543,Double Team,Normal,0,0,15,Onix
+2544,Bide,Normal,0,0,10,Onix
+2545,Selfdestruct,Normal,130,100,5,Onix
+2546,Skull Bash,Normal,100,100,15,Onix
+2547,Rest,Psychic,0,0,10,Onix
+2548,Explosion,Normal,170,100,5,Onix
+2549,Rock Slide,Rock,75,90,10,Onix
+2550,Substitute,Normal,0,0,10,Onix
+2551,Strength,Normal,80,100,15,Onix
+2552,Pound,Normal,40,100,35,Drowzee
+2553,Hypnosis,Psychic,0,60,20,Drowzee
+2554,Disable,Normal,0,55,20,Drowzee
+2555,Confusion,Psychic,50,100,25,Drowzee
+2556,Headbutt,Normal,70,100,15,Drowzee
+2557,Poison Gas,Poison,0,55,40,Drowzee
+2558,Psychic,Psychic,90,100,10,Drowzee
+2559,Meditate,Psychic,0,0,40,Drowzee
+2560,Mega Punch,Normal,80,85,20,Drowzee
+2561,Mega Kick,Normal,120,75,5,Drowzee
+2562,Toxic,Poison,0,85,10,Drowzee
+2563,Body Slam,Normal,85,100,15,Drowzee
+2564,Take Down,Normal,90,85,20,Drowzee
+2565,Double-Edge,Normal,100,100,15,Drowzee
+2566,Submission,Fighting,80,80,25,Drowzee
+2567,Counter,Fighting,0,100,20,Drowzee
+2568,Seismic Toss,Fighting,0,100,20,Drowzee
+2569,Rage,Normal,20,100,20,Drowzee
+2570,Psychic,Psychic,90,100,10,Drowzee
+2571,Teleport,Psychic,0,0,20,Drowzee
+2572,Mimic,Normal,0,100,10,Drowzee
+2573,Double Team,Normal,0,0,15,Drowzee
+2574,Reflect,Psychic,0,0,20,Drowzee
+2575,Bide,Normal,0,0,10,Drowzee
+2576,Metronome,Normal,0,0,10,Drowzee
+2577,Skull Bash,Normal,100,100,15,Drowzee
+2578,Dream Eater,Psychic,100,100,15,Drowzee
+2579,Rest,Psychic,0,0,10,Drowzee
+2580,Thunder Wave,Electric,0,100,20,Drowzee
+2581,Psywave,Psychic,0,80,15,Drowzee
+2582,Tri Attack,Normal,80,100,10,Drowzee
+2583,Substitute,Normal,0,0,10,Drowzee
+2584,Flash,Normal,0,70,20,Drowzee
+2585,Pound,Normal,40,100,35,Hypno
+2586,Hypnosis,Psychic,0,60,20,Hypno
+2587,Disable,Normal,0,55,20,Hypno
+2588,Confusion,Psychic,50,100,25,Hypno
+2589,Disable,Normal,0,55,20,Hypno
+2590,Confusion,Psychic,50,100,25,Hypno
+2591,Headbutt,Normal,70,100,15,Hypno
+2592,Poison Gas,Poison,0,55,40,Hypno
+2593,Psychic,Psychic,90,100,10,Hypno
+2594,Meditate,Psychic,0,0,40,Hypno
+2595,Mega Punch,Normal,80,85,20,Hypno
+2596,Mega Kick,Normal,120,75,5,Hypno
+2597,Toxic,Poison,0,85,10,Hypno
+2598,Body Slam,Normal,85,100,15,Hypno
+2599,Take Down,Normal,90,85,20,Hypno
+2600,Double-Edge,Normal,100,100,15,Hypno
+2601,Hyper Beam,Normal,150,90,5,Hypno
+2602,Submission,Fighting,80,80,25,Hypno
+2603,Counter,Fighting,0,100,20,Hypno
+2604,Seismic Toss,Fighting,0,100,20,Hypno
+2605,Rage,Normal,20,100,20,Hypno
+2606,Psychic,Psychic,90,100,10,Hypno
+2607,Teleport,Psychic,0,0,20,Hypno
+2608,Mimic,Normal,0,100,10,Hypno
+2609,Double Team,Normal,0,0,15,Hypno
+2610,Reflect,Psychic,0,0,20,Hypno
+2611,Bide,Normal,0,0,10,Hypno
+2612,Metronome,Normal,0,0,10,Hypno
+2613,Skull Bash,Normal,100,100,15,Hypno
+2614,Dream Eater,Psychic,100,100,15,Hypno
+2615,Rest,Psychic,0,0,10,Hypno
+2616,Thunder Wave,Electric,0,100,20,Hypno
+2617,Psywave,Psychic,0,80,15,Hypno
+2618,Tri Attack,Normal,80,100,10,Hypno
+2619,Substitute,Normal,0,0,10,Hypno
+2620,Flash,Normal,0,70,20,Hypno
+2621,Bubble,Water,20,100,30,Krabby
+2622,Leer,Normal,0,100,30,Krabby
+2623,ViceGrip,Normal,55,100,30,Krabby
+2624,Guillotine,Normal,0,30,5,Krabby
+2625,Stomp,Normal,65,100,20,Krabby
+2626,Crabhammer,Water,90,85,10,Krabby
+2627,Harden,Normal,0,0,30,Krabby
+2628,Swords Dance,Normal,0,0,30,Krabby
+2629,Toxic,Poison,0,85,10,Krabby
+2630,Body Slam,Normal,85,100,15,Krabby
+2631,Take Down,Normal,90,85,20,Krabby
+2632,Double-Edge,Normal,100,100,15,Krabby
+2633,BubbleBeam,Water,65,100,20,Krabby
+2634,Water Gun,Water,40,100,25,Krabby
+2635,Ice Beam,Ice,95,100,10,Krabby
+2636,Blizzard,Ice,120,90,5,Krabby
+2637,Rage,Normal,20,100,20,Krabby
+2638,Mimic,Normal,0,100,10,Krabby
+2639,Double Team,Normal,0,0,15,Krabby
+2640,Bide,Normal,0,0,10,Krabby
+2641,Rest,Psychic,0,0,10,Krabby
+2642,Substitute,Normal,0,0,10,Krabby
+2643,Cut,Normal,50,95,30,Krabby
+2644,Surf,Water,95,100,15,Krabby
+2645,Strength,Normal,80,100,15,Krabby
+2646,Bubble,Water,20,100,30,Kingler
+2647,Leer,Normal,0,100,30,Kingler
+2648,ViceGrip,Normal,55,100,30,Kingler
+2649,ViceGrip,Normal,55,100,30,Kingler
+2650,Guillotine,Normal,0,30,5,Kingler
+2651,Stomp,Normal,65,100,20,Kingler
+2652,Crabhammer,Water,90,85,10,Kingler
+2653,Harden,Normal,0,0,30,Kingler
+2654,Swords Dance,Normal,0,0,30,Kingler
+2655,Toxic,Poison,0,85,10,Kingler
+2656,Body Slam,Normal,85,100,15,Kingler
+2657,Take Down,Normal,90,85,20,Kingler
+2658,Double-Edge,Normal,100,100,15,Kingler
+2659,BubbleBeam,Water,65,100,20,Kingler
+2660,Water Gun,Water,40,100,25,Kingler
+2661,Ice Beam,Ice,95,100,10,Kingler
+2662,Blizzard,Ice,120,90,5,Kingler
+2663,Hyper Beam,Normal,150,90,5,Kingler
+2664,Rage,Normal,20,100,20,Kingler
+2665,Mimic,Normal,0,100,10,Kingler
+2666,Double Team,Normal,0,0,15,Kingler
+2667,Bide,Normal,0,0,10,Kingler
+2668,Rest,Psychic,0,0,10,Kingler
+2669,Substitute,Normal,0,0,10,Kingler
+2670,Cut,Normal,50,95,30,Kingler
+2671,Surf,Water,95,100,15,Kingler
+2672,Strength,Normal,80,100,15,Kingler
+2673,Tackle,Normal,35,95,35,Voltorb
+2674,Screech,Normal,0,85,40,Voltorb
+2675,SonicBoom,Normal,0,90,20,Voltorb
+2676,Selfdestruct,Normal,130,100,5,Voltorb
+2677,Light Screen,Psychic,0,0,30,Voltorb
+2678,Swift,Normal,60,0,20,Voltorb
+2679,Explosion,Normal,170,100,5,Voltorb
+2680,Toxic,Poison,0,85,10,Voltorb
+2681,Take Down,Normal,90,85,20,Voltorb
+2682,Rage,Normal,20,100,20,Voltorb
+2683,Thunderbolt,Electric,95,100,15,Voltorb
+2684,Thunder,Electric,120,70,10,Voltorb
+2685,Teleport,Psychic,0,0,20,Voltorb
+2686,Mimic,Normal,0,100,10,Voltorb
+2687,Double Team,Normal,0,0,15,Voltorb
+2688,Reflect,Psychic,0,0,20,Voltorb
+2689,Bide,Normal,0,0,10,Voltorb
+2690,Selfdestruct,Normal,130,100,5,Voltorb
+2691,Swift,Normal,60,0,20,Voltorb
+2692,Rest,Psychic,0,0,10,Voltorb
+2693,Thunder Wave,Electric,0,100,20,Voltorb
+2694,Explosion,Normal,170,100,5,Voltorb
+2695,Substitute,Normal,0,0,10,Voltorb
+2696,Flash,Normal,0,70,20,Voltorb
+2697,Tackle,Normal,35,95,35,Electrode
+2698,Screech,Normal,0,85,40,Electrode
+2699,SonicBoom,Normal,0,90,20,Electrode
+2700,SonicBoom,Normal,0,90,20,Electrode
+2701,Selfdestruct,Normal,130,100,5,Electrode
+2702,Light Screen,Psychic,0,0,30,Electrode
+2703,Swift,Normal,60,0,20,Electrode
+2704,Explosion,Normal,170,100,5,Electrode
+2705,Toxic,Poison,0,85,10,Electrode
+2706,Take Down,Normal,90,85,20,Electrode
+2707,Hyper Beam,Normal,150,90,5,Electrode
+2708,Rage,Normal,20,100,20,Electrode
+2709,Thunderbolt,Electric,95,100,15,Electrode
+2710,Thunder,Electric,120,70,10,Electrode
+2711,Teleport,Psychic,0,0,20,Electrode
+2712,Mimic,Normal,0,100,10,Electrode
+2713,Double Team,Normal,0,0,15,Electrode
+2714,Reflect,Psychic,0,0,20,Electrode
+2715,Bide,Normal,0,0,10,Electrode
+2716,Selfdestruct,Normal,130,100,5,Electrode
+2717,Swift,Normal,60,0,20,Electrode
+2718,Skull Bash,Normal,100,100,15,Electrode
+2719,Rest,Psychic,0,0,10,Electrode
+2720,Thunder Wave,Electric,0,100,20,Electrode
+2721,Explosion,Normal,170,100,5,Electrode
+2722,Substitute,Normal,0,0,10,Electrode
+2723,Flash,Normal,0,70,20,Electrode
+2724,Barrage,Normal,15,85,20,Exeggcute
+2725,Hypnosis,Psychic,0,60,20,Exeggcute
+2726,Reflect,Psychic,0,0,20,Exeggcute
+2727,Leech Seed,Grass,0,90,10,Exeggcute
+2728,Stun Spore,Grass,0,75,30,Exeggcute
+2729,PoisonPowder,Poison,0,75,35,Exeggcute
+2730,SolarBeam,Grass,120,100,10,Exeggcute
+2731,Sleep Powder,Grass,0,75,15,Exeggcute
+2732,Toxic,Poison,0,85,10,Exeggcute
+2733,Take Down,Normal,90,85,20,Exeggcute
+2734,Double-Edge,Normal,100,100,15,Exeggcute
+2735,Rage,Normal,20,100,20,Exeggcute
+2736,Psychic,Psychic,90,100,10,Exeggcute
+2737,Teleport,Psychic,0,0,20,Exeggcute
+2738,Mimic,Normal,0,100,10,Exeggcute
+2739,Double Team,Normal,0,0,15,Exeggcute
+2740,Reflect,Psychic,0,0,20,Exeggcute
+2741,Bide,Normal,0,0,10,Exeggcute
+2742,Selfdestruct,Normal,130,100,5,Exeggcute
+2743,Egg Bomb,Normal,100,75,10,Exeggcute
+2744,Rest,Psychic,0,0,10,Exeggcute
+2745,Psywave,Psychic,0,80,15,Exeggcute
+2746,Explosion,Normal,170,100,5,Exeggcute
+2747,Substitute,Normal,0,0,10,Exeggcute
+2748,Barrage,Normal,15,85,20,Exeggutor
+2749,Hypnosis,Psychic,0,60,20,Exeggutor
+2750,Stomp,Normal,65,100,20,Exeggutor
+2751,Toxic,Poison,0,85,10,Exeggutor
+2752,Take Down,Normal,90,85,20,Exeggutor
+2753,Double-Edge,Normal,100,100,15,Exeggutor
+2754,Hyper Beam,Normal,150,90,5,Exeggutor
+2755,Rage,Normal,20,100,20,Exeggutor
+2756,Mega Drain,Grass,40,100,10,Exeggutor
+2757,SolarBeam,Grass,120,100,10,Exeggutor
+2758,Psychic,Psychic,90,100,10,Exeggutor
+2759,Teleport,Psychic,0,0,20,Exeggutor
+2760,Mimic,Normal,0,100,10,Exeggutor
+2761,Double Team,Normal,0,0,15,Exeggutor
+2762,Reflect,Psychic,0,0,20,Exeggutor
+2763,Bide,Normal,0,0,10,Exeggutor
+2764,Selfdestruct,Normal,130,100,5,Exeggutor
+2765,Egg Bomb,Normal,100,75,10,Exeggutor
+2766,Rest,Psychic,0,0,10,Exeggutor
+2767,Psywave,Psychic,0,80,15,Exeggutor
+2768,Explosion,Normal,170,100,5,Exeggutor
+2769,Substitute,Normal,0,0,10,Exeggutor
+2770,Strength,Normal,80,100,15,Exeggutor
+2771,Growl,Normal,0,100,40,Cubone
+2772,Bone Club,Ground,65,85,20,Cubone
+2773,Tail Whip,Normal,0,100,30,Cubone
+2774,Headbutt,Normal,70,100,15,Cubone
+2775,Leer,Normal,0,100,30,Cubone
+2776,Focus Energy,Normal,0,101,30,Cubone
+2777,Thrash,Normal,90,100,20,Cubone
+2778,Bonemerang,Ground,50,90,10,Cubone
+2779,Rage,Normal,20,100,20,Cubone
+2780,Mega Punch,Normal,80,85,20,Cubone
+2781,Mega Kick,Normal,120,75,5,Cubone
+2782,Toxic,Poison,0,85,10,Cubone
+2783,Body Slam,Normal,85,100,15,Cubone
+2784,Take Down,Normal,90,85,20,Cubone
+2785,Double-Edge,Normal,100,100,15,Cubone
+2786,BubbleBeam,Water,65,100,20,Cubone
+2787,Water Gun,Water,40,100,25,Cubone
+2788,Ice Beam,Ice,95,100,10,Cubone
+2789,Blizzard,Ice,120,90,5,Cubone
+2790,Submission,Fighting,80,80,25,Cubone
+2791,Counter,Fighting,0,100,20,Cubone
+2792,Seismic Toss,Fighting,0,100,20,Cubone
+2793,Rage,Normal,20,100,20,Cubone
+2794,Earthquake,Ground,100,100,10,Cubone
+2795,Fissure,Ground,0,30,5,Cubone
+2796,Dig,Ground,100,100,10,Cubone
+2797,Mimic,Normal,0,100,10,Cubone
+2798,Double Team,Normal,0,0,15,Cubone
+2799,Bide,Normal,0,0,10,Cubone
+2800,Fire Blast,Fire,120,85,5,Cubone
+2801,Skull Bash,Normal,100,100,15,Cubone
+2802,Rest,Psychic,0,0,10,Cubone
+2803,Substitute,Normal,0,0,10,Cubone
+2804,Strength,Normal,80,100,15,Cubone
+2805,Bone Club,Ground,65,85,20,Marowak
+2806,Tail Whip,Normal,0,100,30,Marowak
+2807,Bone Club,Ground,65,85,20,Marowak
+2808,Tail Whip,Normal,0,100,30,Marowak
+2809,Headbutt,Normal,70,100,15,Marowak
+2810,Leer,Normal,0,100,30,Marowak
+2811,Focus Energy,Normal,0,101,30,Marowak
+2812,Thrash,Normal,90,100,20,Marowak
+2813,Bonemerang,Ground,50,90,10,Marowak
+2814,Rage,Normal,20,100,20,Marowak
+2815,Growl,Normal,0,100,40,Marowak
+2816,Leer,Normal,0,100,30,Marowak
+2817,Focus Energy,Normal,0,101,30,Marowak
+2818,Mega Punch,Normal,80,85,20,Marowak
+2819,Mega Kick,Normal,120,75,5,Marowak
+2820,Toxic,Poison,0,85,10,Marowak
+2821,Body Slam,Normal,85,100,15,Marowak
+2822,Take Down,Normal,90,85,20,Marowak
+2823,Double-Edge,Normal,100,100,15,Marowak
+2824,BubbleBeam,Water,65,100,20,Marowak
+2825,Water Gun,Water,40,100,25,Marowak
+2826,Ice Beam,Ice,95,100,10,Marowak
+2827,Blizzard,Ice,120,90,5,Marowak
+2828,Hyper Beam,Normal,150,90,5,Marowak
+2829,Submission,Fighting,80,80,25,Marowak
+2830,Counter,Fighting,0,100,20,Marowak
+2831,Seismic Toss,Fighting,0,100,20,Marowak
+2832,Rage,Normal,20,100,20,Marowak
+2833,Earthquake,Ground,100,100,10,Marowak
+2834,Fissure,Ground,0,30,5,Marowak
+2835,Dig,Ground,100,100,10,Marowak
+2836,Mimic,Normal,0,100,10,Marowak
+2837,Double Team,Normal,0,0,15,Marowak
+2838,Bide,Normal,0,0,10,Marowak
+2839,Fire Blast,Fire,120,85,5,Marowak
+2840,Skull Bash,Normal,100,100,15,Marowak
+2841,Rest,Psychic,0,0,10,Marowak
+2842,Substitute,Normal,0,0,10,Marowak
+2843,Strength,Normal,80,100,15,Marowak
+2844,Double Kick,Fighting,30,100,30,Hitmonlee
+2845,Meditate,Psychic,0,0,40,Hitmonlee
+2846,Rolling Kick,Fighting,60,85,15,Hitmonlee
+2847,Jump Kick,Fighting,70,95,25,Hitmonlee
+2848,Focus Energy,Normal,0,0,30,Hitmonlee
+2849,Hi Jump Kick,Fighting,85,90,20,Hitmonlee
+2850,Mega Kick,Normal,120,75,5,Hitmonlee
+2851,Mega Punch,Normal,80,85,20,Hitmonlee
+2852,Mega Kick,Normal,120,75,5,Hitmonlee
+2853,Toxic,Poison,0,85,10,Hitmonlee
+2854,Body Slam,Normal,85,100,15,Hitmonlee
+2855,Take Down,Normal,90,85,20,Hitmonlee
+2856,Double-Edge,Normal,100,100,15,Hitmonlee
+2857,Submission,Fighting,80,80,25,Hitmonlee
+2858,Counter,Fighting,0,100,20,Hitmonlee
+2859,Seismic Toss,Fighting,0,100,20,Hitmonlee
+2860,Rage,Normal,20,100,20,Hitmonlee
+2861,Mimic,Normal,0,100,10,Hitmonlee
+2862,Double Team,Normal,0,0,15,Hitmonlee
+2863,Bide,Normal,0,0,10,Hitmonlee
+2864,Metronome,Normal,0,0,10,Hitmonlee
+2865,Swift,Normal,60,0,20,Hitmonlee
+2866,Skull Bash,Normal,100,100,15,Hitmonlee
+2867,Rest,Psychic,0,0,10,Hitmonlee
+2868,Substitute,Normal,0,0,10,Hitmonlee
+2869,Strength,Normal,80,100,15,Hitmonlee
+2870,Comet Punch,Normal,18,85,15,Hitmonchan
+2871,Agility,Psychic,0,0,30,Hitmonchan
+2872,Fire Punch,Fire,75,100,15,Hitmonchan
+2873,Ice Punch,Ice,75,100,15,Hitmonchan
+2874,ThunderPunch,Electric,75,100,15,Hitmonchan
+2875,Mega Punch,Normal,80,85,20,Hitmonchan
+2876,Counter,Fighting,0,100,20,Hitmonchan
+2877,Mega Punch,Normal,80,85,20,Hitmonchan
+2878,Mega Kick,Normal,120,75,5,Hitmonchan
+2879,Toxic,Poison,0,85,10,Hitmonchan
+2880,Body Slam,Normal,85,100,15,Hitmonchan
+2881,Take Down,Normal,90,85,20,Hitmonchan
+2882,Double-Edge,Normal,100,100,15,Hitmonchan
+2883,Submission,Fighting,80,80,25,Hitmonchan
+2884,Counter,Fighting,0,100,20,Hitmonchan
+2885,Seismic Toss,Fighting,0,100,20,Hitmonchan
+2886,Rage,Normal,20,100,20,Hitmonchan
+2887,Mimic,Normal,0,100,10,Hitmonchan
+2888,Double Team,Normal,0,0,15,Hitmonchan
+2889,Bide,Normal,0,0,10,Hitmonchan
+2890,Metronome,Normal,0,0,10,Hitmonchan
+2891,Swift,Normal,60,0,20,Hitmonchan
+2892,Skull Bash,Normal,100,100,15,Hitmonchan
+2893,Rest,Psychic,0,0,10,Hitmonchan
+2894,Substitute,Normal,0,0,10,Hitmonchan
+2895,Strength,Normal,80,100,15,Hitmonchan
+2896,Wrap,Normal,15,85,20,Lickitung
+2897,Supersonic,Normal,0,55,20,Lickitung
+2898,Stomp,Normal,65,100,20,Lickitung
+2899,Disable,Normal,0,55,20,Lickitung
+2900,Defense Curl,Normal,0,0,40,Lickitung
+2901,Slam,Normal,80,75,20,Lickitung
+2902,Screech,Normal,0,85,40,Lickitung
+2903,Mega Punch,Normal,80,85,20,Lickitung
+2904,Swords Dance,Normal,0,0,30,Lickitung
+2905,Mega Kick,Normal,120,75,5,Lickitung
+2906,Toxic,Poison,0,85,10,Lickitung
+2907,Body Slam,Normal,85,100,15,Lickitung
+2908,Take Down,Normal,90,85,20,Lickitung
+2909,Double-Edge,Normal,100,100,15,Lickitung
+2910,BubbleBeam,Water,65,100,20,Lickitung
+2911,Water Gun,Water,40,100,25,Lickitung
+2912,Ice Beam,Ice,95,100,10,Lickitung
+2913,Blizzard,Ice,120,90,5,Lickitung
+2914,Hyper Beam,Normal,150,90,5,Lickitung
+2915,Submission,Fighting,80,80,25,Lickitung
+2916,Counter,Fighting,0,100,20,Lickitung
+2917,Seismic Toss,Fighting,0,100,20,Lickitung
+2918,Rage,Normal,20,100,20,Lickitung
+2919,Thunderbolt,Electric,95,100,15,Lickitung
+2920,Thunder,Electric,120,70,10,Lickitung
+2921,Earthquake,Ground,100,100,10,Lickitung
+2922,Fissure,Ground,0,30,5,Lickitung
+2923,Mimic,Normal,0,100,10,Lickitung
+2924,Double Team,Normal,0,0,15,Lickitung
+2925,Bide,Normal,0,0,10,Lickitung
+2926,Fire Blast,Fire,120,85,5,Lickitung
+2927,Skull Bash,Normal,100,100,15,Lickitung
+2928,Rest,Psychic,0,0,10,Lickitung
+2929,Substitute,Normal,0,0,10,Lickitung
+2930,Cut,Normal,50,95,30,Lickitung
+2931,Surf,Water,95,100,15,Lickitung
+2932,Strength,Normal,80,100,15,Lickitung
+2933,Tackle,Normal,35,95,35,Koffing
+2934,Smog,Poison,20,70,20,Koffing
+2935,Sludge,Poison,65,100,20,Koffing
+2936,SmokeScreen,Normal,0,100,20,Koffing
+2937,Selfdestruct,Normal,130,100,5,Koffing
+2938,Haze,Ice,0,0,30,Koffing
+2939,Explosion,Normal,170,100,5,Koffing
+2940,Toxic,Poison,0,85,10,Koffing
+2941,Rage,Normal,20,100,20,Koffing
+2942,Thunderbolt,Electric,95,100,15,Koffing
+2943,Thunder,Electric,120,70,10,Koffing
+2944,Mimic,Normal,0,100,10,Koffing
+2945,Double Team,Normal,0,0,15,Koffing
+2946,Bide,Normal,0,0,10,Koffing
+2947,Selfdestruct,Normal,130,100,5,Koffing
+2948,Fire Blast,Fire,120,85,5,Koffing
+2949,Rest,Psychic,0,0,10,Koffing
+2950,Explosion,Normal,170,100,5,Koffing
+2951,Substitute,Normal,0,0,10,Koffing
+2952,Tackle,Normal,35,95,35,Weezing
+2953,Smog,Poison,20,70,20,Weezing
+2954,Sludge,Poison,65,100,20,Weezing
+2955,Sludge,Poison,65,100,20,Weezing
+2956,SmokeScreen,Normal,0,100,20,Weezing
+2957,Selfdestruct,Normal,130,100,5,Weezing
+2958,Haze,Ice,0,0,30,Weezing
+2959,Explosion,Normal,170,100,5,Weezing
+2960,Toxic,Poison,0,85,10,Weezing
+2961,Hyper Beam,Normal,150,90,5,Weezing
+2962,Rage,Normal,20,100,20,Weezing
+2963,Thunderbolt,Electric,95,100,15,Weezing
+2964,Thunder,Electric,120,70,10,Weezing
+2965,Mimic,Normal,0,100,10,Weezing
+2966,Double Team,Normal,0,0,15,Weezing
+2967,Bide,Normal,0,0,10,Weezing
+2968,Selfdestruct,Normal,130,100,5,Weezing
+2969,Fire Blast,Fire,120,85,5,Weezing
+2970,Rest,Psychic,0,0,10,Weezing
+2971,Explosion,Normal,170,100,5,Weezing
+2972,Substitute,Normal,0,0,10,Weezing
+2973,Horn Attack,Normal,65,100,25,Rhyhorn
+2974,Stomp,Normal,65,100,20,Rhyhorn
+2975,Tail Whip,Normal,0,100,30,Rhyhorn
+2976,Fury Attack,Normal,15,85,20,Rhyhorn
+2977,Horn Drill,Normal,0,30,5,Rhyhorn
+2978,Leer,Normal,0,100,30,Rhyhorn
+2979,Take Down,Normal,90,85,20,Rhyhorn
+2980,Toxic,Poison,0,85,10,Rhyhorn
+2981,Horn Drill,Normal,0,30,5,Rhyhorn
+2982,Body Slam,Normal,85,100,15,Rhyhorn
+2983,Take Down,Normal,90,85,20,Rhyhorn
+2984,Double-Edge,Normal,100,100,15,Rhyhorn
+2985,Rage,Normal,20,100,20,Rhyhorn
+2986,Thunderbolt,Electric,95,100,15,Rhyhorn
+2987,Thunder,Electric,120,70,10,Rhyhorn
+2988,Earthquake,Ground,100,100,10,Rhyhorn
+2989,Fissure,Ground,0,30,5,Rhyhorn
+2990,Dig,Ground,100,100,10,Rhyhorn
+2991,Mimic,Normal,0,100,10,Rhyhorn
+2992,Double Team,Normal,0,0,15,Rhyhorn
+2993,Bide,Normal,0,0,10,Rhyhorn
+2994,Fire Blast,Fire,120,85,5,Rhyhorn
+2995,Skull Bash,Normal,100,100,15,Rhyhorn
+2996,Rest,Psychic,0,0,10,Rhyhorn
+2997,Rock Slide,Rock,75,90,10,Rhyhorn
+2998,Substitute,Normal,0,0,10,Rhyhorn
+2999,Strength,Normal,80,100,15,Rhyhorn
+3000,Horn Attack,Normal,65,100,25,Rhydon
+3001,Stomp,Normal,65,100,20,Rhydon
+3002,Tail Whip,Normal,0,100,30,Rhydon
+3003,Fury Attack,Normal,15,85,20,Rhydon
+3004,Stomp,Normal,65,100,20,Rhydon
+3005,Tail Whip,Normal,0,100,30,Rhydon
+3006,Fury Attack,Normal,15,85,20,Rhydon
+3007,Horn Drill,Normal,0,30,5,Rhydon
+3008,Leer,Normal,0,100,30,Rhydon
+3009,Take Down,Normal,90,85,20,Rhydon
+3010,Mega Punch,Normal,80,85,20,Rhydon
+3011,Mega Kick,Normal,120,75,5,Rhydon
+3012,Toxic,Poison,0,85,10,Rhydon
+3013,Horn Drill,Normal,0,30,5,Rhydon
+3014,Body Slam,Normal,85,100,15,Rhydon
+3015,Take Down,Normal,90,85,20,Rhydon
+3016,Double-Edge,Normal,100,100,15,Rhydon
+3017,BubbleBeam,Water,65,100,20,Rhydon
+3018,Water Gun,Water,40,100,25,Rhydon
+3019,Ice Beam,Ice,95,100,10,Rhydon
+3020,Blizzard,Ice,120,90,5,Rhydon
+3021,Hyper Beam,Normal,150,90,5,Rhydon
+3022,Pay Day,Normal,40,100,20,Rhydon
+3023,Submission,Fighting,80,80,25,Rhydon
+3024,Counter,Fighting,0,100,20,Rhydon
+3025,Seismic Toss,Fighting,0,100,20,Rhydon
+3026,Rage,Normal,20,100,20,Rhydon
+3027,Thunderbolt,Electric,95,100,15,Rhydon
+3028,Thunder,Electric,120,70,10,Rhydon
+3029,Earthquake,Ground,100,100,10,Rhydon
+3030,Fissure,Ground,0,30,5,Rhydon
+3031,Dig,Ground,100,100,10,Rhydon
+3032,Mimic,Normal,0,100,10,Rhydon
+3033,Double Team,Normal,0,0,15,Rhydon
+3034,Bide,Normal,0,0,10,Rhydon
+3035,Fire Blast,Fire,120,85,5,Rhydon
+3036,Skull Bash,Normal,100,100,15,Rhydon
+3037,Rest,Psychic,0,0,10,Rhydon
+3038,Rock Slide,Rock,75,90,10,Rhydon
+3039,Substitute,Normal,0,0,10,Rhydon
+3040,Surf,Water,95,100,15,Rhydon
+3041,Strength,Normal,80,100,15,Rhydon
+3042,Pound,Normal,40,100,35,Chansey
+3043,Tail Whip,Normal,0,100,30,Chansey
+3044,DoubleSlap,Normal,15,85,10,Chansey
+3045,Sing,Normal,0,55,15,Chansey
+3046,Growl,Normal,0,100,40,Chansey
+3047,Minimize,Normal,0,101,20,Chansey
+3048,Defense Curl,Normal,0,101,40,Chansey
+3049,Light Screen,Psychic,0,101,30,Chansey
+3050,Double-Edge,Normal,100,100,15,Chansey
+3051,Mega Punch,Normal,80,85,20,Chansey
+3052,Mega Kick,Normal,120,75,5,Chansey
+3053,Toxic,Poison,0,85,10,Chansey
+3054,Body Slam,Normal,85,100,15,Chansey
+3055,Take Down,Normal,90,85,20,Chansey
+3056,Double-Edge,Normal,100,100,15,Chansey
+3057,BubbleBeam,Water,65,100,20,Chansey
+3058,Water Gun,Water,40,100,25,Chansey
+3059,Ice Beam,Ice,95,100,10,Chansey
+3060,Blizzard,Ice,120,90,5,Chansey
+3061,Hyper Beam,Normal,150,90,5,Chansey
+3062,Submission,Fighting,80,80,25,Chansey
+3063,Counter,Fighting,0,100,20,Chansey
+3064,Seismic Toss,Fighting,0,100,20,Chansey
+3065,Rage,Normal,20,100,20,Chansey
+3066,SolarBeam,Grass,120,100,10,Chansey
+3067,Thunderbolt,Electric,95,100,15,Chansey
+3068,Thunder,Electric,120,70,10,Chansey
+3069,Psychic,Psychic,90,100,10,Chansey
+3070,Teleport,Psychic,0,0,20,Chansey
+3071,Mimic,Normal,0,100,10,Chansey
+3072,Double Team,Normal,0,0,15,Chansey
+3073,Reflect,Psychic,0,0,20,Chansey
+3074,Bide,Normal,0,0,10,Chansey
+3075,Metronome,Normal,0,0,10,Chansey
+3076,Egg Bomb,Normal,100,75,10,Chansey
+3077,Fire Blast,Fire,120,85,5,Chansey
+3078,Skull Bash,Normal,100,100,15,Chansey
+3079,Softboiled,Normal,0,0,10,Chansey
+3080,Rest,Psychic,0,0,10,Chansey
+3081,Thunder Wave,Electric,0,100,20,Chansey
+3082,Psywave,Psychic,0,80,15,Chansey
+3083,Tri Attack,Normal,80,100,10,Chansey
+3084,Substitute,Normal,0,0,10,Chansey
+3085,Strength,Normal,80,100,15,Chansey
+3086,Flash,Normal,0,70,20,Chansey
+3087,Constrict,Normal,10,100,35,Tangela
+3088,Bind,Normal,15,75,20,Tangela
+3089,Absorb,Grass,20,100,20,Tangela
+3090,Vine Whip,Grass,35,100,10,Tangela
+3091,PoisonPowder,Poison,0,75,35,Tangela
+3092,Stun Spore,Grass,0,75,30,Tangela
+3093,Sleep Powder,Grass,0,75,15,Tangela
+3094,Slam,Normal,80,75,20,Tangela
+3095,Growth,Normal,0,101,40,Tangela
+3096,Swords Dance,Normal,0,0,30,Tangela
+3097,Toxic,Poison,0,85,10,Tangela
+3098,Body Slam,Normal,85,100,15,Tangela
+3099,Take Down,Normal,90,85,20,Tangela
+3100,Double-Edge,Normal,100,100,15,Tangela
+3101,Hyper Beam,Normal,150,90,5,Tangela
+3102,Rage,Normal,20,100,20,Tangela
+3103,Mega Drain,Grass,40,100,10,Tangela
+3104,SolarBeam,Grass,120,100,10,Tangela
+3105,Mimic,Normal,0,100,10,Tangela
+3106,Double Team,Normal,0,0,15,Tangela
+3107,Bide,Normal,0,0,10,Tangela
+3108,Skull Bash,Normal,100,100,15,Tangela
+3109,Rest,Psychic,0,0,10,Tangela
+3110,Substitute,Normal,0,0,10,Tangela
+3111,Cut,Normal,50,95,30,Tangela
+3112,Comet Punch,Normal,18,85,15,Kangaskhan
+3113,Rage,Normal,20,100,20,Kangaskhan
+3114,Bite,Normal,60,100,25,Kangaskhan
+3115,Tail Whip,Normal,0,100,30,Kangaskhan
+3116,Mega Punch,Normal,80,85,20,Kangaskhan
+3117,Leer,Normal,0,100,30,Kangaskhan
+3118,Dizzy Punch,Normal,70,100,10,Kangaskhan
+3119,Mega Punch,Normal,80,85,20,Kangaskhan
+3120,Mega Kick,Normal,120,75,5,Kangaskhan
+3121,Toxic,Poison,0,85,10,Kangaskhan
+3122,Body Slam,Normal,85,100,15,Kangaskhan
+3123,Take Down,Normal,90,85,20,Kangaskhan
+3124,Double-Edge,Normal,100,100,15,Kangaskhan
+3125,BubbleBeam,Water,65,100,20,Kangaskhan
+3126,Water Gun,Water,40,100,25,Kangaskhan
+3127,Ice Beam,Ice,95,100,10,Kangaskhan
+3128,Blizzard,Ice,120,90,5,Kangaskhan
+3129,Hyper Beam,Normal,150,90,5,Kangaskhan
+3130,Submission,Fighting,80,80,25,Kangaskhan
+3131,Counter,Fighting,0,100,20,Kangaskhan
+3132,Seismic Toss,Fighting,0,100,20,Kangaskhan
+3133,Rage,Normal,20,100,20,Kangaskhan
+3134,Thunderbolt,Electric,95,100,15,Kangaskhan
+3135,Thunder,Electric,120,70,10,Kangaskhan
+3136,Earthquake,Ground,100,100,10,Kangaskhan
+3137,Fissure,Ground,0,30,5,Kangaskhan
+3138,Mimic,Normal,0,100,10,Kangaskhan
+3139,Double Team,Normal,0,0,15,Kangaskhan
+3140,Bide,Normal,0,0,10,Kangaskhan
+3141,Fire Blast,Fire,120,85,5,Kangaskhan
+3142,Skull Bash,Normal,100,100,15,Kangaskhan
+3143,Rest,Psychic,0,0,10,Kangaskhan
+3144,Rock Slide,Rock,75,90,10,Kangaskhan
+3145,Substitute,Normal,0,0,10,Kangaskhan
+3146,Surf,Water,95,100,15,Kangaskhan
+3147,Strength,Normal,80,100,15,Kangaskhan
+3148,Bubble,Water,20,100,30,Horsea
+3149,SmokeScreen,Normal,0,100,20,Horsea
+3150,Leer,Normal,0,100,30,Horsea
+3151,Water Gun,Water,40,100,25,Horsea
+3152,Agility,Psychic,0,0,30,Horsea
+3153,Hydro Pump,Water,120,80,5,Horsea
+3154,Toxic,Poison,0,85,10,Horsea
+3155,Take Down,Normal,90,85,20,Horsea
+3156,Double-Edge,Normal,100,100,15,Horsea
+3157,BubbleBeam,Water,65,100,20,Horsea
+3158,Water Gun,Water,40,100,25,Horsea
+3159,Ice Beam,Ice,95,100,10,Horsea
+3160,Blizzard,Ice,120,90,5,Horsea
+3161,Rage,Normal,20,100,20,Horsea
+3162,Mimic,Normal,0,100,10,Horsea
+3163,Double Team,Normal,0,0,15,Horsea
+3164,Bide,Normal,0,0,10,Horsea
+3165,Swift,Normal,60,0,20,Horsea
+3166,Skull Bash,Normal,100,100,15,Horsea
+3167,Rest,Psychic,0,0,10,Horsea
+3168,Substitute,Normal,0,0,10,Horsea
+3169,Surf,Water,95,100,15,Horsea
+3170,Bubble,Water,20,100,30,Seadra
+3171,SmokeScreen,Normal,0,100,20,Seadra
+3172,SmokeScreen,Normal,0,100,20,Seadra
+3173,Leer,Normal,0,100,30,Seadra
+3174,Water Gun,Water,40,100,25,Seadra
+3175,Agility,Psychic,0,0,30,Seadra
+3176,Hydro Pump,Water,120,80,5,Seadra
+3177,Toxic,Poison,0,85,10,Seadra
+3178,Take Down,Normal,90,85,20,Seadra
+3179,Double-Edge,Normal,100,100,15,Seadra
+3180,BubbleBeam,Water,65,100,20,Seadra
+3181,Water Gun,Water,40,100,25,Seadra
+3182,Ice Beam,Ice,95,100,10,Seadra
+3183,Blizzard,Ice,120,90,5,Seadra
+3184,Hyper Beam,Normal,150,90,5,Seadra
+3185,Rage,Normal,20,100,20,Seadra
+3186,Mimic,Normal,0,100,10,Seadra
+3187,Double Team,Normal,0,0,15,Seadra
+3188,Bide,Normal,0,0,10,Seadra
+3189,Swift,Normal,60,0,20,Seadra
+3190,Skull Bash,Normal,100,100,15,Seadra
+3191,Rest,Psychic,0,0,10,Seadra
+3192,Substitute,Normal,0,0,10,Seadra
+3193,Surf,Water,95,100,15,Seadra
+3194,Peck,Flying,35,100,35,Goldeen
+3195,Tail Whip,Normal,0,100,30,Goldeen
+3196,Supersonic,Normal,0,55,20,Goldeen
+3197,Horn Attack,Normal,65,100,25,Goldeen
+3198,Fury Attack,Normal,15,85,20,Goldeen
+3199,Waterfall,Water,80,100,15,Goldeen
+3200,Horn Drill,Normal,0,30,5,Goldeen
+3201,Agility,Psychic,0,0,30,Goldeen
+3202,Toxic,Poison,0,85,10,Goldeen
+3203,Horn Drill,Normal,0,30,5,Goldeen
+3204,Take Down,Normal,90,85,20,Goldeen
+3205,Double-Edge,Normal,100,100,15,Goldeen
+3206,BubbleBeam,Water,65,100,20,Goldeen
+3207,Water Gun,Water,40,100,25,Goldeen
+3208,Ice Beam,Ice,95,100,10,Goldeen
+3209,Blizzard,Ice,120,90,5,Goldeen
+3210,Rage,Normal,20,100,20,Goldeen
+3211,Mimic,Normal,0,100,10,Goldeen
+3212,Double Team,Normal,0,0,15,Goldeen
+3213,Bide,Normal,0,0,10,Goldeen
+3214,Swift,Normal,60,0,20,Goldeen
+3215,Skull Bash,Normal,100,100,15,Goldeen
+3216,Rest,Psychic,0,0,10,Goldeen
+3217,Substitute,Normal,0,0,10,Goldeen
+3218,Surf,Water,95,100,15,Goldeen
+3219,Peck,Flying,35,100,35,Seaking
+3220,Tail Whip,Normal,0,100,30,Seaking
+3221,Supersonic,Normal,0,55,20,Seaking
+3222,Supersonic,Normal,0,55,20,Seaking
+3223,Horn Attack,Normal,65,100,25,Seaking
+3224,Fury Attack,Normal,15,85,20,Seaking
+3225,Waterfall,Water,80,100,15,Seaking
+3226,Horn Drill,Normal,0,30,5,Seaking
+3227,Agility,Psychic,0,0,30,Seaking
+3228,Toxic,Poison,0,85,10,Seaking
+3229,Horn Drill,Normal,0,30,5,Seaking
+3230,Take Down,Normal,90,85,20,Seaking
+3231,Double-Edge,Normal,100,100,15,Seaking
+3232,BubbleBeam,Water,65,100,20,Seaking
+3233,Water Gun,Water,40,100,25,Seaking
+3234,Ice Beam,Ice,95,100,10,Seaking
+3235,Blizzard,Ice,120,90,5,Seaking
+3236,Hyper Beam,Normal,150,90,5,Seaking
+3237,Rage,Normal,20,100,20,Seaking
+3238,Mimic,Normal,0,100,10,Seaking
+3239,Double Team,Normal,0,0,15,Seaking
+3240,Bide,Normal,0,0,10,Seaking
+3241,Swift,Normal,60,0,20,Seaking
+3242,Skull Bash,Normal,100,100,15,Seaking
+3243,Rest,Psychic,0,0,10,Seaking
+3244,Substitute,Normal,0,0,10,Seaking
+3245,Surf,Water,95,100,15,Seaking
+3246,Tackle,Normal,35,95,35,Staryu
+3247,Water Gun,Water,40,100,25,Staryu
+3248,Harden,Normal,0,0,30,Staryu
+3249,Recover,Normal,0,0,20,Staryu
+3250,Swift,Normal,60,0,20,Staryu
+3251,Minimize,Normal,0,0,20,Staryu
+3252,Light Screen,Psychic,0,0,30,Staryu
+3253,Hydro Pump,Water,120,80,5,Staryu
+3254,Toxic,Poison,0,85,10,Staryu
+3255,Take Down,Normal,90,85,20,Staryu
+3256,Double-Edge,Normal,100,100,15,Staryu
+3257,BubbleBeam,Water,65,100,20,Staryu
+3258,Water Gun,Water,40,100,25,Staryu
+3259,Ice Beam,Ice,95,100,10,Staryu
+3260,Blizzard,Ice,120,90,5,Staryu
+3261,Rage,Normal,20,100,20,Staryu
+3262,Thunderbolt,Electric,95,100,15,Staryu
+3263,Thunder,Electric,120,70,10,Staryu
+3264,Psychic,Psychic,90,100,10,Staryu
+3265,Teleport,Psychic,0,0,20,Staryu
+3266,Mimic,Normal,0,100,10,Staryu
+3267,Double Team,Normal,0,0,15,Staryu
+3268,Reflect,Psychic,0,0,20,Staryu
+3269,Bide,Normal,0,0,10,Staryu
+3270,Swift,Normal,60,0,20,Staryu
+3271,Skull Bash,Normal,100,100,15,Staryu
+3272,Rest,Psychic,0,0,10,Staryu
+3273,Thunder Wave,Electric,0,100,20,Staryu
+3274,Psywave,Psychic,0,80,15,Staryu
+3275,Tri Attack,Normal,80,100,10,Staryu
+3276,Substitute,Normal,0,0,10,Staryu
+3277,Surf,Water,95,100,15,Staryu
+3278,Flash,Normal,0,70,20,Staryu
+3279,Tackle,Normal,35,95,35,Starmie
+3280,Water Gun,Water,40,100,25,Starmie
+3281,Harden,Normal,0,0,30,Starmie
+3282,Toxic,Poison,0,85,10,Starmie
+3283,Take Down,Normal,90,85,20,Starmie
+3284,Double-Edge,Normal,100,100,15,Starmie
+3285,BubbleBeam,Water,65,100,20,Starmie
+3286,Water Gun,Water,40,100,25,Starmie
+3287,Ice Beam,Ice,95,100,10,Starmie
+3288,Blizzard,Ice,120,90,5,Starmie
+3289,Hyper Beam,Normal,150,90,5,Starmie
+3290,Rage,Normal,20,100,20,Starmie
+3291,Thunderbolt,Electric,95,100,15,Starmie
+3292,Thunder,Electric,120,70,10,Starmie
+3293,Psychic,Psychic,90,100,10,Starmie
+3294,Teleport,Psychic,0,0,20,Starmie
+3295,Mimic,Normal,0,100,10,Starmie
+3296,Double Team,Normal,0,0,15,Starmie
+3297,Reflect,Psychic,0,0,20,Starmie
+3298,Bide,Normal,0,0,10,Starmie
+3299,Swift,Normal,60,0,20,Starmie
+3300,Skull Bash,Normal,100,100,15,Starmie
+3301,Rest,Psychic,0,0,10,Starmie
+3302,Thunder Wave,Electric,0,100,20,Starmie
+3303,Psywave,Psychic,0,80,15,Starmie
+3304,Tri Attack,Normal,80,100,10,Starmie
+3305,Substitute,Normal,0,0,10,Starmie
+3306,Surf,Water,95,100,15,Starmie
+3307,Flash,Normal,0,70,20,Starmie
+3308,Confusion,Psychic,50,100,25,Mr. Mime
+3309,Barrier,Psychic,0,0,30,Mr. Mime
+3310,Confusion,Psychic,50,100,25,Mr. Mime
+3311,Light Screen,Psychic,0,0,30,Mr. Mime
+3312,DoubleSlap,Normal,15,85,10,Mr. Mime
+3313,Meditate,Psychic,0,0,40,Mr. Mime
+3314,Substitute,Normal,0,0,10,Mr. Mime
+3315,Mega Punch,Normal,80,85,20,Mr. Mime
+3316,Mega Kick,Normal,120,75,5,Mr. Mime
+3317,Toxic,Poison,0,85,10,Mr. Mime
+3318,Body Slam,Normal,85,100,15,Mr. Mime
+3319,Take Down,Normal,90,85,20,Mr. Mime
+3320,Double-Edge,Normal,100,100,15,Mr. Mime
+3321,Hyper Beam,Normal,150,90,5,Mr. Mime
+3322,Submission,Fighting,80,80,25,Mr. Mime
+3323,Counter,Fighting,0,100,20,Mr. Mime
+3324,Seismic Toss,Fighting,0,100,20,Mr. Mime
+3325,Rage,Normal,20,100,20,Mr. Mime
+3326,SolarBeam,Grass,120,100,10,Mr. Mime
+3327,Thunderbolt,Electric,95,100,15,Mr. Mime
+3328,Thunder,Electric,120,70,10,Mr. Mime
+3329,Psychic,Psychic,90,100,10,Mr. Mime
+3330,Teleport,Psychic,0,0,20,Mr. Mime
+3331,Mimic,Normal,0,100,10,Mr. Mime
+3332,Double Team,Normal,0,0,15,Mr. Mime
+3333,Reflect,Psychic,0,0,20,Mr. Mime
+3334,Bide,Normal,0,0,10,Mr. Mime
+3335,Metronome,Normal,0,0,10,Mr. Mime
+3336,Skull Bash,Normal,100,100,15,Mr. Mime
+3337,Rest,Psychic,0,0,10,Mr. Mime
+3338,Thunder Wave,Electric,0,100,20,Mr. Mime
+3339,Psywave,Psychic,0,80,15,Mr. Mime
+3340,Substitute,Normal,0,0,10,Mr. Mime
+3341,Flash,Normal,0,70,20,Mr. Mime
+3342,Quick Attack,Normal,40,100,30,Scyther
+3343,Leer,Normal,0,100,30,Scyther
+3344,Focus Energy,Normal,0,101,30,Scyther
+3345,Double Team,Normal,0,101,15,Scyther
+3346,Slash,Normal,70,100,20,Scyther
+3347,Swords Dance,Normal,0,101,30,Scyther
+3348,Agility,Psychic,0,101,30,Scyther
+3349,Wing Attack,Flying,35,100,35,Scyther
+3350,Swords Dance,Normal,0,0,30,Scyther
+3351,Toxic,Poison,0,85,10,Scyther
+3352,Take Down,Normal,90,85,20,Scyther
+3353,Double-Edge,Normal,100,100,15,Scyther
+3354,Hyper Beam,Normal,150,90,5,Scyther
+3355,Rage,Normal,20,100,20,Scyther
+3356,Mimic,Normal,0,100,10,Scyther
+3357,Double Team,Normal,0,0,15,Scyther
+3358,Bide,Normal,0,0,10,Scyther
+3359,Swift,Normal,60,0,20,Scyther
+3360,Skull Bash,Normal,100,100,15,Scyther
+3361,Rest,Psychic,0,0,10,Scyther
+3362,Substitute,Normal,0,0,10,Scyther
+3363,Cut,Normal,50,95,30,Scyther
+3364,Pound,Normal,40,100,35,Jynx
+3365,Lovely Kiss,Normal,0,75,10,Jynx
+3366,Lick,Ghost,20,100,30,Jynx
+3367,DoubleSlap,Normal,15,85,10,Jynx
+3368,Ice Punch,Ice,75,100,15,Jynx
+3369,Body Slam,Normal,85,100,15,Jynx
+3370,Thrash,Normal,90,100,20,Jynx
+3371,Blizzard,Ice,120,90,5,Jynx
+3372,Mega Punch,Normal,80,85,20,Jynx
+3373,Mega Kick,Normal,120,75,5,Jynx
+3374,Toxic,Poison,0,85,10,Jynx
+3375,Body Slam,Normal,85,100,15,Jynx
+3376,Take Down,Normal,90,85,20,Jynx
+3377,Double-Edge,Normal,100,100,15,Jynx
+3378,BubbleBeam,Water,65,100,20,Jynx
+3379,Water Gun,Water,40,100,25,Jynx
+3380,Ice Beam,Ice,95,100,10,Jynx
+3381,Blizzard,Ice,120,90,5,Jynx
+3382,Hyper Beam,Normal,150,90,5,Jynx
+3383,Submission,Fighting,80,80,25,Jynx
+3384,Counter,Fighting,0,100,20,Jynx
+3385,Seismic Toss,Fighting,0,100,20,Jynx
+3386,Rage,Normal,20,100,20,Jynx
+3387,Psychic,Psychic,90,100,10,Jynx
+3388,Teleport,Psychic,0,0,20,Jynx
+3389,Mimic,Normal,0,100,10,Jynx
+3390,Double Team,Normal,0,0,15,Jynx
+3391,Reflect,Psychic,0,0,20,Jynx
+3392,Bide,Normal,0,0,10,Jynx
+3393,Metronome,Normal,0,0,10,Jynx
+3394,Skull Bash,Normal,100,100,15,Jynx
+3395,Rest,Psychic,0,0,10,Jynx
+3396,Psywave,Psychic,0,80,15,Jynx
+3397,Substitute,Normal,0,0,10,Jynx
+3398,Quick Attack,Normal,40,100,30,Electabuzz
+3399,Leer,Normal,0,100,30,Electabuzz
+3400,ThunderShock,Electric,40,100,30,Electabuzz
+3401,Screech,Normal,0,85,40,Electabuzz
+3402,ThunderPunch,Electric,75,100,15,Electabuzz
+3403,Light Screen,Psychic,0,0,30,Electabuzz
+3404,Thunder,Electric,120,70,10,Electabuzz
+3405,Mega Punch,Normal,80,85,20,Electabuzz
+3406,Mega Kick,Normal,120,75,5,Electabuzz
+3407,Toxic,Poison,0,85,10,Electabuzz
+3408,Body Slam,Normal,85,100,15,Electabuzz
+3409,Take Down,Normal,90,85,20,Electabuzz
+3410,Double-Edge,Normal,100,100,15,Electabuzz
+3411,Hyper Beam,Normal,150,90,5,Electabuzz
+3412,Submission,Fighting,80,80,25,Electabuzz
+3413,Counter,Fighting,0,100,20,Electabuzz
+3414,Seismic Toss,Fighting,0,100,20,Electabuzz
+3415,Rage,Normal,20,100,20,Electabuzz
+3416,Thunderbolt,Electric,95,100,15,Electabuzz
+3417,Thunder,Electric,120,70,10,Electabuzz
+3418,Psychic,Psychic,90,100,10,Electabuzz
+3419,Teleport,Psychic,0,0,20,Electabuzz
+3420,Mimic,Normal,0,100,10,Electabuzz
+3421,Double Team,Normal,0,0,15,Electabuzz
+3422,Reflect,Psychic,0,0,20,Electabuzz
+3423,Bide,Normal,0,0,10,Electabuzz
+3424,Metronome,Normal,0,0,10,Electabuzz
+3425,Swift,Normal,60,0,20,Electabuzz
+3426,Skull Bash,Normal,100,100,15,Electabuzz
+3427,Rest,Psychic,0,0,10,Electabuzz
+3428,Thunder Wave,Electric,0,100,20,Electabuzz
+3429,Psywave,Psychic,0,80,15,Electabuzz
+3430,Substitute,Normal,0,0,10,Electabuzz
+3431,Strength,Normal,80,100,15,Electabuzz
+3432,Flash,Normal,0,70,20,Electabuzz
+3433,Ember,Fire,40,100,25,Magmar
+3434,Leer,Normal,0,100,30,Magmar
+3435,Confuse Ray,Ghost,0,100,10,Magmar
+3436,Fire Punch,Fire,75,100,15,Magmar
+3437,SmokeScreen,Normal,0,100,20,Magmar
+3438,Smog,Poison,20,70,20,Magmar
+3439,Flamethrower,Fire,95,100,15,Magmar
+3440,Mega Punch,Normal,80,85,20,Magmar
+3441,Mega Kick,Normal,120,75,5,Magmar
+3442,Toxic,Poison,0,85,10,Magmar
+3443,Body Slam,Normal,85,100,15,Magmar
+3444,Take Down,Normal,90,85,20,Magmar
+3445,Double-Edge,Normal,100,100,15,Magmar
+3446,Hyper Beam,Normal,150,90,5,Magmar
+3447,Submission,Fighting,80,80,25,Magmar
+3448,Counter,Fighting,0,100,20,Magmar
+3449,Seismic Toss,Fighting,0,100,20,Magmar
+3450,Rage,Normal,20,100,20,Magmar
+3451,Psychic,Psychic,90,100,10,Magmar
+3452,Teleport,Psychic,0,0,20,Magmar
+3453,Mimic,Normal,0,100,10,Magmar
+3454,Double Team,Normal,0,0,15,Magmar
+3455,Bide,Normal,0,0,10,Magmar
+3456,Metronome,Normal,0,0,10,Magmar
+3457,Fire Blast,Fire,120,85,5,Magmar
+3458,Skull Bash,Normal,100,100,15,Magmar
+3459,Rest,Psychic,0,0,10,Magmar
+3460,Psywave,Psychic,0,80,15,Magmar
+3461,Substitute,Normal,0,0,10,Magmar
+3462,Strength,Normal,80,100,15,Magmar
+3463,ViceGrip,Normal,55,100,30,Pinsir
+3464,Bind,Normal,15,75,20,Pinsir
+3465,Seismic Toss,Fighting,0,100,20,Pinsir
+3466,Guillotine,Normal,0,30,5,Pinsir
+3467,Focus Energy,Normal,0,101,30,Pinsir
+3468,Harden,Normal,0,101,30,Pinsir
+3469,Slash,Normal,70,100,20,Pinsir
+3470,Swords Dance,Normal,0,101,30,Pinsir
+3471,Swords Dance,Normal,0,0,30,Pinsir
+3472,Toxic,Poison,0,85,10,Pinsir
+3473,Body Slam,Normal,85,100,15,Pinsir
+3474,Take Down,Normal,90,85,20,Pinsir
+3475,Double-Edge,Normal,100,100,15,Pinsir
+3476,Hyper Beam,Normal,150,90,5,Pinsir
+3477,Submission,Fighting,80,80,25,Pinsir
+3478,Seismic Toss,Fighting,0,100,20,Pinsir
+3479,Rage,Normal,20,100,20,Pinsir
+3480,Mimic,Normal,0,100,10,Pinsir
+3481,Double Team,Normal,0,0,15,Pinsir
+3482,Bide,Normal,0,0,10,Pinsir
+3483,Rest,Psychic,0,0,10,Pinsir
+3484,Substitute,Normal,0,0,10,Pinsir
+3485,Cut,Normal,50,95,30,Pinsir
+3486,Strength,Normal,80,100,15,Pinsir
+3487,Tackle,Normal,35,95,35,Tauros
+3488,Stomp,Normal,65,100,20,Tauros
+3489,Tail Whip,Normal,0,100,30,Tauros
+3490,Leer,Normal,0,100,30,Tauros
+3491,Rage,Normal,20,100,20,Tauros
+3492,Take Down,Normal,90,85,20,Tauros
+3493,Toxic,Poison,0,85,10,Tauros
+3494,Horn Drill,Normal,0,30,5,Tauros
+3495,Body Slam,Normal,85,100,15,Tauros
+3496,Take Down,Normal,90,85,20,Tauros
+3497,Double-Edge,Normal,100,100,15,Tauros
+3498,Ice Beam,Ice,95,100,10,Tauros
+3499,Blizzard,Ice,120,90,5,Tauros
+3500,Hyper Beam,Normal,150,90,5,Tauros
+3501,Rage,Normal,20,100,20,Tauros
+3502,Thunderbolt,Electric,95,100,15,Tauros
+3503,Thunder,Electric,120,70,10,Tauros
+3504,Earthquake,Ground,100,100,10,Tauros
+3505,Fissure,Ground,0,30,5,Tauros
+3506,Mimic,Normal,0,100,10,Tauros
+3507,Double Team,Normal,0,0,15,Tauros
+3508,Bide,Normal,0,0,10,Tauros
+3509,Fire Blast,Fire,120,85,5,Tauros
+3510,Skull Bash,Normal,100,100,15,Tauros
+3511,Rest,Psychic,0,0,10,Tauros
+3512,Substitute,Normal,0,0,10,Tauros
+3513,Strength,Normal,80,100,15,Tauros
+3514,Splash,Normal,0,0,40,Magikarp
+3515,Tackle,Normal,35,95,35,Magikarp
+3516,Tackle,Normal,35,95,35,Gyarados
+3517,Bite,Normal,60,100,25,Gyarados
+3518,Dragon Rage,Dragon,0,100,10,Gyarados
+3519,Leer,Normal,0,100,30,Gyarados
+3520,Hydro Pump,Water,120,80,5,Gyarados
+3521,Hyper Beam,Normal,150,90,5,Gyarados
+3522,Bite,Normal,60,100,25,Gyarados
+3523,Dragon Rage,Dragon,0,100,10,Gyarados
+3524,Leer,Normal,0,100,30,Gyarados
+3525,Hydro Pump,Water,120,80,5,Gyarados
+3526,Toxic,Poison,0,85,10,Gyarados
+3527,Body Slam,Normal,85,100,15,Gyarados
+3528,Take Down,Normal,90,85,20,Gyarados
+3529,Double-Edge,Normal,100,100,15,Gyarados
+3530,BubbleBeam,Water,65,100,20,Gyarados
+3531,Water Gun,Water,40,100,25,Gyarados
+3532,Ice Beam,Ice,95,100,10,Gyarados
+3533,Blizzard,Ice,120,90,5,Gyarados
+3534,Hyper Beam,Normal,150,90,5,Gyarados
+3535,Rage,Normal,20,100,20,Gyarados
+3536,Dragon Rage,Dragon,0,100,10,Gyarados
+3537,Thunderbolt,Electric,95,100,15,Gyarados
+3538,Thunder,Electric,120,70,10,Gyarados
+3539,Mimic,Normal,0,100,10,Gyarados
+3540,Double Team,Normal,0,0,15,Gyarados
+3541,Reflect,Psychic,0,0,20,Gyarados
+3542,Bide,Normal,0,0,10,Gyarados
+3543,Fire Blast,Fire,120,85,5,Gyarados
+3544,Skull Bash,Normal,100,100,15,Gyarados
+3545,Rest,Psychic,0,0,10,Gyarados
+3546,Substitute,Normal,0,0,10,Gyarados
+3547,Surf,Water,95,100,15,Gyarados
+3548,Strength,Normal,80,100,15,Gyarados
+3549,Water Gun,Water,40,100,25,Lapras
+3550,Growl,Normal,0,100,40,Lapras
+3551,Sing,Normal,0,55,15,Lapras
+3552,Mist,Ice,0,0,30,Lapras
+3553,Body Slam,Normal,85,100,15,Lapras
+3554,Confuse Ray,Ghost,0,100,10,Lapras
+3555,Ice Beam,Ice,95,100,10,Lapras
+3556,Hydro Pump,Water,120,80,5,Lapras
+3557,Toxic,Poison,0,85,10,Lapras
+3558,Horn Drill,Normal,0,30,5,Lapras
+3559,Body Slam,Normal,85,100,15,Lapras
+3560,Take Down,Normal,90,85,20,Lapras
+3561,Double-Edge,Normal,100,100,15,Lapras
+3562,BubbleBeam,Water,65,100,20,Lapras
+3563,Water Gun,Water,40,100,25,Lapras
+3564,Ice Beam,Ice,95,100,10,Lapras
+3565,Blizzard,Ice,120,90,5,Lapras
+3566,Hyper Beam,Normal,150,90,5,Lapras
+3567,Rage,Normal,20,100,20,Lapras
+3568,SolarBeam,Grass,120,100,10,Lapras
+3569,Dragon Rage,Dragon,0,100,10,Lapras
+3570,Thunderbolt,Electric,95,100,15,Lapras
+3571,Thunder,Electric,120,70,10,Lapras
+3572,Psychic,Psychic,90,100,10,Lapras
+3573,Mimic,Normal,0,100,10,Lapras
+3574,Double Team,Normal,0,0,15,Lapras
+3575,Reflect,Psychic,0,0,20,Lapras
+3576,Bide,Normal,0,0,10,Lapras
+3577,Skull Bash,Normal,100,100,15,Lapras
+3578,Rest,Psychic,0,0,10,Lapras
+3579,Psywave,Psychic,0,80,15,Lapras
+3580,Substitute,Normal,0,0,10,Lapras
+3581,Surf,Water,95,100,15,Lapras
+3582,Strength,Normal,80,100,15,Lapras
+3583,Transform,Normal,0,0,10,Ditto
+3584,Tackle,Normal,35,95,35,Eevee
+3585,Tail Whip,Normal,0,100,30,Eevee
+3586,Sand-Attack,Normal,0,100,15,Eevee
+3587,Growl,Normal,0,100,40,Eevee
+3588,Quick Attack,Normal,40,100,30,Eevee
+3589,Bite,Normal,60,100,25,Eevee
+3590,Focus Energy,Normal,0,101,30,Eevee
+3591,Take Down,Normal,90,85,20,Eevee
+3592,Toxic,Poison,0,85,10,Eevee
+3593,Body Slam,Normal,85,100,15,Eevee
+3594,Take Down,Normal,90,85,20,Eevee
+3595,Double-Edge,Normal,100,100,15,Eevee
+3596,Rage,Normal,20,100,20,Eevee
+3597,Mimic,Normal,0,100,10,Eevee
+3598,Double Team,Normal,0,0,15,Eevee
+3599,Reflect,Psychic,0,0,20,Eevee
+3600,Bide,Normal,0,0,10,Eevee
+3601,Swift,Normal,60,0,20,Eevee
+3602,Skull Bash,Normal,100,100,15,Eevee
+3603,Rest,Psychic,0,0,10,Eevee
+3604,Substitute,Normal,0,0,10,Eevee
+3605,Tackle,Normal,35,95,35,Vaporeon
+3606,Tail Whip,Normal,0,100,30,Vaporeon
+3607,Quick Attack,Normal,40,100,30,Vaporeon
+3608,Water Gun,Water,40,100,25,Vaporeon
+3609,Sand-Attack,Normal,0,100,15,Vaporeon
+3610,Water Gun,Water,40,100,25,Vaporeon
+3611,Quick Attack,Normal,40,100,30,Vaporeon
+3612,Bite,Normal,60,100,25,Vaporeon
+3613,Aurora Beam,Ice,65,100,20,Vaporeon
+3614,Haze,Ice,0,101,30,Vaporeon
+3615,Acid Armor,Poison,0,101,40,Vaporeon
+3616,Hydro Pump,Water,120,80,5,Vaporeon
+3617,Mist,Ice,0,101,30,Vaporeon
+3618,Toxic,Poison,0,85,10,Vaporeon
+3619,Body Slam,Normal,85,100,15,Vaporeon
+3620,Take Down,Normal,90,85,20,Vaporeon
+3621,Double-Edge,Normal,100,100,15,Vaporeon
+3622,BubbleBeam,Water,65,100,20,Vaporeon
+3623,Water Gun,Water,40,100,25,Vaporeon
+3624,Ice Beam,Ice,95,100,10,Vaporeon
+3625,Blizzard,Ice,120,90,5,Vaporeon
+3626,Hyper Beam,Normal,150,90,5,Vaporeon
+3627,Rage,Normal,20,100,20,Vaporeon
+3628,Mimic,Normal,0,100,10,Vaporeon
+3629,Double Team,Normal,0,0,15,Vaporeon
+3630,Reflect,Psychic,0,0,20,Vaporeon
+3631,Bide,Normal,0,0,10,Vaporeon
+3632,Swift,Normal,60,0,20,Vaporeon
+3633,Skull Bash,Normal,100,100,15,Vaporeon
+3634,Rest,Psychic,0,0,10,Vaporeon
+3635,Substitute,Normal,0,0,10,Vaporeon
+3636,Surf,Water,95,100,15,Vaporeon
+3637,Tackle,Normal,35,95,35,Jolteon
+3638,Tail Whip,Normal,0,100,30,Jolteon
+3639,Quick Attack,Normal,40,100,30,Jolteon
+3640,ThunderShock,Electric,40,100,30,Jolteon
+3641,Sand-Attack,Normal,0,100,15,Jolteon
+3642,ThunderShock,Electric,40,100,30,Jolteon
+3643,Quick Attack,Normal,40,100,30,Jolteon
+3644,Double Kick,Fighting,30,100,30,Jolteon
+3645,Pin Missile,Bug,14,85,20,Jolteon
+3646,Thunder Wave,Electric,0,100,20,Jolteon
+3647,Agility,Psychic,0,101,30,Jolteon
+3648,Thunder,Electric,120,70,10,Jolteon
+3649,Toxic,Poison,0,85,10,Jolteon
+3650,Body Slam,Normal,85,100,15,Jolteon
+3651,Take Down,Normal,90,85,20,Jolteon
+3652,Double-Edge,Normal,100,100,15,Jolteon
+3653,Hyper Beam,Normal,150,90,5,Jolteon
+3654,Rage,Normal,20,100,20,Jolteon
+3655,Thunderbolt,Electric,95,100,15,Jolteon
+3656,Thunder,Electric,120,70,10,Jolteon
+3657,Mimic,Normal,0,100,10,Jolteon
+3658,Double Team,Normal,0,0,15,Jolteon
+3659,Reflect,Psychic,0,0,20,Jolteon
+3660,Bide,Normal,0,0,10,Jolteon
+3661,Swift,Normal,60,0,20,Jolteon
+3662,Skull Bash,Normal,100,100,15,Jolteon
+3663,Rest,Psychic,0,0,10,Jolteon
+3664,Thunder Wave,Electric,0,100,20,Jolteon
+3665,Substitute,Normal,0,0,10,Jolteon
+3666,Flash,Normal,0,70,20,Jolteon
+3667,Tackle,Normal,35,95,35,Flareon
+3668,Tail Whip,Normal,0,100,30,Flareon
+3669,Quick Attack,Normal,40,100,30,Flareon
+3670,Ember,Fire,40,100,25,Flareon
+3671,Sand-Attack,Normal,0,100,15,Flareon
+3672,Ember,Fire,40,100,25,Flareon
+3673,Quick Attack,Normal,40,100,30,Flareon
+3674,Bite,Normal,60,100,25,Flareon
+3675,Fire Spin,Fire,15,70,15,Flareon
+3676,Smog,Poison,20,70,20,Flareon
+3677,Leer,Normal,0,100,30,Flareon
+3678,Rage,Normal,20,100,20,Flareon
+3679,Flamethrower,Fire,95,100,15,Flareon
+3680,Toxic,Poison,0,85,10,Flareon
+3681,Body Slam,Normal,85,100,15,Flareon
+3682,Take Down,Normal,90,85,20,Flareon
+3683,Double-Edge,Normal,100,100,15,Flareon
+3684,Hyper Beam,Normal,150,90,5,Flareon
+3685,Rage,Normal,20,100,20,Flareon
+3686,Mimic,Normal,0,100,10,Flareon
+3687,Double Team,Normal,0,0,15,Flareon
+3688,Reflect,Psychic,0,0,20,Flareon
+3689,Bide,Normal,0,0,10,Flareon
+3690,Fire Blast,Fire,120,85,5,Flareon
+3691,Swift,Normal,60,0,20,Flareon
+3692,Skull Bash,Normal,100,100,15,Flareon
+3693,Rest,Psychic,0,0,10,Flareon
+3694,Substitute,Normal,0,0,10,Flareon
+3695,Tackle,Normal,35,95,35,Porygon
+3696,Sharpen,Normal,0,0,30,Porygon
+3697,Conversion,Normal,0,0,30,Porygon
+3698,Psybeam,Psychic,65,100,20,Porygon
+3699,Recover,Normal,0,0,20,Porygon
+3700,Agility,Psychic,0,0,30,Porygon
+3701,Tri Attack,Normal,80,100,10,Porygon
+3702,Toxic,Poison,0,85,10,Porygon
+3703,Take Down,Normal,90,85,20,Porygon
+3704,Double-Edge,Normal,100,100,15,Porygon
+3705,Ice Beam,Ice,95,100,10,Porygon
+3706,Blizzard,Ice,120,90,5,Porygon
+3707,Hyper Beam,Normal,150,90,5,Porygon
+3708,Rage,Normal,20,100,20,Porygon
+3709,Thunderbolt,Electric,95,100,15,Porygon
+3710,Thunder,Electric,120,70,10,Porygon
+3711,Psychic,Psychic,90,100,10,Porygon
+3712,Teleport,Psychic,0,0,20,Porygon
+3713,Mimic,Normal,0,100,10,Porygon
+3714,Double Team,Normal,0,0,15,Porygon
+3715,Reflect,Psychic,0,0,20,Porygon
+3716,Bide,Normal,0,0,10,Porygon
+3717,Swift,Normal,60,0,20,Porygon
+3718,Skull Bash,Normal,100,100,15,Porygon
+3719,Rest,Psychic,0,0,10,Porygon
+3720,Thunder Wave,Electric,0,100,20,Porygon
+3721,Psywave,Psychic,0,80,15,Porygon
+3722,Tri Attack,Normal,80,100,10,Porygon
+3723,Substitute,Normal,0,0,10,Porygon
+3724,Flash,Normal,0,70,20,Porygon
+3725,Water Gun,Water,40,100,25,Omanyte
+3726,Withdraw,Water,0,0,40,Omanyte
+3727,Horn Attack,Normal,65,100,25,Omanyte
+3728,Leer,Normal,0,100,30,Omanyte
+3729,Spike Cannon,Normal,20,100,15,Omanyte
+3730,Hydro Pump,Water,120,80,5,Omanyte
+3731,Toxic,Poison,0,85,10,Omanyte
+3732,Body Slam,Normal,85,100,15,Omanyte
+3733,Take Down,Normal,90,85,20,Omanyte
+3734,Double-Edge,Normal,100,100,15,Omanyte
+3735,BubbleBeam,Water,65,100,20,Omanyte
+3736,Water Gun,Water,40,100,25,Omanyte
+3737,Ice Beam,Ice,95,100,10,Omanyte
+3738,Blizzard,Ice,120,90,5,Omanyte
+3739,Rage,Normal,20,100,20,Omanyte
+3740,Mimic,Normal,0,100,10,Omanyte
+3741,Double Team,Normal,0,0,15,Omanyte
+3742,Reflect,Psychic,0,0,20,Omanyte
+3743,Bide,Normal,0,0,10,Omanyte
+3744,Rest,Psychic,0,0,10,Omanyte
+3745,Substitute,Normal,0,0,10,Omanyte
+3746,Surf,Water,95,100,15,Omanyte
+3747,Water Gun,Water,40,100,25,Omastar
+3748,Withdraw,Water,0,0,40,Omastar
+3749,Horn Attack,Normal,65,100,25,Omastar
+3750,Horn Attack,Normal,65,100,25,Omastar
+3751,Leer,Normal,0,100,30,Omastar
+3752,Spike Cannon,Normal,20,100,15,Omastar
+3753,Hydro Pump,Water,120,80,5,Omastar
+3754,Toxic,Poison,0,85,10,Omastar
+3755,Horn Drill,Normal,0,30,5,Omastar
+3756,Body Slam,Normal,85,100,15,Omastar
+3757,Take Down,Normal,90,85,20,Omastar
+3758,Double-Edge,Normal,100,100,15,Omastar
+3759,BubbleBeam,Water,65,100,20,Omastar
+3760,Water Gun,Water,40,100,25,Omastar
+3761,Ice Beam,Ice,95,100,10,Omastar
+3762,Blizzard,Ice,120,90,5,Omastar
+3763,Hyper Beam,Normal,150,90,5,Omastar
+3764,Submission,Fighting,80,80,25,Omastar
+3765,Seismic Toss,Fighting,0,100,20,Omastar
+3766,Rage,Normal,20,100,20,Omastar
+3767,Mimic,Normal,0,100,10,Omastar
+3768,Double Team,Normal,0,0,15,Omastar
+3769,Reflect,Psychic,0,0,20,Omastar
+3770,Bide,Normal,0,0,10,Omastar
+3771,Skull Bash,Normal,100,100,15,Omastar
+3772,Rest,Psychic,0,0,10,Omastar
+3773,Substitute,Normal,0,0,10,Omastar
+3774,Surf,Water,95,100,15,Omastar
+3775,Scratch,Normal,40,100,35,Kabuto
+3776,Harden,Normal,0,0,30,Kabuto
+3777,Absorb,Grass,20,100,20,Kabuto
+3778,Slash,Normal,70,100,20,Kabuto
+3779,Leer,Normal,0,100,30,Kabuto
+3780,Hydro Pump,Water,120,80,5,Kabuto
+3781,Toxic,Poison,0,85,10,Kabuto
+3782,Body Slam,Normal,85,100,15,Kabuto
+3783,Take Down,Normal,90,85,20,Kabuto
+3784,Double-Edge,Normal,100,100,15,Kabuto
+3785,BubbleBeam,Water,65,100,20,Kabuto
+3786,Water Gun,Water,40,100,25,Kabuto
+3787,Ice Beam,Ice,95,100,10,Kabuto
+3788,Blizzard,Ice,120,90,5,Kabuto
+3789,Rage,Normal,20,100,20,Kabuto
+3790,Mimic,Normal,0,100,10,Kabuto
+3791,Double Team,Normal,0,0,15,Kabuto
+3792,Reflect,Psychic,0,0,20,Kabuto
+3793,Bide,Normal,0,0,10,Kabuto
+3794,Rest,Psychic,0,0,10,Kabuto
+3795,Substitute,Normal,0,0,10,Kabuto
+3796,Surf,Water,95,100,15,Kabuto
+3797,Scratch,Normal,40,100,35,Kabutops
+3798,Harden,Normal,0,0,30,Kabutops
+3799,Absorb,Grass,20,100,20,Kabutops
+3800,Absorb,Grass,20,100,20,Kabutops
+3801,Slash,Normal,70,100,20,Kabutops
+3802,Leer,Normal,0,100,30,Kabutops
+3803,Hydro Pump,Water,120,80,5,Kabutops
+3804,Razor Wind,Normal,80,75,10,Kabutops
+3805,Swords Dance,Normal,0,0,30,Kabutops
+3806,Mega Kick,Normal,120,75,5,Kabutops
+3807,Toxic,Poison,0,85,10,Kabutops
+3808,Body Slam,Normal,85,100,15,Kabutops
+3809,Take Down,Normal,90,85,20,Kabutops
+3810,Double-Edge,Normal,100,100,15,Kabutops
+3811,BubbleBeam,Water,65,100,20,Kabutops
+3812,Water Gun,Water,40,100,25,Kabutops
+3813,Ice Beam,Ice,95,100,10,Kabutops
+3814,Blizzard,Ice,120,90,5,Kabutops
+3815,Hyper Beam,Normal,150,90,5,Kabutops
+3816,Submission,Fighting,80,80,25,Kabutops
+3817,Seismic Toss,Fighting,0,100,20,Kabutops
+3818,Rage,Normal,20,100,20,Kabutops
+3819,Mimic,Normal,0,100,10,Kabutops
+3820,Double Team,Normal,0,0,15,Kabutops
+3821,Reflect,Psychic,0,0,20,Kabutops
+3822,Bide,Normal,0,0,10,Kabutops
+3823,Skull Bash,Normal,100,100,15,Kabutops
+3824,Rest,Psychic,0,0,10,Kabutops
+3825,Substitute,Normal,0,0,10,Kabutops
+3826,Cut,Normal,50,95,30,Kabutops
+3827,Surf,Water,95,100,15,Kabutops
+3828,Wing Attack,Flying,35,100,35,Aerodactyl
+3829,Agility,Psychic,0,0,30,Aerodactyl
+3830,Supersonic,Normal,0,55,20,Aerodactyl
+3831,Bite,Normal,60,100,25,Aerodactyl
+3832,Take Down,Normal,90,85,20,Aerodactyl
+3833,Hyper Beam,Normal,150,90,5,Aerodactyl
+3834,Razor Wind,Normal,80,75,10,Aerodactyl
+3835,Whirlwind,Normal,0,85,20,Aerodactyl
+3836,Toxic,Poison,0,85,10,Aerodactyl
+3837,Take Down,Normal,90,85,20,Aerodactyl
+3838,Double-Edge,Normal,100,100,15,Aerodactyl
+3839,Hyper Beam,Normal,150,90,5,Aerodactyl
+3840,Rage,Normal,20,100,20,Aerodactyl
+3841,Dragon Rage,Dragon,0,100,10,Aerodactyl
+3842,Mimic,Normal,0,100,10,Aerodactyl
+3843,Double Team,Normal,0,0,15,Aerodactyl
+3844,Reflect,Psychic,0,0,20,Aerodactyl
+3845,Bide,Normal,0,0,10,Aerodactyl
+3846,Fire Blast,Fire,120,85,5,Aerodactyl
+3847,Swift,Normal,60,0,20,Aerodactyl
+3848,Sky Attack,Flying,140,90,5,Aerodactyl
+3849,Rest,Psychic,0,0,10,Aerodactyl
+3850,Substitute,Normal,0,0,10,Aerodactyl
+3851,Fly,Flying,70,95,15,Aerodactyl
+3852,Headbutt,Normal,70,100,15,Snorlax
+3853,Amnesia,Psychic,0,0,20,Snorlax
+3854,Rest,Psychic,0,0,10,Snorlax
+3855,Body Slam,Normal,85,100,15,Snorlax
+3856,Harden,Normal,0,0,30,Snorlax
+3857,Double-Edge,Normal,100,100,15,Snorlax
+3858,Hyper Beam,Normal,150,90,5,Snorlax
+3859,Mega Punch,Normal,80,85,20,Snorlax
+3860,Mega Kick,Normal,120,75,5,Snorlax
+3861,Toxic,Poison,0,85,10,Snorlax
+3862,Body Slam,Normal,85,100,15,Snorlax
+3863,Take Down,Normal,90,85,20,Snorlax
+3864,Double-Edge,Normal,100,100,15,Snorlax
+3865,BubbleBeam,Water,65,100,20,Snorlax
+3866,Water Gun,Water,40,100,25,Snorlax
+3867,Ice Beam,Ice,95,100,10,Snorlax
+3868,Blizzard,Ice,120,90,5,Snorlax
+3869,Hyper Beam,Normal,150,90,5,Snorlax
+3870,Pay Day,Normal,40,100,20,Snorlax
+3871,Submission,Fighting,80,80,25,Snorlax
+3872,Counter,Fighting,0,100,20,Snorlax
+3873,Seismic Toss,Fighting,0,100,20,Snorlax
+3874,Rage,Normal,20,100,20,Snorlax
+3875,SolarBeam,Grass,120,100,10,Snorlax
+3876,Thunderbolt,Electric,95,100,15,Snorlax
+3877,Thunder,Electric,120,70,10,Snorlax
+3878,Earthquake,Ground,100,100,10,Snorlax
+3879,Fissure,Ground,0,30,5,Snorlax
+3880,Psychic,Psychic,90,100,10,Snorlax
+3881,Mimic,Normal,0,100,10,Snorlax
+3882,Double Team,Normal,0,0,15,Snorlax
+3883,Reflect,Psychic,0,0,20,Snorlax
+3884,Bide,Normal,0,0,10,Snorlax
+3885,Metronome,Normal,0,0,10,Snorlax
+3886,Selfdestruct,Normal,130,100,5,Snorlax
+3887,Fire Blast,Fire,120,85,5,Snorlax
+3888,Skull Bash,Normal,100,100,15,Snorlax
+3889,Rest,Psychic,0,0,10,Snorlax
+3890,Psywave,Psychic,0,80,15,Snorlax
+3891,Rock Slide,Rock,75,90,10,Snorlax
+3892,Substitute,Normal,0,0,10,Snorlax
+3893,Surf,Water,95,100,15,Snorlax
+3894,Strength,Normal,80,100,15,Snorlax
+3895,Peck,Flying,35,100,35,Articuno
+3896,Ice Beam,Ice,95,100,10,Articuno
+3897,Blizzard,Ice,120,90,5,Articuno
+3898,Agility,Psychic,0,0,30,Articuno
+3899,Mist,Ice,0,0,30,Articuno
+3900,Razor Wind,Normal,80,75,10,Articuno
+3901,Whirlwind,Normal,0,85,20,Articuno
+3902,Toxic,Poison,0,85,10,Articuno
+3903,Take Down,Normal,90,85,20,Articuno
+3904,Double-Edge,Normal,100,100,15,Articuno
+3905,BubbleBeam,Water,65,100,20,Articuno
+3906,Water Gun,Water,40,100,25,Articuno
+3907,Ice Beam,Ice,95,100,10,Articuno
+3908,Blizzard,Ice,120,90,5,Articuno
+3909,Hyper Beam,Normal,150,90,5,Articuno
+3910,Rage,Normal,20,100,20,Articuno
+3911,Mimic,Normal,0,100,10,Articuno
+3912,Double Team,Normal,0,0,15,Articuno
+3913,Reflect,Psychic,0,0,20,Articuno
+3914,Bide,Normal,0,0,10,Articuno
+3915,Swift,Normal,60,0,20,Articuno
+3916,Sky Attack,Flying,140,90,5,Articuno
+3917,Rest,Psychic,0,0,10,Articuno
+3918,Substitute,Normal,0,0,10,Articuno
+3919,Fly,Flying,70,95,15,Articuno
+3920,ThunderShock,Electric,40,100,30,Zapdos
+3921,Drill Peck,Flying,80,100,20,Zapdos
+3922,Thunder,Electric,120,70,10,Zapdos
+3923,Agility,Psychic,0,0,30,Zapdos
+3924,Light Screen,Psychic,0,0,30,Zapdos
+3925,Razor Wind,Normal,80,75,10,Zapdos
+3926,Whirlwind,Normal,0,85,20,Zapdos
+3927,Toxic,Poison,0,85,10,Zapdos
+3928,Take Down,Normal,90,85,20,Zapdos
+3929,Double-Edge,Normal,100,100,15,Zapdos
+3930,Hyper Beam,Normal,150,90,5,Zapdos
+3931,Rage,Normal,20,100,20,Zapdos
+3932,Thunderbolt,Electric,95,100,15,Zapdos
+3933,Thunder,Electric,120,70,10,Zapdos
+3934,Mimic,Normal,0,100,10,Zapdos
+3935,Double Team,Normal,0,0,15,Zapdos
+3936,Reflect,Psychic,0,0,20,Zapdos
+3937,Bide,Normal,0,0,10,Zapdos
+3938,Swift,Normal,60,0,20,Zapdos
+3939,Sky Attack,Flying,140,90,5,Zapdos
+3940,Rest,Psychic,0,0,10,Zapdos
+3941,Thunder Wave,Electric,0,100,20,Zapdos
+3942,Substitute,Normal,0,0,10,Zapdos
+3943,Fly,Flying,70,95,15,Zapdos
+3944,Flash,Normal,0,70,20,Zapdos
+3945,Peck,Flying,35,100,35,Moltres
+3946,Fire Spin,Fire,15,70,15,Moltres
+3947,Leer,Normal,0,100,30,Moltres
+3948,Agility,Psychic,0,0,30,Moltres
+3949,Sky Attack,Flying,140,90,5,Moltres
+3950,Razor Wind,Normal,80,75,10,Moltres
+3951,Whirlwind,Normal,0,85,20,Moltres
+3952,Toxic,Poison,0,85,10,Moltres
+3953,Take Down,Normal,90,85,20,Moltres
+3954,Double-Edge,Normal,100,100,15,Moltres
+3955,Hyper Beam,Normal,150,90,5,Moltres
+3956,Rage,Normal,20,100,20,Moltres
+3957,Mimic,Normal,0,100,10,Moltres
+3958,Double Team,Normal,0,0,15,Moltres
+3959,Reflect,Psychic,0,0,20,Moltres
+3960,Bide,Normal,0,0,10,Moltres
+3961,Fire Blast,Fire,120,85,5,Moltres
+3962,Swift,Normal,60,0,20,Moltres
+3963,Sky Attack,Flying,140,90,5,Moltres
+3964,Rest,Psychic,0,0,10,Moltres
+3965,Substitute,Normal,0,0,10,Moltres
+3966,Fly,Flying,70,95,15,Moltres
+3967,Wrap,Normal,15,85,20,Dratini
+3968,Leer,Normal,0,100,30,Dratini
+3969,Thunder Wave,Electric,0,100,20,Dratini
+3970,Agility,Psychic,0,0,30,Dratini
+3971,Slam,Normal,80,75,20,Dratini
+3972,Dragon Rage,Dragon,0,100,10,Dratini
+3973,Hyper Beam,Normal,150,90,5,Dratini
+3974,Toxic,Poison,0,85,10,Dratini
+3975,Body Slam,Normal,85,100,15,Dratini
+3976,Take Down,Normal,90,85,20,Dratini
+3977,Double-Edge,Normal,100,100,15,Dratini
+3978,BubbleBeam,Water,65,100,20,Dratini
+3979,Water Gun,Water,40,100,25,Dratini
+3980,Ice Beam,Ice,95,100,10,Dratini
+3981,Blizzard,Ice,120,90,5,Dratini
+3982,Rage,Normal,20,100,20,Dratini
+3983,Dragon Rage,Dragon,0,100,10,Dratini
+3984,Thunderbolt,Electric,95,100,15,Dratini
+3985,Thunder,Electric,120,70,10,Dratini
+3986,Mimic,Normal,0,100,10,Dratini
+3987,Double Team,Normal,0,0,15,Dratini
+3988,Reflect,Psychic,0,0,20,Dratini
+3989,Bide,Normal,0,0,10,Dratini
+3990,Fire Blast,Fire,120,85,5,Dratini
+3991,Swift,Normal,60,0,20,Dratini
+3992,Skull Bash,Normal,100,100,15,Dratini
+3993,Rest,Psychic,0,0,10,Dratini
+3994,Thunder Wave,Electric,0,100,20,Dratini
+3995,Substitute,Normal,0,0,10,Dratini
+3996,Surf,Water,95,100,15,Dratini
+3997,Wrap,Normal,15,85,20,Dragonair
+3998,Leer,Normal,0,100,30,Dragonair
+3999,Thunder Wave,Electric,0,100,20,Dragonair
+4000,Thunder Wave,Electric,0,100,20,Dragonair
+4001,Agility,Psychic,0,0,30,Dragonair
+4002,Slam,Normal,80,75,20,Dragonair
+4003,Dragon Rage,Dragon,0,100,10,Dragonair
+4004,Hyper Beam,Normal,150,90,5,Dragonair
+4005,Toxic,Poison,0,85,10,Dragonair
+4006,Horn Drill,Normal,0,30,5,Dragonair
+4007,Body Slam,Normal,85,100,15,Dragonair
+4008,Take Down,Normal,90,85,20,Dragonair
+4009,Double-Edge,Normal,100,100,15,Dragonair
+4010,BubbleBeam,Water,65,100,20,Dragonair
+4011,Water Gun,Water,40,100,25,Dragonair
+4012,Ice Beam,Ice,95,100,10,Dragonair
+4013,Blizzard,Ice,120,90,5,Dragonair
+4014,Rage,Normal,20,100,20,Dragonair
+4015,Dragon Rage,Dragon,0,100,10,Dragonair
+4016,Thunderbolt,Electric,95,100,15,Dragonair
+4017,Thunder,Electric,120,70,10,Dragonair
+4018,Mimic,Normal,0,100,10,Dragonair
+4019,Double Team,Normal,0,0,15,Dragonair
+4020,Reflect,Psychic,0,0,20,Dragonair
+4021,Bide,Normal,0,0,10,Dragonair
+4022,Fire Blast,Fire,120,85,5,Dragonair
+4023,Swift,Normal,60,0,20,Dragonair
+4024,Skull Bash,Normal,100,100,15,Dragonair
+4025,Rest,Psychic,0,0,10,Dragonair
+4026,Thunder Wave,Electric,0,100,20,Dragonair
+4027,Substitute,Normal,0,0,10,Dragonair
+4028,Surf,Water,95,100,15,Dragonair
+4029,Wrap,Normal,15,85,20,Dragonite
+4030,Leer,Normal,0,100,30,Dragonite
+4031,Thunder Wave,Electric,0,100,20,Dragonite
+4032,Agility,Psychic,0,0,30,Dragonite
+4033,Thunder Wave,Electric,0,100,20,Dragonite
+4034,Agility,Psychic,0,0,30,Dragonite
+4035,Slam,Normal,80,75,20,Dragonite
+4036,Dragon Rage,Dragon,0,100,10,Dragonite
+4037,Hyper Beam,Normal,150,90,5,Dragonite
+4038,Razor Wind,Normal,80,75,10,Dragonite
+4039,Toxic,Poison,0,85,10,Dragonite
+4040,Horn Drill,Normal,0,30,5,Dragonite
+4041,Body Slam,Normal,85,100,15,Dragonite
+4042,Take Down,Normal,90,85,20,Dragonite
+4043,Double-Edge,Normal,100,100,15,Dragonite
+4044,BubbleBeam,Water,65,100,20,Dragonite
+4045,Water Gun,Water,40,100,25,Dragonite
+4046,Ice Beam,Ice,95,100,10,Dragonite
+4047,Blizzard,Ice,120,90,5,Dragonite
+4048,Hyper Beam,Normal,150,90,5,Dragonite
+4049,Rage,Normal,20,100,20,Dragonite
+4050,Dragon Rage,Dragon,0,100,10,Dragonite
+4051,Thunderbolt,Electric,95,100,15,Dragonite
+4052,Thunder,Electric,120,70,10,Dragonite
+4053,Mimic,Normal,0,100,10,Dragonite
+4054,Double Team,Normal,0,0,15,Dragonite
+4055,Reflect,Psychic,0,0,20,Dragonite
+4056,Bide,Normal,0,0,10,Dragonite
+4057,Fire Blast,Fire,120,85,5,Dragonite
+4058,Swift,Normal,60,0,20,Dragonite
+4059,Skull Bash,Normal,100,100,15,Dragonite
+4060,Rest,Psychic,0,0,10,Dragonite
+4061,Thunder Wave,Electric,0,100,20,Dragonite
+4062,Substitute,Normal,0,0,10,Dragonite
+4063,Surf,Water,95,100,15,Dragonite
+4064,Strength,Normal,80,100,15,Dragonite
+4065,Confusion,Psychic,50,100,25,Mewtwo
+4066,Disable,Normal,0,55,20,Mewtwo
+4067,Swift,Normal,60,0,20,Mewtwo
+4068,Psychic,Psychic,90,100,10,Mewtwo
+4069,Barrier,Psychic,0,0,30,Mewtwo
+4070,Psychic,Psychic,90,100,10,Mewtwo
+4071,Recover,Normal,0,0,20,Mewtwo
+4072,Mist,Ice,0,0,30,Mewtwo
+4073,Amnesia,Psychic,0,0,20,Mewtwo
+4074,Mega Punch,Normal,80,85,20,Mewtwo
+4075,Mega Kick,Normal,120,75,5,Mewtwo
+4076,Toxic,Poison,0,85,10,Mewtwo
+4077,Body Slam,Normal,85,100,15,Mewtwo
+4078,Take Down,Normal,90,85,20,Mewtwo
+4079,Double-Edge,Normal,100,100,15,Mewtwo
+4080,BubbleBeam,Water,65,100,20,Mewtwo
+4081,Water Gun,Water,40,100,25,Mewtwo
+4082,Ice Beam,Ice,95,100,10,Mewtwo
+4083,Blizzard,Ice,120,90,5,Mewtwo
+4084,Hyper Beam,Normal,150,90,5,Mewtwo
+4085,Pay Day,Normal,40,100,20,Mewtwo
+4086,Submission,Fighting,80,80,25,Mewtwo
+4087,Counter,Fighting,0,100,20,Mewtwo
+4088,Seismic Toss,Fighting,0,100,20,Mewtwo
+4089,Rage,Normal,20,100,20,Mewtwo
+4090,SolarBeam,Grass,120,100,10,Mewtwo
+4091,Thunderbolt,Electric,95,100,15,Mewtwo
+4092,Thunder,Electric,120,70,10,Mewtwo
+4093,Psychic,Psychic,90,100,10,Mewtwo
+4094,Teleport,Psychic,0,0,20,Mewtwo
+4095,Mimic,Normal,0,100,10,Mewtwo
+4096,Double Team,Normal,0,0,15,Mewtwo
+4097,Reflect,Psychic,0,0,20,Mewtwo
+4098,Bide,Normal,0,0,10,Mewtwo
+4099,Metronome,Normal,0,0,10,Mewtwo
+4100,Selfdestruct,Normal,130,100,5,Mewtwo
+4101,Fire Blast,Fire,120,85,5,Mewtwo
+4102,Skull Bash,Normal,100,100,15,Mewtwo
+4103,Rest,Psychic,0,0,10,Mewtwo
+4104,Thunder Wave,Electric,0,100,20,Mewtwo
+4105,Psywave,Psychic,0,80,15,Mewtwo
+4106,Tri Attack,Normal,80,100,10,Mewtwo
+4107,Substitute,Normal,0,0,10,Mewtwo
+4108,Strength,Normal,80,100,15,Mewtwo
+4109,Flash,Normal,0,70,20,Mewtwo
+4110,Pound,Normal,40,100,35,Mew
+4111,Transform,Normal,0,0,10,Mew
+4112,Mega Punch,Normal,80,85,20,Mew
+4113,Metronome,Normal,0,0,10,Mew
+4114,Psychic,Psychic,90,100,10,Mew
+4115,Mega Punch,Normal,80,85,20,Mew
+4116,Razor Wind,Normal,80,75,10,Mew
+4117,Swords Dance,Normal,0,0,30,Mew
+4118,Whirlwind,Normal,0,85,20,Mew
+4119,Mega Kick,Normal,120,75,5,Mew
+4120,Toxic,Poison,0,85,10,Mew
+4121,Horn Drill,Normal,0,30,5,Mew
+4122,Body Slam,Normal,85,100,15,Mew
+4123,Take Down,Normal,90,85,20,Mew
+4124,Double-Edge,Normal,100,100,15,Mew
+4125,BubbleBeam,Water,65,100,20,Mew
+4126,Water Gun,Water,40,100,25,Mew
+4127,Ice Beam,Ice,95,100,10,Mew
+4128,Blizzard,Ice,120,90,5,Mew
+4129,Hyper Beam,Normal,150,90,5,Mew
+4130,Pay Day,Normal,40,100,20,Mew
+4131,Submission,Fighting,80,80,25,Mew
+4132,Counter,Fighting,0,100,20,Mew
+4133,Seismic Toss,Fighting,0,100,20,Mew
+4134,Rage,Normal,20,100,20,Mew
+4135,Mega Drain,Grass,40,100,10,Mew
+4136,SolarBeam,Grass,120,100,10,Mew
+4137,Dragon Rage,Dragon,0,100,10,Mew
+4138,Thunderbolt,Electric,95,100,15,Mew
+4139,Thunder,Electric,120,70,10,Mew
+4140,Earthquake,Ground,100,100,10,Mew
+4141,Fissure,Ground,0,30,5,Mew
+4142,Dig,Ground,100,100,10,Mew
+4143,Psychic,Psychic,90,100,10,Mew
+4144,Teleport,Psychic,0,0,20,Mew
+4145,Mimic,Normal,0,100,10,Mew
+4146,Double Team,Normal,0,0,15,Mew
+4147,Reflect,Psychic,0,0,20,Mew
+4148,Bide,Normal,0,0,10,Mew
+4149,Metronome,Normal,0,0,10,Mew
+4150,Selfdestruct,Normal,130,100,5,Mew
+4151,Egg Bomb,Normal,100,75,10,Mew
+4152,Fire Blast,Fire,120,85,5,Mew
+4153,Swift,Normal,60,0,20,Mew
+4154,Skull Bash,Normal,100,100,15,Mew
+4155,Softboiled,Normal,0,0,10,Mew
+4156,Dream Eater,Psychic,100,100,15,Mew
+4157,Sky Attack,Flying,140,90,5,Mew
+4158,Rest,Psychic,0,0,10,Mew
+4159,Thunder Wave,Electric,0,100,20,Mew
+4160,Psywave,Psychic,0,80,15,Mew
+4161,Explosion,Normal,170,100,5,Mew
+4162,Rock Slide,Rock,75,90,10,Mew
+4163,Tri Attack,Normal,80,100,10,Mew
+4164,Substitute,Normal,0,0,10,Mew
+4165,Cut,Normal,50,95,30,Mew
+4166,Fly,Flying,70,95,15,Mew
+4167,Surf,Water,95,100,15,Mew
+4168,Strength,Normal,80,100,15,Mew
+4169,Flash,Normal,0,70,20,Mew
